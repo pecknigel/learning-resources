@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Prescription Free Academy
 description: Bookmark this to have all of the links for the academy nearby.
+github:
+  is_project_page: true
