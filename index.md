@@ -4,15 +4,15 @@
 
 Calculator Practice Project    
 [Code](https://github.com/pecknigel/calculator-practice-project)
-[Issues](https://github.com/pecknigel/calculator-practice-project/issues)
+• [Issues](https://github.com/pecknigel/calculator-practice-project/issues)
 
 Exchange Tickers Practice Project    
 [Code](https://github.com/pecknigel/exchange-tickers-practice-project)
-[Issues](https://github.com/pecknigel/exchange-tickers-practice-project/issues)
+• [Issues](https://github.com/pecknigel/exchange-tickers-practice-project/issues)
 
 Trading Prices Widget Practice Project    
 [Code](https://github.com/pecknigel/trading-prices-widget-practice-project)
-[Issues](https://github.com/pecknigel/trading-prices-widget-practice-project/issues)
+• [Issues](https://github.com/pecknigel/trading-prices-widget-practice-project/issues)
 
 ## Learning Projects
 
@@ -27,7 +27,7 @@ CSS Flexbox Learning Project
 Open Fruit Machine    
 [Code](https://github.com/pecknigel/open-fruit-machine)
 
-## Collaborative Learning Projects
+## Trading Exchange Collaborative Learning Program
 
 Trading Exchange Collaborative Learning Program    
 [Code](https://github.com/pecknigel/trading-exchange-collaborative-learning)
