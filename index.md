@@ -3,39 +3,39 @@
 ## Practice Projects
 
 Calculator Practice Project    
-https://github.com/pecknigel/calculator-practice-project
+[GitHub: pecknigel/calculator-practice-project](https://github.com/pecknigel/calculator-practice-project)
 
 Exchange Tickers Practice Project    
-https://github.com/pecknigel/exchange-tickers-practice-project
+[GitHub: pecknigel/exchange-tickers-practice-project](https://github.com/pecknigel/exchange-tickers-practice-project)
 
 Trading Prices Widget Practice Project    
-https://github.com/pecknigel/trading-prices-widget-practice-project
+[GitHub: pecknigel/trading-prices-widget-practice-project](https://github.com/pecknigel/trading-prices-widget-practice-project)
 
 ## Learning Projects
 
 Semantic HTML Learning Project    
-https://github.com/pecknigel/semantic-html-learning-project
+[GitHub: pecknigel/semantic-html-learning-project](https://github.com/pecknigel/semantic-html-learning-project)
 
 CSS Flexbox Learning Project    
-https://github.com/pecknigel/css-flexbox-learning-project
+[GitHub: pecknigel/css-flexbox-learning-project](https://github.com/pecknigel/css-flexbox-learning-project)
 
 ## Open Source Projects
 
 Open Fruit Machine    
-https://github.com/pecknigel/open-fruit-machine
+[GitHub: pecknigel/open-fruit-machine](https://github.com/pecknigel/open-fruit-machine)
 
 ## Collaborative Learning Projects
 
 Trading Exchange Collaborative Learning Program    
-https://github.com/pecknigel/trading-exchange-collaborative-learning
+[GitHub: pecknigel/trading-exchange-collaborative-learning](https://github.com/pecknigel/trading-exchange-collaborative-learning)
 
 ### Trading Exchange Implementations
 
 Open Exchange Tickers    
-https://github.com/pecknigel/open-exchange-tickers
+[GitHub: pecknigel/open-exchange-tickers](https://github.com/pecknigel/open-exchange-tickers)
 
 Open Exchange Connector    
-https://github.com/pecknigel/open-exchange-connector
+[GitHub: pecknigel/open-exchange-connector](https://github.com/pecknigel/open-exchange-connector)
 
 Open Exchange Data    
-https://github.com/pecknigel/open-exchange-data
+[GitHub: pecknigel/open-exchange-data](https://github.com/pecknigel/open-exchange-data)
