@@ -19,6 +19,11 @@ https://github.com/pecknigel/semantic-html-learning-project
 CSS Flexbox Learning Project    
 https://github.com/pecknigel/css-flexbox-learning-project
 
+## Open Source Projects
+
+Open Fruit Machine    
+https://github.com/pecknigel/open-fruit-machine
+
 ## Collaborative Learning Projects
 
 Trading Exchange Collaborative Learning Program    
