@@ -1,4 +1,4 @@
-# Repositories
+# All Repositories
 
 This page features all of the available repositories from [Prescription Free Academy](https://prescriptionfree.academy/). There are links to the README to get started, the files themselves and the issues (if any) for each repository.
 
