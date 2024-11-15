@@ -10,6 +10,7 @@ It can be handy to bookmark this page. It’s updated as things change.
 [Start Here](https://github.com/pecknigel/calculator-practice-project/blob/main/README.md)
 • [Files](https://github.com/pecknigel/calculator-practice-project)
 • [Issues](https://github.com/pecknigel/calculator-practice-project/issues)
+• [Commits](https://github.com/pecknigel/calculator-practice-project/commits/main/)
 
 **Exchange Tickers Practice Project**    
 [Start Here](https://github.com/pecknigel/exchange-tickers-practice-project/blob/main/README.md)
