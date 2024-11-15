@@ -21,7 +21,8 @@
 • [Issues](https://github.com/pecknigel/semantic-html-learning-project/issues)
 
 **CSS Flexbox Learning Project**    
-[Start Here](https://github.com/pecknigel/css-flexbox-learning-project)
+[Start Here](https://github.com/pecknigel/css-flexbox-learning-project/blob/main/README.md)
+• [Code](https://github.com/pecknigel/css-flexbox-learning-project)
 • [Issues](https://github.com/pecknigel/css-flexbox-learning-project/issues)
 
 ## Open Source Projects
