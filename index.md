@@ -1,8 +1,8 @@
 # Repositories
 
-This page features all of the available repositories from [Prescription Free Academy](https://prescriptionfree.academy/). There are links to the README file, the code and the issues (if any) for each repository.
+This page features all of the available repositories from [Prescription Free Academy](https://prescriptionfree.academy/). There are links to the README to get started, the files themselves and the issues (if any) for each repository.
 
-It can be handy to bookmark so that you can easily find everything.
+It can be handy to bookmark this page so that you can easily find everything.
 
 ## Practice Projects
 
