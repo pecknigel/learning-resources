@@ -1,5 +1,9 @@
 # Repositories
 
+This page features all of the available repositories from Prescription Free Academy. There are links to the README, the code and the issues (if any).
+
+It can be handy to bookmark so you can easily find what you’re looking for.
+
 ## Practice Projects
 
 **Calculator Practice Project**    
