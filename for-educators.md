@@ -48,6 +48,10 @@ Of course that’s involved, but the real skill is in learning to craft software
 
 More coming on this soon. Publishing as I go.
 
+### Get with the Program
+
+It’s essential to stay engaged. You’re not going to learn by sitting back and being fed instructions. You’re going to have to make it happen yourself. This is not schooling.
+
 ...
 
 More on the way. Currently writing in November, 2024.
