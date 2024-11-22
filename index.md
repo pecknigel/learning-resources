@@ -13,6 +13,8 @@ This page features all of the available learning initiatives from [Prescription 
 
 It can be handy to bookmark this page. It’s updated as things change.
 
+---
+
 ## Practice Projects
 
 Gain experience creating real applications using web technologies. A great way to start pulling things together if you’ve already picked up some of the basics.
@@ -35,6 +37,8 @@ Gain experience creating real applications using web technologies. A great way t
 • [Issues](https://github.com/pecknigel/trading-prices-widget-practice-project/issues)
 • [Commits](https://github.com/pecknigel/trading-prices-widget-practice-project/commits/main/)
 
+---
+
 ## Learning Projects
 
 Projects with lots of detail to focus on learning a particular topic.
@@ -51,6 +55,8 @@ Projects with lots of detail to focus on learning a particular topic.
 • [Issues](https://github.com/pecknigel/css-flexbox-learning-project/issues)
 • [Commits](https://github.com/pecknigel/css-flexbox-learning-project/commits/main/)
 
+---
+ 
 ## Coding Practice
 
 Collections of practice tasks to improve your coding skills and start learning techniques to craft software.
@@ -58,6 +64,8 @@ Collections of practice tasks to improve your coding skills and start learning t
 **The Big Three: Arrays, Objects and Collections**    
 [Currently in Production]
 
+---
+ 
 ## Open Source Projects
 
 Get involved in our open source projects. Very limited guidance here. Find your own way.
@@ -68,6 +76,8 @@ Get involved in our open source projects. Very limited guidance here. Find your 
 • [Issues](https://github.com/pecknigel/open-fruit-machine/issues)
 • [Commits](https://github.com/pecknigel/open-fruit-machine/commits/main/)
 
+---
+ 
 ## Collaborative Learning Programs
 
 Our pièce de résistance. Gain experience in a real working environment lead by an experienced lead engineer. This is just getting started and we’re excited about the possibilities. A second program is coming soon (building a web framework). All programs here require a substantial time commitment to get real value. If you don’t have the time, a practice or open source project is likely a better choice.
