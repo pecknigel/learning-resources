@@ -19,6 +19,10 @@ Complete the CSS Flexbox Learning Project.
 
 Improve the CSS section of the [online resources](/resources) page.
 
+Write [class notes](/class-notes) for CSS selectors. Using pseudo-selectors to avoid excessive identifiers. Research the topic and work with Nigel to create the notes.
+
+Write [class notes](/class-notes) for methods to add CSS to HTML. Research the topic and work with Nigel to create the notes.
+
 ## HTML
 
 Complete setting up the Semantic HTML Learning Project.
