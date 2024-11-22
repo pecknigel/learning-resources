@@ -80,7 +80,9 @@ Get involved in our open source projects. Very limited guidance here. Find your 
  
 ## Collaborative Learning Programs
 
-Our pièce de résistance. Gain experience in a real working environment lead by an experienced lead engineer. This is just getting started and we’re excited about the possibilities. A second program is coming soon (building a web framework). All programs here require a substantial time commitment to get real value. If you don’t have the time, a practice or open source project is likely a better choice.
+Our pièce de résistance. Gain experience in a real working environment lead by an experienced lead engineer. This is just getting started and we’re excited about the possibilities.
+
+A second program is coming soon (building a web framework). All programs here require a substantial time commitment to get real value. If you don’t a few hours minimum per week, a practice or open source project is likely a better choice.
 
 ### Trading Exchange Collaborative Learning Program
 
