@@ -26,8 +26,14 @@ It’s not intended to be comprehensive although in time it may be.
 
 There’s no prescription here. The name wasn’t chosen by accident. Everyone learns their own way and that’s important. Creativity is important. The imagination is important.
 
-If that’s lost of ignored, you’ll never be all that you can be.
+If that’s lost or ignored, you’ll never be all that you can be. You’ll never be the software engineer that you could be.
 
 It’s not about how you code, it’s about the way that you approach it. And it needs to be your own.
+
+### Build from the Ground Up
+
+...
+
+---
 
 More on the way.
