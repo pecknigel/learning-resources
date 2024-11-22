@@ -11,7 +11,9 @@ We are all educators. At least of ourselves. Engaging with that can seriously up
 
 This area of the site is all about the approach that we take to learning and teaching.
 
-It’s not intended to be comprehensive although in time it may be. Take what’s useful, leave the rest.
+It’s not intended to be comprehensive although in time it may be.
+
+Take what’s useful, leave the rest.
 
 ## Articles
 
