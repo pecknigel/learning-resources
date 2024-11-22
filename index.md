@@ -98,7 +98,7 @@ Work in a collaborative environment much like an asynchronous remote team. Build
 • [Issues](https://github.com/pecknigel/trading-exchange-collaborative-learning/issues)
 • [Commits](https://github.com/pecknigel/trading-exchange-collaborative-learning/commits/main/)
 
-### Implementations
+#### Implementations
 
 These are current implementations. All just getting started (November, 2024). A great time to get involved in this long term  program. It can be awesome experience for your resume.
 
