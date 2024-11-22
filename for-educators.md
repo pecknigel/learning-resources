@@ -1,3 +1,9 @@
+---
+layout: default
+title: Educator Portal
+permalink: /educator-portal
+heading: Educator Portal
+---
 
 # Educator Portal
 
