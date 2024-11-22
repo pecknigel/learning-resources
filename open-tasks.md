@@ -12,3 +12,9 @@ Complete the CSS Flexbox Learning Project.
 ## JavaScript
 
 Complete the Website Widget Practice Project.
+
+## Upcoming Practice Projects
+
+These have not yet progressed to being assigned as tasks. They are ideas for possible future development.
+
+Create a website using a mobile git client. GitHub Pages. Working Copy. Git.
