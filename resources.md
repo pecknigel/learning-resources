@@ -3,6 +3,8 @@
 
 This is a list of online resources that are generally recommended or mentioned in sessions. Use your own judgement for what works for you and discuss it with Nigel.
 
+It’s not complete. We’re working hard to get comprehensive information online. If you’re a student, consider [getting involved](open-tasks) in improving it.
+
 ## Study
 
 MDN Web Docs    
