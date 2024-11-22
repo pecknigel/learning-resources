@@ -1,4 +1,11 @@
 
+---
+layout: default
+title: About the Academy Library
+permalink: /about
+heading: About
+---
+
 # About This Portal
 
 It’s all a portal. The educator portal is a portal within a portal.
