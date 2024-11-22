@@ -88,7 +88,7 @@ If you don’t have available a few hours minimum per week, a practice or open s
 
 ---
 
-### Trading Exchange
+## Trading Exchange
 
 Work in a collaborative environment much like an asynchronous remote team. Build the software for a (fake) digital trading exchange.
 
@@ -98,7 +98,7 @@ Work in a collaborative environment much like an asynchronous remote team. Build
 • [Issues](https://github.com/pecknigel/trading-exchange-collaborative-learning/issues)
 • [Commits](https://github.com/pecknigel/trading-exchange-collaborative-learning/commits/main/)
 
-#### Implementations
+### Implementations
 
 These are current implementations. All just getting started (November, 2024). A great time to get involved in this long term  program. It can look great on your resumé.
 
