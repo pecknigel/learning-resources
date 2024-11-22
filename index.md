@@ -47,6 +47,13 @@ It can be handy to bookmark this page. It’s updated as things change.
 • [Issues](https://github.com/pecknigel/css-flexbox-learning-project/issues)
 • [Commits](https://github.com/pecknigel/css-flexbox-learning-project/commits/main/)
 
+## Coding Practice
+
+### The Big Three: Arrays, Objects and Collections
+
+A collection of practice tasks to improve your coding skills and grasp of basic techniques.    
+[Currently in Production - link coming soon]
+
 ## Open Source Projects
 
 **Open Fruit Machine**    
@@ -55,7 +62,9 @@ It can be handy to bookmark this page. It’s updated as things change.
 • [Issues](https://github.com/pecknigel/open-fruit-machine/issues)
 • [Commits](https://github.com/pecknigel/open-fruit-machine/commits/main/)
 
-## Trading Exchange Collaborative Learning Program
+## Collaborative Learning Programs
+
+### Trading Exchange (Start Here)
 
 **Trading Exchange Collaborative Learning Program**    
 [Start Here](https://github.com/pecknigel/trading-exchange-collaborative-learning/blob/main/README.md)
