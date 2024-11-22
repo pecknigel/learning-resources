@@ -25,6 +25,8 @@ Complete setting up the Semantic HTML Learning Project.
 
 Complete setting up the Website Widget Practice Project.
 
+Complete setting up the Exchange Tickers  Practice Project.
+
 Set up web application architecture diagrams.
 
 Practice project for working with different browser events.
