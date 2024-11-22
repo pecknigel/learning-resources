@@ -57,7 +57,7 @@ Projects with lots of detail to focus on learning a particular topic.
 
 ---
  
-## Coding Practice
+## Tasks for Coding Practice
 
 Collections of practice tasks to improve your coding skills and start learning techniques to craft software.
 
