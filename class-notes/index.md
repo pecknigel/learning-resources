@@ -6,3 +6,5 @@
 ## Upcoming Class Notes
 
 Web Application Architecture Diagrams.
+
+See [Open Tasks](open-tasks).
