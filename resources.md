@@ -8,61 +8,58 @@ It’s not complete. We’re working hard to get comprehensive information onlin
 ## Study
 
 MDN Web Docs    
-https://developer.mozilla.org/en-US/
+[MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 JavaScript Reference    
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+[JavaScript reference - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 The Modern JavaScript Tutorial    
-https://javascript.info/
+[JavaScript.info](https://javascript.info/)
 
 ## CSS
 
 Learn CSS    
-https://web.dev/learn/css
+[Learn CSS | web.dev](https://web.dev/learn/css)
 
 ## Courses
 
-Codecademy    
-https://www.codecademy.com/learn/introduction-to-javascript
-
-The Odin Project    
-https://www.theodinproject.com/
-
 freeCodeCamp    
-https://www.freecodecamp.org/
+[freeCodeCamp: Learn to code for free](https://www.freecodecamp.org/)
 
 Learn Programming    
-https://learnprogramming.online/
+[Learn Programming](https://learnprogramming.online/)
 
 Learn JavaScript    
-https://learnjavascript.online/
+[Learn JavaScript](https://learnjavascript.online/)
 
 The Odin Project    
-https://www.theodinproject.com/
+[Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/)
+
+Codecademy    
+[Learn JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 
 Traversy Media    
-https://www.traversymedia.com/
+[Traversy Media | Learn Web Development](https://www.traversymedia.com/)
 
 Hyperskill (Partner with JetBrains)    
-https://hyperskill.org/courses?pl=javascript
+[Hyperskill](https://hyperskill.org/courses?pl=javascript)
 
 ## Coding Challenges
 
 JS Challenger    
-https://www.jschallenger.com/
+[Free Javascript challenges online | JSchallenger](https://www.jschallenger.com/)
 
 Edabit    
-https://edabit.com/challenges
+[Edabit](https://edabit.com/challenges)
 
 CodingJS    
-https://the-winter.github.io/codingjs/
+[CodingJS](https://the-winter.github.io/codingjs/)
 
 Code Wars    
-https://www.codewars.com/
+[Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com/)
 
 LeetCode    
-https://leetcode.com/
+[LeetCode - The World’s Leading Online Programming Learning Platform](https://leetcode.com/)
 
 Codility    
-https://www.codility.com/
+[Codility: Online Coding Tests & Technical Interviews](https://www.codility.com/)
