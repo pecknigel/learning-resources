@@ -19,6 +19,8 @@ It’s not intended to be comprehensive although in time it may be.
 
 ## Ramblings
 
+Let’s get in to it.
+
 > **“Lord, I was born a ramblin’ man.”**
 > 
 > ~ 1971 - 1973 Dickey Betts (The Allman Brothers Band)    
