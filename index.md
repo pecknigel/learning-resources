@@ -1,3 +1,5 @@
+Welcome to the academy library. Here you’ll find resources to support your learning and your involvement with the academy.
+
 # Learning Initiatives
 
 This page features all of the available learning initiatives from [Prescription Free Academy](https://prescriptionfree.academy/). They are set up using GitHub Repositories. There are links to the README to get started, the files themselves, the commit log and the issues (if any) for each repository.
