@@ -10,7 +10,7 @@ plugins:
 defaults:
   -
     scope:
-      path: "class-notes/*/"
+      path: "class-notes/*"
     values:
       site_section: "Class Notes"
  
