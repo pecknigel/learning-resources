@@ -7,7 +7,7 @@ heading: Educator Portal
 
 # Educator Portal
 
-We are all educators. At least of ourselves. Engaging with that can seriously upgrade your learning processes.
+We are all educators. At least of ourselves. Engaging with that can seriously upgrade your learning.
 
 This area of the site is all about the approach that we take to learning and teaching.
 
