@@ -86,6 +86,8 @@ A second program is coming soon (building a web framework). All programs here re
 
 ### Trading Exchange Collaborative Learning Program
 
+Work in a collaborative environment much like an asynchronous remote team. Build the software for a digital trading exchange.
+
 **Trading Exchange Collaborative Learning Program**    
 [README](https://github.com/pecknigel/trading-exchange-collaborative-learning/blob/main/README.md)
 • [Files](https://github.com/pecknigel/trading-exchange-collaborative-learning)
@@ -93,6 +95,8 @@ A second program is coming soon (building a web framework). All programs here re
 • [Commits](https://github.com/pecknigel/trading-exchange-collaborative-learning/commits/main/)
 
 ### Trading Exchange Implementations
+
+These are current implementations for layers of the system.
 
 **Open Exchange Tickers**    
 [README](https://github.com/pecknigel/open-exchange-tickers/blob/main/README.md)
