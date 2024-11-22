@@ -13,7 +13,7 @@ Complete the CSS Flexbox Learning Project.
 
 Complete the Website Widget Practice Project.
 
-## Upcoming Practice Projects
+## Upcoming Learning Initiatives
 
 These have not yet progressed to being assigned as tasks. They are ideas for possible future development.
 
