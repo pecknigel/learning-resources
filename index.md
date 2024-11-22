@@ -84,7 +84,9 @@ Our pièce de résistance. Gain experience in a real working environment lead by
 
 A second program is coming soon (building a web framework). All programs here require a substantial time commitment to get real value. If you don’t a few hours minimum per week, a practice or open source project is likely a better choice.
 
-### Trading Exchange Collaborative Learning Program
+---
+
+## Trading Exchange Collaborative Learning Program
 
 Work in a collaborative environment much like an asynchronous remote team. Build the software for a digital trading exchange.
 
@@ -94,7 +96,7 @@ Work in a collaborative environment much like an asynchronous remote team. Build
 • [Issues](https://github.com/pecknigel/trading-exchange-collaborative-learning/issues)
 • [Commits](https://github.com/pecknigel/trading-exchange-collaborative-learning/commits/main/)
 
-### Trading Exchange Implementations
+### Implementations
 
 These are current implementations. All just getting started (November, 2024). A great time to get involved in this long term learning project. Can look awesome on your resume.
 
