@@ -40,6 +40,14 @@ It’s not about how you code, it’s about the way that you approach it. How yo
 
 ### Build from the Ground Up
 
+Coming soon.
+
+### It’s Not About How to Code
+
+Of course that’s involved, but the real skill is in learning to craft software that is reliable, maintainable, robust and coherent.
+
+More coming on this soon. Publishing as I go.
+
 ...
 
 More on the way. Currently writing in November, 2024.
