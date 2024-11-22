@@ -15,6 +15,8 @@ It’s not intended to be comprehensive although in time it may be.
 
 It’s not even necessarily intended for reading. There’s useful info here but it’s not necessarily easy to get at.
 
+If it seems interesting to you, have at it. Otherwise there’s a lot more interesting stuff elsewhere here.
+
 **Take what’s useful [to you], leave the rest.**
 
 ---
