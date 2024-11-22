@@ -9,6 +9,8 @@ Research and improve the [learning resources](resources) page. Work with Nigel t
 
 Set up the learning initiatives lists so that the commit and issues links are hidden on page load with an option to show them. HTML, CSS, JavaScript, Jekyll SSG.
 
+Create a procedure for setting up a new project.
+
 ## Design/CSS
 
 Improve the design for the academy library. Work with YAML, Jekyll static site generation and GitHub Pages.
