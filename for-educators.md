@@ -15,6 +15,8 @@ It’s not intended to be comprehensive although in time it may be.
 
 **Take what’s useful, leave the rest.**
 
+---
+
 ## Ramblings
 
 > **“Lord, I was born a ramblin’ man.”**
