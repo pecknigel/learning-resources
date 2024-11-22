@@ -17,7 +17,7 @@ It can be handy to bookmark this page. It’s updated as things change.
 
 ## Practice Projects
 
-Gain experience creating real applications using web technologies. A great way to start pulling things together if you’ve already picked up some of the basics.
+Gain experience creating real applications using web technologies. A great way to start pulling things together if you’ve already picked up some of the basics. Some are independent parts of our larger collaborative learning programs.
 
 **Calculator Practice Project**    
 [README](https://github.com/pecknigel/calculator-practice-project/blob/main/README.md)
