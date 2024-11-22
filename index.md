@@ -88,7 +88,7 @@ If you don’t have available a few hours minimum per week, a practice or open s
 
 ---
 
-## Trading Exchange Collaborative Learning Program
+### Trading Exchange
 
 Work in a collaborative environment much like an asynchronous remote team. Build the software for a digital trading exchange.
 
