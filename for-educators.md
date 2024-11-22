@@ -34,6 +34,4 @@ It’s not about how you code, it’s about the way that you approach it. How yo
 
 ...
 
----
-
 More on the way. November, 2024.
