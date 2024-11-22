@@ -1,3 +1,6 @@
+---
+heading: Open Tasks
+---
 
 # Open Tasks
 

@@ -1,3 +1,7 @@
+---
+heading: Academy Library
+---
+ 
 Welcome to the academy library. Here you’ll find resources to support your learning and your involvement with the academy.
 
 # Learning Initiatives
