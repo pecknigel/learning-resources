@@ -1,5 +1,8 @@
 
 # Class Notes
 
-- [DOM Manipulation](/dom-manipulation)
- 
+- [DOM Manipulation](/class-notes/dom-manipulation)
+
+## Upcoming Class Notes
+
+Web Application Architecture Diagrams.

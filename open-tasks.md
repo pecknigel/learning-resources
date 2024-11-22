@@ -7,15 +7,27 @@ These are tasks that are available to work on in order to gain experience. Talk 
 
 Research and improve the [learning resources](resources) page. Work with Nigel to evaluate what should be added.
 
+Set up the learning initiatives lists so that the commit and issues links are hidden on page load with an option to show them. HTML, CSS, JavaScript, Jekyll SSG.
+
 ## Design/CSS
 
 Improve the design for the academy library. Work with YAML, Jekyll static site generation and GitHub Pages.
 
 Complete the CSS Flexbox Learning Project.
 
+## HTML
+
+Complete setting up the Semantic HTML Learning Project.
+
 ## JavaScript
 
 Complete the Website Widget Practice Project.
+
+Set up web application architecture diagrams.
+
+Practice project for working with different browser events.
+
+Set up a Web Components Learning Project. See [DOM Manipulation Class Notes](class-notes/dom-manipulation). Basically a learning project to work with that.
 
 ## Upcoming Learning Initiatives
 
