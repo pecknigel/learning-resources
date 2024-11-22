@@ -49,10 +49,10 @@ It can be handy to bookmark this page. It’s updated as things change.
 
 ## Coding Practice
 
-### The Big Three: Arrays, Objects and Collections
+A collection of practice tasks to improve your coding skills and grasp of basic techniques.
 
-A collection of practice tasks to improve your coding skills and grasp of basic techniques.    
-[Currently in Production - link coming soon]
+***The Big Three: Arrays, Objects and Collections***    
+[Currently in Production]
 
 ## Open Source Projects
 
