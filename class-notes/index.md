@@ -7,4 +7,4 @@
 
 Web Application Architecture Diagrams.
 
-See [Open Tasks](open-tasks).
+See [Open Tasks](/open-tasks).
