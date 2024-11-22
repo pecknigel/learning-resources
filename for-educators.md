@@ -13,7 +13,9 @@ This area of the site is all about the approach that we take to learning and tea
 
 It’s not intended to be comprehensive although in time it may be.
 
-**Take what’s useful, leave the rest.**
+It’s not even necessarily intended for reading. There’s useful info here but it’s not necessarily easy to get at.
+
+**Take what’s useful [to you], leave the rest.**
 
 ---
 
