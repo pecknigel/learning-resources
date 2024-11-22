@@ -33,7 +33,7 @@ That was around 2018.
 
 It took a while and lots of practice but I had good success from the start. My reviews from the beginning will be posted soon and I’ll hopefully remember to add a link here when they are.
 
-By 2023 I’d gained a lot of mentoring experience and done teaching, at which point I joined Preply.
+By 2023 I’d gained a lot of mentoring experience and some teaching, at which point I joined Preply.
 
 Preply opened up a world of real learners who actually want to learn, which was a breath of fresh air after mostly dealing with troubleshooting assistance and mentoring around that.
 
