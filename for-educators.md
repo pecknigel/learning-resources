@@ -13,7 +13,7 @@ This area of the site is all about the approach that we take to learning and tea
 
 It’s not intended to be comprehensive although in time it may be.
 
-Take what’s useful, leave the rest.
+**Take what’s useful, leave the rest.**
 
 ## Ramblings
 
