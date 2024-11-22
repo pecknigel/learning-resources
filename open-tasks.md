@@ -17,4 +17,6 @@ Complete the Website Widget Practice Project.
 
 These have not yet progressed to being assigned as tasks. They are ideas for possible future development.
 
+Practice Project for Jekyll Static Site Builder - Set up GitHub Pages Site.
+
 Create a website using a mobile git client. GitHub Pages. Working Copy. Git.
