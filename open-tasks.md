@@ -14,6 +14,8 @@ Set up the learning initiatives lists so that the commit and issues links are hi
 
 Create a procedure for setting up a new project.
 
+Only link the library nav if it’s not the current page.
+
 ## Design/CSS
 
 Improve the design for the academy library. Work with YAML, Jekyll static site generation and GitHub Pages.
