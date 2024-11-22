@@ -17,6 +17,8 @@ Improve the design for the academy library. Work with YAML, Jekyll static site g
 
 Complete the CSS Flexbox Learning Project.
 
+Improve the CSS section of the [online resources](/resources) page.
+
 ## HTML
 
 Complete setting up the Semantic HTML Learning Project.
