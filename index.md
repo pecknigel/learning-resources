@@ -15,6 +15,8 @@ It can be handy to bookmark this page. It’s updated as things change.
 
 ## Practice Projects
 
+Gain experience creating real applications using web technologies. A great way to start pulling things together if you’ve already picked up some of the basics.
+
 **Calculator Practice Project**    
 [Start Here](https://github.com/pecknigel/calculator-practice-project/blob/main/README.md)
 • [Files](https://github.com/pecknigel/calculator-practice-project)
@@ -35,6 +37,8 @@ It can be handy to bookmark this page. It’s updated as things change.
 
 ## Learning Projects
 
+Projects with lots of detail to focus on learning a particular topic.
+
 **Semantic HTML Learning Project**    
 [Start Here](https://github.com/pecknigel/semantic-html-learning-project/blob/main/README.md)
 • [Files](https://github.com/pecknigel/semantic-html-learning-project)
@@ -49,12 +53,14 @@ It can be handy to bookmark this page. It’s updated as things change.
 
 ## Coding Practice
 
-A collection of practice tasks to improve your coding skills and grasp of basic techniques.
+Collections of practice tasks to improve your coding skills and start learning techniques to craft software.
 
 **The Big Three: Arrays, Objects and Collections**    
 [Currently in Production]
 
 ## Open Source Projects
+
+Get involved in our open source projects. Very limited guidance here. Find your own way.
 
 **Open Fruit Machine**    
 [Start Here](https://github.com/pecknigel/open-fruit-machine/blob/main/README.md)
@@ -63,6 +69,8 @@ A collection of practice tasks to improve your coding skills and grasp of basic 
 • [Commits](https://github.com/pecknigel/open-fruit-machine/commits/main/)
 
 ## Collaborative Learning Programs
+
+Our pièce de résistance. Gain experience in a real working environment lead by an experienced lead engineer. This is just getting started and we’re excited about the possibilities. A second program is coming soon (building a web framework). All programs here require a substantial time commitment to get real value. If you don’t have the time, a practice or open source project is likely a better choice.
 
 ### Trading Exchange (Start Here)
 
