@@ -6,3 +6,9 @@ These are tasks that are available to work on in order to gain experience. Talk 
 ## Design/CSS
 
 Improve the design for the academy library. Work with YAML, Jekyll static site generation and GitHub Pages.
+
+Complete the CSS Flexbox Learning Project.
+
+## JavaScript
+
+Complete the Website Widget Practice Project.
