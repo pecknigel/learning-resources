@@ -1,7 +1,9 @@
+---
 layout: page
 title: Academy Library
 permalink: /
 heading: Learning Initiatives
+---
 
 Welcome to the academy library. Here you’ll find resources to support your learning and your involvement with the academy.
 
