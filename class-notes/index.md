@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Class Notes
+permalink: /class-notes
 heading: Class Notes
 ---
 

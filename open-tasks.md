@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Open Tasks
+permalink: /open-tasks
 heading: Open Tasks
 ---
 

@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Online Resources
+permalink: /resources
 heading: Online Resources
 ---
 
