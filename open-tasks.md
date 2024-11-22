@@ -7,7 +7,9 @@ heading: Open Tasks
 
 # Open Tasks
 
-These are tasks that are available to work on in order to gain experience. Talk to Nigel if you’re interested in getting involved.
+These are tasks that are available to work on in order to gain experience. They’re rough notes intended for looking over when someone has availability.
+
+Talk to Nigel if you’re interested in getting involved.
 
 ## School Admin
 
