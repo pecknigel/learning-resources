@@ -23,8 +23,7 @@
       <header>
         <h1>
           <div>
-            {{ site.title }}
-            {{ page.site_section }}
+            {{ site.title }}{% if page.site_section %}: {{ page.site_section }}{% endif %}
           </div>
           {% if page.heading %}
           <div>{{ page.heading }}</div>
