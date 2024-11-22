@@ -77,7 +77,15 @@ Get involved in our open source projects. Very limited guidance here. Find your 
 • [Commits](https://github.com/pecknigel/open-fruit-machine/commits/main/)
 
 ---
- 
+
+## Contribute to the School
+
+A great way to learn is to be involved in teaching others. Work with Nigel to help prepare learning materials while benefiting from free class time. Tasks will be chosen for you that suit what you’re currently learning.
+
+Due to the nature of this work, it’s only available to committed students who are taking regular classes.
+
+---
+
 ## Collaborative Learning Programs
 
 Our pièce de résistance. Gain experience in a real working environment lead by an experienced lead engineer. This is just getting started and we’re excited about the possibilities.
