@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Educator Portal
-permalink: /educator-portal
+permalink: /for-educators
 heading: Educator Portal
 ---
 
