@@ -28,7 +28,7 @@ There’s no prescription here. The name wasn’t chosen by accident. Everyone l
 
 If that’s lost or ignored, you’ll never be all that you can be. You’ll never be the software engineer that you could be.
 
-It’s not about how you code, it’s about the way that you approach it. And it needs to be your own.
+It’s not about how you code, it’s about the way that you approach it. How you code is a product of *that*. And it needs to be your own.
 
 ### Build from the Ground Up
 
