@@ -1,4 +1,5 @@
 ---
+heading: Class Notes
 ---
 
 # Class Notes
