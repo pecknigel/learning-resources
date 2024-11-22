@@ -1,5 +1,5 @@
 ---
-heading: DOM Manipulation Class Notes
+heading: DOM Manipulation
 redirect_from:
   - /dom-manipulation
 ---

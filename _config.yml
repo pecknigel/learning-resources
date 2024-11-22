@@ -6,4 +6,11 @@ github:
   owner_name: Prescription Free Academy (GitHub Organistion)
 plugins:
   - jekyll-redirect-from
+
+defaults:
+  -
+    scope:
+      path: "class-notes/*/"
+    values:
+      site_section: "Class Notes"
  

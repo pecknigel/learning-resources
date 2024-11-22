@@ -22,7 +22,10 @@
     <div class="wrapper">
       <header>
         <h1>
-          <div>{{ site.title | default: site.github.repository_name }}</div>
+          <div>
+            {{ site.title }}
+            {{ page.site_section }}
+          </div>
           <div>{{ page.heading | default: 'Heading Coming Soon' }}</div>
         </h1>
 
