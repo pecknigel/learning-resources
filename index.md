@@ -100,7 +100,7 @@ Work in a collaborative environment much like an asynchronous remote team. Build
 
 #### Implementations
 
-These are current implementations. All just getting started (November, 2024). A great time to get involved in this long term  program. It can be awesome experience for your resume.
+These are current implementations. All just getting started (November, 2024). A great time to get involved in this long term  program. It can look great on your resumé.
 
 **Open Exchange Tickers**    
 [README](https://github.com/pecknigel/open-exchange-tickers/blob/main/README.md)
