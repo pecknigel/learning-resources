@@ -6,8 +6,6 @@ heading: DOM Manipulation
 redirect_from:
   - /dom-manipulation
 ---
- 
-***This page is a rough draft.***
 
 # DOM Manipulation
 
