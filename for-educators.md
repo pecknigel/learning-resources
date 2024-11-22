@@ -15,6 +15,19 @@ It’s not intended to be comprehensive although in time it may be.
 
 Take what’s useful, leave the rest.
 
-## Articles
+## Ramblings
 
-[In Production]
+> **“Lord, I was born a ramblin’ man.”**
+> 
+> ~ 1971 - 1973 Dickey Betts (The Allman Brothers Band)
+> ~ Inspired by Hank Williams 1951
+
+### All Bets Are Off
+
+There’s no prescription here. The name wasn’t chosen by accident. Everyone learns their own way and that’s important. Creativity is important. The imagination is important.
+
+If that’s lost of ignored, you’ll never be all that you can be.
+
+It’s not about how you code, it’s about the way that you approach it. And it needs to be your own.
+
+More on the way.
