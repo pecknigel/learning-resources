@@ -44,7 +44,7 @@ Coming soon.
 
 ### It’s Not About How to Code
 
-Of course that’s involved, but the real skill is in learning to craft software that is reliable, maintainable, robust and coherent.
+Of course that’s involved, but the real skill is in learning to craft software that’s reliable, maintainable, robust and coherent.
 
 More coming on this soon. Publishing as I go.
 
