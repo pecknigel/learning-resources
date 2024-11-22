@@ -52,6 +52,8 @@ More coming on this soon. Publishing as I go.
 
 It’s essential to stay engaged. You’re not going to learn by sitting back and being fed instructions. You’re going to have to make it happen yourself. This is not schooling.
 
+### Sharpen Your Research Skills
+
 ...
 
 More on the way. Currently writing in November, 2024.
