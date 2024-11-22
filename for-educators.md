@@ -19,7 +19,7 @@ It’s not intended to be comprehensive although in time it may be.
 
 > **“Lord, I was born a ramblin’ man.”**
 > 
-> ~ 1971 - 1973 Dickey Betts (The Allman Brothers Band)
+> ~ 1971 - 1973 Dickey Betts (The Allman Brothers Band)    
 > ~ Inspired by Hank Williams 1951
 
 ### All Bets Are Off
