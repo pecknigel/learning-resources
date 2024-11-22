@@ -68,7 +68,7 @@ Collections of practice tasks to improve your coding skills and start learning t
  
 ## Open Source Projects
 
-Get involved in our open source projects. Very limited guidance here. Find your own way.
+Get involved in our open source projects. Very limited guidance here. Find your own way. Book a session with Nigel for help getting started if these seem interesting but you don’t know how to start.
 
 **Open Fruit Machine**    
 [README](https://github.com/pecknigel/open-fruit-machine/blob/main/README.md)
