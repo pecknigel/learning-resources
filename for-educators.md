@@ -36,4 +36,4 @@ It’s not about how you code, it’s about the way that you approach it. And it
 
 ---
 
-More on the way.
+More on the way. November, 2024.
