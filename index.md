@@ -96,7 +96,7 @@ Work in a collaborative environment much like an asynchronous remote team. Build
 
 ### Trading Exchange Implementations
 
-These are current implementations for layers of the system.
+These are current implementations. All just getting started (November, 2024). A great time to get involved in this long term learning project. Can look awesome on your resume.
 
 **Open Exchange Tickers**    
 [README](https://github.com/pecknigel/open-exchange-tickers/blob/main/README.md)
