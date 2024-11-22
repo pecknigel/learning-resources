@@ -19,6 +19,8 @@ Create a procedure for setting up a new project.
 
 Only link the library nav if it’s not the current page.
 
+Complete the class notes for DOM manipulation.
+
 ## Design/CSS
 
 Improve the design for the academy library. Work with YAML, Jekyll static site generation and GitHub Pages.
