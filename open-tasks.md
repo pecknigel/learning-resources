@@ -21,13 +21,15 @@ Complete setting up the Semantic HTML Learning Project.
 
 ## JavaScript
 
-Complete the Website Widget Practice Project.
+Complete setting up the Website Widget Practice Project.
 
 Set up web application architecture diagrams.
 
 Practice project for working with different browser events.
 
 Set up a Web Components Learning Project. See [DOM Manipulation Class Notes](class-notes/dom-manipulation). Basically a learning project to work with that.
+
+Set up Practice Project: Abstract DOM Manipulation. Create an abstraction for DOM Manipulation.
 
 ## Upcoming Learning Initiatives
 

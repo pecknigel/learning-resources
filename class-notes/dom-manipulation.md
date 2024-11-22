@@ -1,7 +1,7 @@
-——-
+---
 redirect_from:
   - /dom-manipulation
-——-
+---
  
 ***This page is a rough draft.***
 
