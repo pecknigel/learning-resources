@@ -1,7 +1,7 @@
 
 # Educator Portal
 
-We are all educators. At least if ourselves. Engaging with that can seriously upgrade the learning processes that you follow.
+We are all educators. At least of ourselves. Engaging with that can seriously upgrade your learning processes.
 
 This area of the site is all about the approach that we take to learning and teaching.
 
