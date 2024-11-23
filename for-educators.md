@@ -54,7 +54,7 @@ It’s essential to stay engaged. You’re not going to learn by sitting back an
 
 ### Sharpen Your Research Skills
 
-### The Real Learning Starts When You Start to Work
+### The Real Learning Starts When You Start  Work
 
 That’s why we focus our learning initiatives on being as close to a real working environment as it’s useful for them to be.
 
