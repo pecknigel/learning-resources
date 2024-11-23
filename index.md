@@ -77,6 +77,8 @@ Collections of practice tasks to improve your coding skills. Learn techniques fo
 **The Big Three: Arrays, Objects and Collections**    
 [Currently in Production]
 
+Working on this the weekend November 23/24. Plenty more of these to come. Collections to cover all of the basic coding techniques. How to put the pieces together to build software.
+
 ---
  
 ## Open Source Projects
