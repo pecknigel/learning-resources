@@ -21,7 +21,7 @@ Search well. Check your effectiveness. Take a moment to look over the results. S
 
 Follow links. Sites like [MDN](https://developer.mozilla.org/) have extensive cross referencing. Mostly in the form of contextual links.
 
-Follow them! You don’t need to read the whole thing. Just scan it and read what’s useful.
+Follow them! You don’t need to read the whole thing. Just scan it and read what’s useful. Then go back to where you were and keep going.
 
 ### Make Use of Learning Resources
 

@@ -50,4 +50,4 @@ It’s essential to stay engaged. You’re not going to learn by sitting back an
 
 More on the way. Currently writing November, 2024.
 
-See [Tenets](tenets) for further ramblings.
+See [Tenets](/tenets) for further ramblings.
