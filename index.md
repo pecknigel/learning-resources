@@ -196,4 +196,4 @@ Work on a collaborative project much like an asynchronous remote team. Design an
 • [Issues](https://github.com/pecknigel/framework-engineering-collaborative-learning/issues)
 • [Commits](https://github.com/pecknigel/framework-engineering-collaborative-learning/commits/main/)
 
-More coming soon. Initial version in production weekend of November 23/24.
+Early days with this one. More coming through December/January 2024.
