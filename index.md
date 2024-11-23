@@ -61,7 +61,7 @@ Projects with lots of detail to focus on learning a particular topic.
  
 ## Tasks for Coding Practice
 
-Collections of practice tasks to improve your coding skills and start learning techniques to craft software.
+Collections of practice tasks to improve your coding skills. Learn techniques for crafting software. Lots more of these to come.
 
 **The Big Three: Arrays, Objects and Collections**    
 [Currently in Production]
