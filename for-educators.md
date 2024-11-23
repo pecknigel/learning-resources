@@ -60,6 +60,8 @@ That’s why we focus our learning initiatives on being as close to a real worki
 
 It’s not just about writing code. That’s probably not even half of it.
 
+### Jack of All Trades, Master of Most
+
 ...
 
 More on the way. Currently writing November, 2024.
