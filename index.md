@@ -101,7 +101,7 @@ If you don’t have available a few hours minimum per week, a practice or open s
 
 ---
 
-## Trading Exchange
+## Trading Exchange Program
 
 Work in a collaborative environment much like an asynchronous remote team. Build the software for a (fake) digital trading exchange.
 
