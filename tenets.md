@@ -25,7 +25,9 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ### Jack of All Trades, Master of Most
 
-### Test Early, Test Often
+### Test, Test, Test
+
+### Write Clean Code, Master Debugging, Eliminate Frustration
 
 Currently being written November 2024.
 
