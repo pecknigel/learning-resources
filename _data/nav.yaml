@@ -9,17 +9,17 @@ links:
 - title: Tenets
   url: /tenets
 
-- title: Courses and Resources
-  url: /resources
- 
 - title: Class Notes
   url: /class-notes
 
-- title: Open Tasks
-  url: /open-tasks
+- title: Courses and Resources
+  url: /resources
 
 - title: Educator Portal
   url: /for-educators
 
+- title: Open Tasks
+  url: /open-tasks
+ 
 - title: About
   url: /about
