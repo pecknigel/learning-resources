@@ -115,6 +115,12 @@ Get involved in our open source projects. Very limited guidance here. Find your 
 • [Issues](https://github.com/pecknigel/open-exchange-data/issues)
 • [Commits](https://github.com/pecknigel/open-exchange-data/commits/main/)
 
+**Open Exchange Website Widget**    
+[README](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/blob/main/README.md)
+• [Files](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
+• [Issues](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/issues)
+• [Commits](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/commits/main/)
+
 Book a session with Nigel for help getting started if these seem interesting but you don’t know how to start.
 
 ---
@@ -171,6 +177,12 @@ These are current implementations. All just getting started (November, 2024). A 
 • [Files](https://github.com/pecknigel/open-exchange-data)
 • [Issues](https://github.com/pecknigel/open-exchange-data/issues)
 • [Commits](https://github.com/pecknigel/open-exchange-data/commits/main/)
+
+**Open Exchange Website Widget**    
+[README](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/blob/main/README.md)
+• [Files](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
+• [Issues](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/issues)
+• [Commits](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/commits/main/)
 
 ---
 
