@@ -28,3 +28,7 @@ It’s not just about writing code. That’s probably not even half of it.
 ### Test Early, Test Often
 
 Currently being written November 2024.
+
+...
+
+See [Educator Portal](for-educators) for further ramblings.
