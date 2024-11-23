@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tenets of Software Engineering
-permalink: /about
+permalink: /tenets
 heading: Tenets
 ---
 
