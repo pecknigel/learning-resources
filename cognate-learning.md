@@ -1,3 +1,9 @@
+---
+layout: default
+title: Cognate Learning
+permalink: /cognate-learning
+heading: Cognate Learning
+---
 
 # Cognate Learning
 
