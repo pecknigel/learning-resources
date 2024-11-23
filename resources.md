@@ -5,7 +5,7 @@ permalink: /resources
 heading: Online Resources
 ---
 
-# Online Resources
+# Courses and Resources
 
 This is a list of online resources that are generally recommended or mentioned in sessions. Use your own judgement for what works for you and discuss it with Nigel.
 
