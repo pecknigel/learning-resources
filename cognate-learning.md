@@ -15,10 +15,22 @@ One useful approach to learning software engineering skills can be to use a cogn
 >
 > 3\. Related or analogous in nature, character, or function.    
 
-Like what? I hear you say.
+What’s that all about? I hear you say.
 
-Well. Writing, for one.
+The idea is that you can improve the skills that help you to be a better software engineer by methods other than writing code.
 
-Or basic math skills.
+Here are some ways that you can do that.
 
-More to come on this.
+## Sharpen Your Mind
+
+Brain Training apps like Elevate can help sharpen your mental abilities. It’s also fun and relaxing.
+
+You can improve skills like attention, concentration, mental arithmetic and concentration.
+
+## Write
+
+Writing can improve skills that are used for software development. Imagination, creativity, drawing together information.
+
+Journaling, creative writing, technical writing and others can all be highly beneficial to practice.
+
+## Meditation
