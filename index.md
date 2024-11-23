@@ -94,6 +94,9 @@ A second program is coming soon (building a web framework). All programs here re
 
 If you don’t have available a few hours minimum per week, a practice or open source project is likely a better choice.
 
+- Great for the resume/CV if you’re looking to get a career started.
+- Great for getting some practical experience if you’ve been studying a bunch.
+
 ---
 
 ## Trading Exchange
@@ -108,7 +111,7 @@ Work in a collaborative environment much like an asynchronous remote team. Build
 
 ### Implementations
 
-These are current implementations. All just getting started (November, 2024). A good time to get involved in this long term  program. Great for the resume/CV if you’re looking to get a career started. Great for getting some practical experience if you’ve been studying a lot.
+These are current implementations. All just getting started (November, 2024). A good time to get involved in this long term  program.
 
 **Open Exchange Tickers**    
 [README](https://github.com/pecknigel/open-exchange-tickers/blob/main/README.md)
