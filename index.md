@@ -17,8 +17,8 @@ This page features all of the available learning initiatives from [Prescription 
 - Open Source Projects
 - Contribute to the School
 - Collaborative Learning Programs
-- Trading Exchange Program
-- Web Framework Program
+- Trading Exchange Engineering Program
+- Web Framework Engineering Program
  
 They’re generally set up as Git repositories hosted on GitHub. There are links to the README to get started, the files themselves, the commit log and the issues (if any) for each repository.
 
@@ -134,7 +134,7 @@ If you don’t have available a few hours minimum per week, a practice or open s
 
 ---
 
-## Trading Exchange Program
+## Trading Exchange Engineering Program
 
 Work in a collaborative environment much like an asynchronous remote team. Build the software for a (fake) digital trading exchange.
 
@@ -168,7 +168,7 @@ These are current implementations. All just getting started (November, 2024). A 
 
 ---
 
-## Web Framework Program
+## Web Framework Engineering Program
 
 Work in a collaborative environment much like an asynchronous remote team. Design and develop a web framework to abstract DOM manipulation. Much like the engine at the heart of frameworks like Angular or React.
 
