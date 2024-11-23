@@ -37,6 +37,8 @@ Gain experience creating real applications using web technologies. A great way t
 • [Issues](https://github.com/pecknigel/trading-prices-widget-practice-project/issues)
 • [Commits](https://github.com/pecknigel/trading-prices-widget-practice-project/commits/main/)
 
+So many more of these are on the way. Discuss ideas with Nigel and work to create new practice projects while completing the project yourself. Free class time available to support contributions.
+
 ---
 
 ## Learning Projects
