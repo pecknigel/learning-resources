@@ -91,6 +91,24 @@ Get involved in our open source projects. Very limited guidance here. Find your 
 • [Issues](https://github.com/pecknigel/open-fruit-machine/issues)
 • [Commits](https://github.com/pecknigel/open-fruit-machine/commits/main/)
 
+**Open Exchange Tickers**    
+[README](https://github.com/pecknigel/open-exchange-tickers/blob/main/README.md)
+• [Files](https://github.com/pecknigel/open-exchange-tickers)
+• [Issues](https://github.com/pecknigel/open-exchange-tickers/issues)
+• [Commits](https://github.com/pecknigel/open-exchange-tickers/commits/main/)
+
+**Open Exchange Connector**    
+[README](https://github.com/pecknigel/open-exchange-connector/blob/main/README.md)
+• [Files](https://github.com/pecknigel/open-exchange-connector)
+• [Issues](https://github.com/pecknigel/open-exchange-connector/issues)
+• [Commits](https://github.com/pecknigel/open-exchange-connector/commits/main/)
+
+**Open Exchange Data**    
+[README](https://github.com/pecknigel/open-exchange-data/blob/main/README.md)
+• [Files](https://github.com/pecknigel/open-exchange-data)
+• [Issues](https://github.com/pecknigel/open-exchange-data/issues)
+• [Commits](https://github.com/pecknigel/open-exchange-data/commits/main/)
+
 Book a session with Nigel for help getting started if these seem interesting but you don’t know how to start.
 
 ---
