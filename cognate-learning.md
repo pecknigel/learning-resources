@@ -15,7 +15,7 @@ One useful approach to learning software engineering skills can be to use a cogn
 >
 > 3\. Related or analogous in nature, character, or function.    
 
-What’s that all about? I hear you say.
+What’s this all about? I hear you say.
 
 The idea is that you can improve the skills that help you to be a better software engineer by methods other than writing code.
 
