@@ -42,27 +42,9 @@ It’s not about how you code, it’s about the way that you approach it. How yo
 
 Coming soon.
 
-### It’s Not About How to Code
-
-Of course that’s involved, but the real skill is in learning to craft software that’s reliable, maintainable, robust and coherent.
-
-More coming on this soon. Publishing as I go.
-
 ### Get with the Program
 
 It’s essential to stay engaged. You’re not going to learn by sitting back and being fed instructions. You’re going to have to make it happen yourself. This is not schooling.
-
-### Sharpen Your Research Skills
-
-### The Real Learning Starts When You Start  Work
-
-That’s why we focus our learning initiatives on being as close to a real working environment as it’s useful for them to be.
-
-It’s not just about writing code. That’s probably not even half of it.
-
-### Jack of All Trades, Master of Most
-
-### Test Early, Test Often
 
 ...
 
