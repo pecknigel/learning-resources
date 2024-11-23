@@ -17,6 +17,8 @@ More coming on this soon. Publishing as I go.
 
 ### Sharpen Your Research Skills
 
+Search well. Check your effectiveness. Take a moment to look over the results. Stay away from low quality resources.
+
 ### The Real Learning Starts When You Start  Work
 
 That’s why we focus our learning initiatives on being as close to a real working environment as it’s useful for them to be.
