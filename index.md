@@ -97,7 +97,7 @@ A second program is coming soon (building a web framework). All programs here re
 If you don’t have available a few hours minimum per week, a practice or open source project is likely a better choice.
 
 - Great for the resume/CV if you’re looking to get a career started.
-- Great for getting some practical experience if you’ve been studying a bunch.
+- Great for getting some practical experience if you’ve been studying.
 
 ---
 
