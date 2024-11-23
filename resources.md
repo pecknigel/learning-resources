@@ -16,14 +16,7 @@ It’s not complete. We’re working hard to get comprehensive information onlin
 MDN Web Docs    
 [developer.mozilla.org](https://developer.mozilla.org/)
 
-## Learn HTML
-
-## Learn CSS
-
-Learn CSS    
-[Learn CSS | web.dev](https://web.dev/learn/css)
-
-## Learn JavaScript
+## JavaScript Guide
 
 The Modern JavaScript Tutorial    
 [javascript.info](https://javascript.info/)
