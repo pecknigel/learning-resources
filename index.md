@@ -83,13 +83,15 @@ Working on this the weekend November 23/24. Plenty more of these to come. Collec
  
 ## Open Source Projects
 
-Get involved in our open source projects. Very limited guidance here. Find your own way. Book a session with Nigel for help getting started if these seem interesting but you don’t know how to start.
+Get involved in our open source projects. Very limited guidance here. Find your own way.
 
 **Open Fruit Machine**    
 [README](https://github.com/pecknigel/open-fruit-machine/blob/main/README.md)
 • [Files](https://github.com/pecknigel/open-fruit-machine)
 • [Issues](https://github.com/pecknigel/open-fruit-machine/issues)
 • [Commits](https://github.com/pecknigel/open-fruit-machine/commits/main/)
+
+Book a session with Nigel for help getting started if these seem interesting but you don’t know how to start.
 
 ---
 
