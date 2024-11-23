@@ -11,21 +11,27 @@ This is a list of online resources that are generally recommended or mentioned i
 
 It’s not complete. We’re working hard to get comprehensive information online. If you’re a student, consider [getting involved](open-tasks) in improving it.
 
-## Study
+## General Reference
 
 MDN Web Docs    
-[MDN Web Docs](https://developer.mozilla.org/en-US/)
+[developer.mozilla.org](https://developer.mozilla.org/)
 
-JavaScript Reference    
-[JavaScript reference - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+## Learn HTML
 
-The Modern JavaScript Tutorial    
-[JavaScript.info](https://javascript.info/)
-
-## CSS
+## Learn CSS
 
 Learn CSS    
 [Learn CSS | web.dev](https://web.dev/learn/css)
+
+## Learn JavaScript
+
+The Modern JavaScript Tutorial    
+[javascript.info](https://javascript.info/)
+
+## JavaScript Reference
+
+MDN Web Docs: JavaScript Reference
+[developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## Courses
 
