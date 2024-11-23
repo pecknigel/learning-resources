@@ -13,6 +13,14 @@ This page features all of the available learning initiatives from [Prescription 
 
 It can be handy to bookmark this page. It’s updated as things change.
 
+- Practice Projects
+- Learning Projects
+- Tasks for Coding Practice
+- Open Source Projects
+- Contribute to the School
+- Collaborative Learning Programs
+- Trading Exchange Program
+
 ---
 
 ## Practice Projects
