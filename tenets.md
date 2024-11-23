@@ -39,7 +39,11 @@ That’s why we focus our learning initiatives on being as close to a real worki
 
 It’s not just about writing code. That’s probably not even half of it.
 
+### Know What You Don’t Know
+
 ### Jack of All Trades, Master of Most
+
+### Modules, Interfaces, Modular Design
 
 ### Test, Test, Test
 
