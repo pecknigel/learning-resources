@@ -23,14 +23,18 @@ Here are some ways that you can do that.
 
 ## Sharpen Your Mind
 
-Brain Training apps like Elevate can help sharpen your mental abilities. It’s also fun and relaxing.
+Regular use of Brain Training apps like Elevate can help sharpen your mental abilities. It’s also fun and relaxing.
 
-You can improve skills like attention, concentration, mental arithmetic and concentration.
+You can improve skills like attention, estimation, mental arithmetic and concentration.
 
-## Write
+## Writing
 
-Writing can improve skills that are used for software development. Imagination, creativity, drawing together information.
+Writing can improve skills that are used for software development. Imagination, creativity, drawing information together.
 
 Journaling, creative writing, technical writing and others can all be highly beneficial to practice.
 
 ## Meditation
+
+Practicing meditation is excellent to improve your concentration, emotional state and other mental abilities.
+
+All of which help you to a far better software engineer.
