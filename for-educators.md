@@ -62,6 +62,8 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ### Jack of All Trades, Master of Most
 
+### Test Early, Test Often
+
 ...
 
 More on the way. Currently writing November, 2024.
