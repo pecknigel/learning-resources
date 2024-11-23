@@ -158,9 +158,7 @@ Work in a collaborative environment much like an asynchronous remote team. Build
 • [Issues](https://github.com/pecknigel/trading-exchange-collaborative-learning/issues)
 • [Commits](https://github.com/pecknigel/trading-exchange-collaborative-learning/commits/main/)
 
-### Implementations
-
-These are current implementations. All just getting started (November, 2024). A good time to get involved in this long term  program.
+Below are current implementations. All just getting started (November, 2024). A good time to get involved in this long term  program.
 
 **Open Exchange Tickers**    
 [README](https://github.com/pecknigel/open-exchange-tickers/blob/main/README.md)
