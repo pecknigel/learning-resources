@@ -18,6 +18,7 @@ This page features all of the available learning initiatives from [Prescription 
 - Contribute to the School
 - Collaborative Learning Programs
 - Trading Exchange Program
+- Web Framework Program
  
 They’re generally set up as Git repositories hosted on GitHub. There are links to the README to get started, the files themselves, the commit log and the issues (if any) for each repository.
 
@@ -142,3 +143,15 @@ These are current implementations. All just getting started (November, 2024). A 
 • [Files](https://github.com/pecknigel/open-exchange-data)
 • [Issues](https://github.com/pecknigel/open-exchange-data/issues)
 • [Commits](https://github.com/pecknigel/open-exchange-data/commits/main/)
+
+---
+
+## Web Framework Program
+
+Work in a collaborative environment much like an asynchronous remote team. Design and develop a web framework to abstract DOM manipulation. Much like the engine at the heart of frameworks like Angular or React.
+
+What better way to learn then well than to solve the same problems yourself?
+
+Are you up for the challenge?
+
+Coming soon. Initial version in production weekend of November 23/24.
