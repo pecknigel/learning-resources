@@ -62,4 +62,4 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ...
 
-More on the way. Currently writing in November, 2024.
+More on the way. Currently writing November, 2024.
