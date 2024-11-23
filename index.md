@@ -176,7 +176,7 @@ These are current implementations. All just getting started (November, 2024). A 
 
 ## Web Framework Engineering Program
 
-Work in a collaborative environment much like an asynchronous remote team. Design and develop a web framework to abstract DOM manipulation. Solve the same issue at the heart of frameworks like Angular and React.
+Work in a collaborative environment much like an asynchronous remote team. Design and develop a web framework to abstract DOM manipulation. Solve the same problem at the heart of frameworks like Angular and React.
 
 What better way to learn them well than to solve the same problems yourself?
 
