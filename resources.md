@@ -28,6 +28,13 @@ Learn to Style HTML Using CSS
 JavaScript First Steps    
 [developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
 
+## JavaScript Tutorial
+
+This covers both the core language and the web browser environment (the front-end).
+
+The Modern JavaScript Tutorial    
+[javascript.info](https://javascript.info/)
+
 ## References, Guides, Tutorials
 
 This is an extensive site with comprehensive coverage of HTML, CSS and JavaScript.
@@ -61,13 +68,6 @@ HTTP Reference
 
 Web Technology for Developers    
 [developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
-
-## JavaScript Tutorial
-
-This covers both the core language and the web browser environment (the front-end).
-
-The Modern JavaScript Tutorial    
-[javascript.info](https://javascript.info/)
 
 ## Courses
 
