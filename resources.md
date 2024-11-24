@@ -28,23 +28,26 @@ The Modern JavaScript Tutorial
 freeCodeCamp    
 [freeCodeCamp: Learn to code for free](https://www.freecodecamp.org/)
 
+MDN Curriculum    
+[developer.mozilla.org/en-US/curriculum/](https://developer.mozilla.org/en-US/curriculum/)
+
+The Odin Project    
+[theodinproject.com](https://www.theodinproject.com/)
+
+Hyperskill (Partner with JetBrains)    
+[hyperskill.org/courses?pl=javascript](https://hyperskill.org/courses?pl=javascript)
+
 Learn Programming    
 [Learn Programming](https://learnprogramming.online/)
 
 Learn JavaScript    
 [Learn JavaScript](https://learnjavascript.online/)
 
-The Odin Project    
-[Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/)
-
 Codecademy    
 [Learn JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
 
 Traversy Media    
 [Traversy Media | Learn Web Development](https://www.traversymedia.com/)
-
-Hyperskill (Partner with JetBrains)    
-[Hyperskill](https://hyperskill.org/courses?pl=javascript)
 
 ## Coding Challenges
 
