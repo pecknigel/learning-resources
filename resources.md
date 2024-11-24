@@ -53,10 +53,6 @@ developer.mozilla.org
 [Complete Index of MDN Front-End] Tutorials for Web Developers    
 [MDN: Tutorials for Web Developers](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
-[Complete Index of MDN Covering] Objects in JavaScript   
-This is all essential to be clear on.    
-[MDN: Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-
 Node.js Walkthrough   
 Run JavaScript anywhere. Back-end starts here.    
 [nodejs.org](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
@@ -66,6 +62,9 @@ Upgrade your JavaScript to leverage types.
 [typescriptlang.org](https://www.typescriptlang.org/docs/)
 
 ## Deep Dives
+
+[Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)    
+developer.mozilla.org
 
 [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)    
 developer.mozilla.org
