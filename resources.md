@@ -45,19 +45,19 @@ JavaScript Guide
 ## Guides and Tutorials
 
 Developer Guides    
-[developer.mozilla.org/en-US/docs/Web/Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 Tutorials for Web Developers    
-[developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
-Introduction to Node.js    
-[nodejs.org/en/learn/getting-started/introduction-to-nodejs](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+Node.js Walkthrough   
+[nodejs.org](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 TypeScript Documentation    
-[typescriptlang.org/docs](https://www.typescriptlang.org/docs/)
+[typescriptlang.org](https://www.typescriptlang.org/docs/)
 
 Web Technology for Developers    
-[developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web)
 
 ## Shorts    
 
