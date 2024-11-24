@@ -45,13 +45,13 @@ JavaScript Guide
 ## Guides and Tutorials
 
 [Complete Index of MDN Covering All Front-End] Web Technology for Developers    
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web)
+[Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
 
 [Complete Index of MDN Front-End] Developer Guides    
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide)
+[Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 [Complete Index of MDN Front-End] Tutorials for Web Developers    
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+[Tutorials for Web Developers](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 Node.js Walkthrough   
 Run JavaScript anywhere. Back-end starts here.    
