@@ -56,6 +56,11 @@ Introduction to Node.js
 TypeScript Documentation    
 [typescriptlang.org/docs](https://www.typescriptlang.org/docs/)
 
+Web Technology for Developers    
+[developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
+
+## Shorts    
+
 HTML Forms    
 [developer.mozilla.org/en-US/docs/Learn/Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
@@ -68,13 +73,8 @@ Using CSS Animations
 Introducing JavaScript Objects    
 [developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
-Web Technology for Developers    
-[developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
-
-## Shorts    
-
 CSS Grid vs. Flexbox: How I Decided When and How to Use Each for Perfect Layouts    
-[levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)
+[levelup.gitconnected.com](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)
 
 ## Reference
 
