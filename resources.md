@@ -11,12 +11,32 @@ This is a list of online resources that are generally recommended or mentioned i
 
 It’s not complete. We’re working hard to get comprehensive information online. If you’re a student, consider [getting involved](open-tasks) in improving it.
 
-## Reference and Guides
+## Getting Started
 
-This is an extensive site with comprehensive coverage of HTML, CSS snd JavaScript.
+Getting started with the web    
+[developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+
+Introduction to HTML    
+[developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+
+Learn to style HTML using CSS    
+[developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
+## References and Guides
+
+This is an extensive site with comprehensive coverage of HTML, CSS and JavaScript.
 
 MDN Web Docs    
 [developer.mozilla.org](https://developer.mozilla.org/)
+
+Index of Web Technology Documentation
+[developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
+
+JavaScript Guide    
+[developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+JavaScript Reference
+[developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## JavaScript Tutorial
 
@@ -79,8 +99,3 @@ GitHub Docs: Adding a theme to your GitHub Pages site using Jekyll
 
 GitHub Docs: About GitHub Pages and Jekyll    
 [docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
-
-## JavaScript Reference
-
-MDN Web Docs: JavaScript Reference
-[developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
