@@ -35,16 +35,18 @@ This covers both the core language and the web browser environment (the front-en
 The Modern JavaScript Tutorial    
 [javascript.info](https://javascript.info/)
 
-## Guides and Tutorials
+This is the main JavaScript guide from MDN.
 
 JavaScript Guide    
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-Tutorials for Web Developers    
-[developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+## Guides and Tutorials
 
 Developer Guides    
 [developer.mozilla.org/en-US/docs/Web/Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
+Tutorials for Web Developers    
+[developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 CSS Layout Guides    
 [developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
