@@ -59,6 +59,9 @@ HTML Forms
 CSS Layout Guides    
 [developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
 
+Using CSS Animations    
+[developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
+
 Introducing JavaScript Objects    
 [developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
