@@ -136,6 +136,9 @@ Codility
 Node.js    
 [Node.js — Run JavaScript Everywhere](https://nodejs.org/)
 
+TypeScript    
+[typescriptlang.org](https://www.typescriptlang.org/)
+
 Markdown Guide: Basic Syntax    
 [markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax/)
 
