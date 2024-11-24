@@ -85,7 +85,7 @@ web.dev
 
 ## CSS
 
-> ”While working through this lesson may seem less relevant immediately and a little more academic than some other parts of the course, an understanding of these concepts will save you from a lot of pain later on! We encourage you to work through this section carefully and check that you understand the concepts before moving on.”
+> ”While working through this lesson may seem less relevant immediately and a little more academic than some other parts of the course, **an understanding of these concepts will save you from a lot of pain later on!** We encourage you to work through this section carefully and check that you understand the concepts before moving on.”
 > 
 > ~ Well said, MDN! The same could be said of a lot of the learning that you can find from this page, although the specific quote is from the link below.
 
