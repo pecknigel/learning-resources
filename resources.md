@@ -68,6 +68,9 @@ Using CSS Animations
 Introducing JavaScript Objects    
 [developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
+Web Technology for Developers    
+[developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
+
 ## Reference
 
 HTML Reference    
@@ -87,9 +90,6 @@ Event Reference
 
 HTTP Reference    
 [developer.mozilla.org/en-US/docs/Web/HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-
-Web Technology for Developers    
-[developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
 
 ## Courses
 
