@@ -62,16 +62,16 @@ Web Technology for Developers
 ## Shorts    
 
 HTML Forms    
-[developer.mozilla.org/en-US/docs/Learn/Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
 CSS Layout Guides    
-[developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
 
 Using CSS Animations    
-[developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
 
 Introducing JavaScript Objects    
-[developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 CSS Grid vs. Flexbox: How I Decided When and How to Use Each for Perfect Layouts    
 [levelup.gitconnected.com](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)
