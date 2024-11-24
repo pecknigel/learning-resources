@@ -11,6 +11,8 @@ This is a list of online resources that are generally recommended or mentioned i
 
 It’s not complete. We’re working hard to get comprehensive information online. If you’re a student, consider [getting involved](open-tasks) in improving it.
 
+[MDN Web Docs](https://developer.mozilla.org/) is an extensive site with comprehensive coverage of HTML, CSS and JavaScript. Many of the links below are from MDN.
+
 ## Getting Started
 
 Getting Started With the Web    
@@ -36,8 +38,6 @@ The Modern JavaScript Tutorial
 [javascript.info](https://javascript.info/)
 
 ## Guides and Tutorials
-
-This is an extensive site with comprehensive coverage of HTML, CSS and JavaScript.
 
 JavaScript Guide    
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
