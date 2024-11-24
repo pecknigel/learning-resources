@@ -96,22 +96,22 @@ Codecademy: Learn JavaScript
 ## Coding Challenges
 
 JS Challenger    
-[Free Javascript challenges online | JSchallenger](https://www.jschallenger.com/)
+[jschallenger.com](https://www.jschallenger.com/)
 
 Edabit    
-[Edabit](https://edabit.com/challenges)
+[edabit.com/challenges](https://edabit.com/challenges)
 
 CodingJS    
-[CodingJS](https://the-winter.github.io/codingjs/)
+[the-winter.github.io/codingjs](https://the-winter.github.io/codingjs/)
 
 Code Wars    
-[Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com/)
+[codewars.com](https://www.codewars.com/)
 
 LeetCode    
-[LeetCode - The World’s Leading Online Programming Learning Platform](https://leetcode.com/)
+[leetcode.com](https://leetcode.com/)
 
 Codility    
-[Codility: Online Coding Tests & Technical Interviews](https://www.codility.com/)
+[codility.com](https://www.codility.com/)
 
 ## Utilities
 
