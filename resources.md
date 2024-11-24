@@ -45,17 +45,17 @@ JavaScript Guide
 ## Guides and Tutorials
 
 [Complete Index of MDN Covering All Front-End] Web Technology for Developers    
-[Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
+[**Web Technology for Developers**](https://developer.mozilla.org/en-US/docs/Web)
 
 [Complete Index of MDN Front-End] Developer Guides    
-[Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+[**Developer Guides**](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 [Complete Index of MDN Front-End] Tutorials for Web Developers    
-[Tutorials for Web Developers](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+[**Tutorials for Web Developers**](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 [Complete Index of MDN Covering] Objects in JavaScript   
 This is essential for any JavaScript developer.    
-[Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+[**Objects in JavaScript**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 Node.js Walkthrough   
 Run JavaScript anywhere. Back-end starts here.    
