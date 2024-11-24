@@ -35,6 +35,8 @@ This covers both the core language and the web browser environment (the front-en
 The Modern JavaScript Tutorial    
 [javascript.info](https://javascript.info/)
 
+## JavaScript Guide
+
 This is the main JavaScript guide from MDN.
 
 JavaScript Guide    
