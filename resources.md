@@ -148,3 +148,17 @@ Setting up a GitHub Pages Site with Jekyll
 
 About GitHub Pages and Jekyll    
 [docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+## Standards and Governance
+
+W3C: World Wide Web Consortium    
+[w3.org](https://www.w3.org/)
+
+TC39: ECMAScript    
+[ecma-international.org/technical-committees/tc39](https://ecma-international.org/technical-committees/tc39/)
+
+WHATWG    
+[whatwg.org](https://whatwg.org/)
+
+List of Internet Organizations    
+[https://en.m.wikipedia.org/wiki/List_of_Internet_organizations](https://en.m.wikipedia.org/wiki/List_of_Internet_organizations)
