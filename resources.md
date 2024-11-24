@@ -32,7 +32,7 @@ This is an extensive site with comprehensive coverage of HTML, CSS and JavaScrip
 MDN Web Docs    
 [developer.mozilla.org](https://developer.mozilla.org/)
 
-Index of Web Technology Documentation
+Web Technology Documentation Index
 [developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
 
 JavaScript Guide    
