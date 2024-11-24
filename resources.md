@@ -75,6 +75,13 @@ Using CSS Animations
 Introducing JavaScript Objects    
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
+CSS Flexbox Layout Guide    
+Learn this first. Then Grid later.    
+[css-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+CSS Grid Layout Guide    
+[css-tricks.com](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 CSS Grid vs. Flexbox: How I Decided When and How to Use Each for Perfect Layouts    
 [levelup.gitconnected.com](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)
 
