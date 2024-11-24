@@ -21,4 +21,6 @@ Methods for adding CSS to HTML.
 
 Options for selecting elements with CSS.
 
+Class Notes: Object Basics.
+
 See [Open Tasks](/open-tasks) for options to help out by creating class notes. Learn along the way while benefiting from extra class time.
