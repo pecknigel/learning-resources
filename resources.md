@@ -35,7 +35,7 @@ This covers both the core language and the web browser environment (the front-en
 The Modern JavaScript Tutorial    
 [javascript.info](https://javascript.info/)
 
-## References, Guides, Tutorials
+## Guides and Tutorials
 
 This is an extensive site with comprehensive coverage of HTML, CSS and JavaScript.
 
@@ -50,6 +50,8 @@ Developer Guides
 
 CSS Layout Guides    
 [developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
+
+## References
 
 HTML Reference    
 [developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
