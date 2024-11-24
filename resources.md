@@ -71,6 +71,11 @@ Introducing JavaScript Objects
 Web Technology for Developers    
 [developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
 
+## Shorts    
+
+CSS Grid vs. Flexbox: How I Decided When and How to Use Each for Perfect Layouts    
+[levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)
+
 ## Reference
 
 HTML Reference    
