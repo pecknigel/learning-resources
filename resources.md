@@ -67,24 +67,19 @@ Upgrade your JavaScript to leverage types.
 
 ## Shorts    
 
-HTML Forms    
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+[Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
-CSS Layout Guides    
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
+[HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
-Using CSS Animations    
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
+[CSS Layout Guides](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
 
-CSS Flexbox Layout Guide    
-Learn this first. Then Grid later.    
-[css-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
 
-CSS Grid Layout Guide    
-[css-tricks.com](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-CSS Grid vs. Flexbox: How I Decided When and How to Use Each for Perfect Layouts    
-[levelup.gitconnected.com](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)
+[CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+[CSS Grid vs. Flexbox](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)
 
 ## Reference
 
