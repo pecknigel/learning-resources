@@ -44,6 +44,9 @@ JavaScript Guide
 
 ## Guides and Tutorials
 
+[Complete Index of MDN Covering All Front-End] Web Technology for Developers    
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web)
+
 [Complete Index of MDN Front-End] Developer Guides    
 HTML, CSS, JavaScript, Media, APIs, More...    
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide)
@@ -53,13 +56,11 @@ HTML, CSS, JavaScript, Media, APIs, More...
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 Node.js Walkthrough   
+Run JavaScript anywhere.    
 [nodejs.org](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 TypeScript Documentation    
 [typescriptlang.org](https://www.typescriptlang.org/docs/)
-
-[Complete Index of MDN Covering All Front-End] Web Technology for Developers    
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web)
 
 ## Shorts    
 
