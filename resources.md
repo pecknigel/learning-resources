@@ -38,6 +38,12 @@ JavaScript Guide
 JavaScript Reference
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
+Event Reference    
+[developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+HTTP    
+[developer.mozilla.org/en-US/docs/Web/HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
 ## JavaScript Tutorial
 
 This covers both the core language and the web browser environment (the front-end).
@@ -86,6 +92,9 @@ Codility
 
 Markdown Guide: Basic Syntax    
 [markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax/)
+
+Developer Tools Documentation    
+[developer.mozilla.org/en-US/docs/Web#developer_tools_documentation](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)
 
 ## Create a GitHub Pages Website
 
