@@ -35,7 +35,7 @@ The Odin Project
 [theodinproject.com](https://www.theodinproject.com/)
 
 Hyperskill (Partner with JetBrains)    
-[hyperskill.org/courses?pl=javascript](https://hyperskill.org/courses?pl=javascript)
+[hyperskill.org/courses](https://hyperskill.org/courses?pl=javascript)
 
 Learn Programming    
 [Learn Programming](https://learnprogramming.online/)
@@ -72,7 +72,7 @@ Codility
 ## Utilities
 
 Markdown Guide    
-[markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+[markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Create a GitHub Pages Website
 
