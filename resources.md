@@ -39,7 +39,7 @@ javascript.info
 
 This is the main JavaScript guide from MDN Web Docs. It covers the core language.
 
-[JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)    
+[MDN: JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)    
 developer.mozilla.org
 
 ## Guides and Tutorials
