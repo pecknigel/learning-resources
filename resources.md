@@ -37,7 +37,7 @@ The Modern JavaScript Tutorial
 
 ## JavaScript Guide
 
-This is the main JavaScript guide from MDN.
+This is the main JavaScript guide from MDN Web Docs. It covers the core language.
 
 JavaScript Guide    
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
