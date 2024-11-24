@@ -13,7 +13,7 @@ It’s not complete. We’re working hard to get comprehensive information onlin
 
 ## Getting Started
 
-Getting started with the web    
+Getting Started With the Web    
 [developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
 Introduction to HTML    
@@ -22,7 +22,7 @@ Introduction to HTML
 Introduction to CSS    
 [developer.mozilla.org/en-US/docs/Learn/CSS/First_steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
-Learn to style HTML using CSS    
+Learn to Style HTML Using CSS    
 [developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 ## References and Guides
