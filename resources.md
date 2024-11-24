@@ -47,13 +47,13 @@ Index of Web Technology Documentation
 JavaScript Guide    
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-JavaScript Reference
+JavaScript Reference    
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 Event Reference    
 [developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 
-HTTP    
+HTTP Reference    
 [developer.mozilla.org/en-US/docs/Web/HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 ## JavaScript Tutorial
