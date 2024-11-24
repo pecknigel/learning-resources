@@ -60,3 +60,5 @@ These have not yet progressed to being assigned as tasks. They are ideas for pos
 Practice Project for Jekyll Static Site Builder - Set up GitHub Pages Site.
 
 Create a website using a mobile git client. GitHub Pages. Working Copy. Git.
+
+Learning Project - Git Basics.
