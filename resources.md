@@ -13,10 +13,10 @@ This is a list of online resources that are generally recommended or mentioned i
 
 ## Getting Started
 
-Getting Started With the Web    
+Getting Started with the Web    
 [developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
-Structuring the web with HTML    
+Structuring the Web with HTML    
 [developer.mozilla.org/en-US/docs/Learn/HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 Introduction to HTML    
