@@ -62,3 +62,7 @@ Practice Project for Jekyll Static Site Builder - Set up GitHub Pages Site.
 Create a website using a mobile git client. GitHub Pages. Working Copy. Git.
 
 Learning Project - Git Basics.
+
+Learning Project for API Use - Weather Data API.
+
+Decoupled request processing project where a website process doesn’t get lost if the tab is closed.
