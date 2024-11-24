@@ -62,7 +62,7 @@ Codility
 
 ## Utilities
 
-Markdown Guide    
+Markdown Guide: Basic Syntax    
 [markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Create a GitHub Pages Website
