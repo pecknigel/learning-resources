@@ -11,7 +11,9 @@ This is a list of online resources that are generally recommended or mentioned i
 
 It’s not complete. We’re working hard to get comprehensive information online. If you’re a student, consider [getting involved](open-tasks) in improving it.
 
-## General Reference
+## Reference and Guides
+
+This is an extensive site with comprehensive coverage of HTML, CSS snd JavaScript.
 
 MDN Web Docs    
 [developer.mozilla.org](https://developer.mozilla.org/)
