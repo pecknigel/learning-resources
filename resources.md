@@ -7,7 +7,7 @@ heading: Online Resources
 
 # Courses and Resources
 
-This is a list of online resources that are generally recommended or mentioned in sessions. Use your own judgement for what works for you and discuss it with Nigel.
+This is a list of online resources that are generally recommended or mentioned in sessions. Use your own judgement with what works for you and discuss it with Nigel.
 
 [MDN Web Docs](https://developer.mozilla.org/) is an extensive site with comprehensive coverage of HTML, CSS and JavaScript, from the folks who create the Firefox web browser. Many of the links below are from MDN.
 
