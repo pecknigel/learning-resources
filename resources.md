@@ -143,7 +143,7 @@ This can be great practice for working with web technologies. It’s a simple an
 Creating a GitHub Pages Site    
 [docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-Setting up a GitHub Pages site with Jekyll    
+Setting up a GitHub Pages Site with Jekyll    
 [docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
 About GitHub Pages and Jekyll    
