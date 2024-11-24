@@ -127,6 +127,9 @@ Codility
 
 ## Utilities
 
+Node.js    
+[Node.js — Run JavaScript Everywhere](https://nodejs.org/en)
+
 Markdown Guide: Basic Syntax    
 [markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax/)
 
@@ -156,6 +159,9 @@ W3C: World Wide Web Consortium
 
 TC39: ECMAScript    
 [ecma-international.org/technical-committees/tc39](https://ecma-international.org/technical-committees/tc39/)
+
+TypeScript    
+[typescriptlang.org](https://www.typescriptlang.org/)
 
 WHATWG    
 [whatwg.org](https://whatwg.org/)
