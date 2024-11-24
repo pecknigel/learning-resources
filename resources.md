@@ -16,15 +16,12 @@ It’s not complete. We’re working hard to get comprehensive information onlin
 MDN Web Docs    
 [developer.mozilla.org](https://developer.mozilla.org/)
 
-## JavaScript Guide
+## JavaScript Tutorial
+
+This covers both the core language and the web browser environment (the front-end).
 
 The Modern JavaScript Tutorial    
 [javascript.info](https://javascript.info/)
-
-## JavaScript Reference
-
-MDN Web Docs: JavaScript Reference
-[developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## Courses
 
@@ -86,3 +83,8 @@ GitHub Docs: Adding a theme to your GitHub Pages site using Jekyll
 
 GitHub Docs: About GitHub Pages and Jekyll    
 [docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+## JavaScript Reference
+
+MDN Web Docs: JavaScript Reference
+[developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
