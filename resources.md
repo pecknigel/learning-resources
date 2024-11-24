@@ -128,7 +128,10 @@ Codility
 ## Utilities
 
 Node.js    
-[Node.js — Run JavaScript Everywhere](https://nodejs.org/en)
+[Node.js — Run JavaScript Everywhere](https://nodejs.org/)
+
+TypeScript Documentation    
+[typescriptlang.org/docs](https://www.typescriptlang.org/docs/)
 
 Markdown Guide: Basic Syntax    
 [markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax/)
