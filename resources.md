@@ -76,9 +76,6 @@ developer.mozilla.org
 [CSS Layout Guides](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)    
 developer.mozilla.org
 
-[Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)    
-developer.mozilla.org
-
 [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)    
 css-tricks.com
 
@@ -87,6 +84,9 @@ css-tricks.com
 
 [CSS Grid vs. Flexbox](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)    
 levelup.gitconnected.com
+
+[Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)    
+developer.mozilla.org
 
 ## Reference
 
