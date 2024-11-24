@@ -51,7 +51,7 @@ Developer Guides
 CSS Layout Guides    
 [developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
 
-## References
+## Reference
 
 HTML Reference    
 [developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
