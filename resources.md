@@ -50,8 +50,14 @@ Developer Guides
 Tutorials for Web Developers    
 [developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
+HTML Forms    
+[developer.mozilla.org/en-US/docs/Learn/Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+
 CSS Layout Guides    
 [developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
+
+Introducing JavaScript Objects    
+[developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 ## Reference
 
@@ -120,6 +126,9 @@ Markdown Guide: Basic Syntax
 
 Developer Tools Documentation    
 [developer.mozilla.org/en-US/docs/Web#developer_tools_documentation](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)
+
+Browser Extensions    
+[developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 
 ## Create a GitHub Pages Website
 
