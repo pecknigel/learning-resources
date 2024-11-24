@@ -26,10 +26,10 @@ The Modern JavaScript Tutorial
 ## Courses
 
 freeCodeCamp    
-[freeCodeCamp: Learn to code for free](https://www.freecodecamp.org/)
+[freecodecamp.org](https://www.freecodecamp.org/)
 
 MDN Curriculum    
-[developer.mozilla.org/en-US/curriculum/](https://developer.mozilla.org/en-US/curriculum/)
+[developer.mozilla.org/en-US/curriculum](https://developer.mozilla.org/en-US/curriculum/)
 
 The Odin Project    
 [theodinproject.com](https://www.theodinproject.com/)
