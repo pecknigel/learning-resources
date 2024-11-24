@@ -188,7 +188,7 @@ Below are current implementations. All just getting started (November, 2024). A 
 
 ## Framework Engineering Collaborative Learning
 
-Work on a collaborative project much like an asynchronous remote team. Design and develop a web framework to abstract DOM manipulation. Solve the same problem at the heart of frameworks like Angular and React.
+Work in a collaborative environment much like an asynchronous remote team. Design and develop a web framework to abstract DOM manipulation. Solve the same problem at the heart of frameworks like Angular and React.
 
 **Framework Engineering Collaborative Learning**    
 [README](https://github.com/pecknigel/framework-engineering-collaborative-learning/blob/main/README.md)
