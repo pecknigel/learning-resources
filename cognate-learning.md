@@ -37,4 +37,4 @@ Journaling, creative writing, technical writing and others can all be highly ben
 
 Practicing meditation is excellent to improve your concentration, emotional state and other mental abilities.
 
-All of which help you to a far better software engineer.
+All of which can help you to be a far more effective software engineer.
