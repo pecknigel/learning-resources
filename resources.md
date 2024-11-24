@@ -65,12 +65,32 @@ TypeScript Documentation
 Upgrade your JavaScript to leverage types.    
 [typescriptlang.org](https://www.typescriptlang.org/docs/)
 
-## Shorts    
+## Deep Dives
 
 [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)    
 developer.mozilla.org
 
+[Client Side Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)    
+developer.mozilla.org
+
 [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)    
+developer.mozilla.org
+
+[Page Load Time Optimisation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages)    
+developer.mozilla.org
+
+## Shorts
+
+[How Browsers Work](https://web.dev/articles/howbrowserswork)    
+web.dev
+
+## CSS
+
+> ”While working through this lesson may seem less relevant immediately and a little more academic than some other parts of the course, an understanding of these concepts will save you from a lot of pain later on! We encourage you to work through this section carefully and check that you understand the concepts before moving on.”
+> 
+> ~ Well said, MDN! The same thinking applies to a lot of learning that you can find from this page, although the specific quote is from the link below.
+
+[Cascade, Specificity, and Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)    
 developer.mozilla.org
 
 [CSS Layout Guides](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)    
@@ -87,6 +107,9 @@ levelup.gitconnected.com
 
 [Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)    
 developer.mozilla.org
+
+[CSS Challenges](https://en.m.wikiversity.org/wiki/Web_Design/CSS_challenges)    
+wikiversity.org
 
 ## Reference
 
