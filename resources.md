@@ -166,14 +166,14 @@ About GitHub Pages and Jekyll
 W3C: World Wide Web Consortium    
 [w3.org](https://www.w3.org/)
 
+WHATWG    
+[whatwg.org](https://whatwg.org/)
+
 TC39: ECMAScript    
 [ecma-international.org/technical-committees/tc39](https://ecma-international.org/technical-committees/tc39/)
 
 TypeScript    
-[typescriptlang.org](https://www.typescriptlang.org/)
-
-WHATWG    
-[whatwg.org](https://whatwg.org/)
+[github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 
 List of Internet Organizations    
 [https://en.m.wikipedia.org/wiki/List_of_Internet_organizations](https://en.m.wikipedia.org/wiki/List_of_Internet_organizations)
