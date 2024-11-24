@@ -83,6 +83,9 @@ developer.mozilla.org
 [How Browsers Work](https://web.dev/articles/howbrowserswork)    
 web.dev
 
+[CSS Grid vs. Flexbox: Which to Use and When](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)    
+levelup.gitconnected.com
+
 ## CSS
 
 > ”While working through this lesson may seem less relevant immediately and a little more academic than some other parts of the course, **an understanding of these concepts will save you from a lot of pain later on!** We encourage you to work through this section carefully and check that you understand the concepts before moving on.”
@@ -100,9 +103,6 @@ css-tricks.com
 
 [CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)    
 css-tricks.com
-
-[CSS Grid vs. Flexbox](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)    
-levelup.gitconnected.com
 
 [Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)    
 developer.mozilla.org
