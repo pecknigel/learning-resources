@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Resources
+title: Courses and Resources
 permalink: /resources
 heading: Online Resources
 ---
