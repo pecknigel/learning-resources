@@ -67,19 +67,26 @@ Upgrade your JavaScript to leverage types.
 
 ## Shorts    
 
-[Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+[Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)    
+developer.mozilla.org
 
-[HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+[HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)    
+developer.mozilla.org
 
-[CSS Layout Guides](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
+[CSS Layout Guides](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)    
+developer.mozilla.org
 
-[Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
+[Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)    
+developer.mozilla.org
 
-[CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)    
+css-tricks.com
 
-[CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)    
+css-tricks.com
 
-[CSS Grid vs. Flexbox](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)
+[CSS Grid vs. Flexbox](https://levelup.gitconnected.com/css-grid-vs-flexbox-how-i-decided-when-and-how-to-use-each-for-perfect-layouts-4bf4b5166b59)    
+levelup.gitconnected.com
 
 ## Reference
 
