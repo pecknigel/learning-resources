@@ -13,20 +13,20 @@ This is a list of online resources that are generally recommended or mentioned i
 
 ## Getting Started
 
-Getting Started with the Web    
-[developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+[Getting Started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)    
+developer.mozilla.org
 
-Structuring the Web with HTML    
-[developer.mozilla.org/en-US/docs/Learn/HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+[Structuring the Web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)    
+developer.mozilla.org
 
-Introduction to HTML    
-[developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+[Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)    
+developer.mozilla.org
 
-Learn to Style HTML Using CSS    
-[developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+[Learn to Style HTML Using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)    
+developer.mozilla.org
 
-Learn JavaScript    
-[developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+[Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)    
+developer.mozilla.org
 
 ## JavaScript Tutorial
 
