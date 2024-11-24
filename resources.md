@@ -37,17 +37,8 @@ The Odin Project
 Hyperskill (Partner with JetBrains)    
 [hyperskill.org/courses](https://hyperskill.org/courses?pl=javascript)
 
-Learn Programming    
-[Learn Programming](https://learnprogramming.online/)
-
-Learn JavaScript    
-[Learn JavaScript](https://learnjavascript.online/)
-
-Codecademy    
-[Learn JavaScript | Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-
-Traversy Media    
-[Traversy Media | Learn Web Development](https://www.traversymedia.com/)
+Codecademy: Learn JavaScript   
+[codecademy.com/learn/introduction-to-javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 ## Coding Challenges
 
