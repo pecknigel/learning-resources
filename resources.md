@@ -53,6 +53,9 @@ JavaScript Guide
 [Complete Index of MDN Front-End] Tutorials for Web Developers    
 [Tutorials for Web Developers](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
+[Complete Index of MDN Covering] Objects in JavaScript   
+[Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+
 Node.js Walkthrough   
 Run JavaScript anywhere. Back-end starts here.    
 [nodejs.org](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
@@ -71,9 +74,6 @@ CSS Layout Guides
 
 Using CSS Animations    
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
-
-Introducing JavaScript Objects    
-[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 CSS Flexbox Layout Guide    
 Learn this first. Then Grid later.    
