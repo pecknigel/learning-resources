@@ -19,8 +19,20 @@ Getting started with the web
 Introduction to HTML    
 [developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
+Introduction to CSS    
+[developer.mozilla.org/en-US/docs/Learn/CSS/First_steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+
 Learn to style HTML using CSS    
 [developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+
+Tutorials for Web Developers    
+[developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+
+Developer Guides    
+[developer.mozilla.org/en-US/docs/Web/Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
+CSS Layout Guides    
+[developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
 
 ## References and Guides
 
