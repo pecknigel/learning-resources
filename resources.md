@@ -25,15 +25,6 @@ Introduction to CSS
 Learn to style HTML using CSS    
 [developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
-Tutorials for Web Developers    
-[developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
-
-Developer Guides    
-[developer.mozilla.org/en-US/docs/Web/Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
-
-CSS Layout Guides    
-[developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
-
 ## References and Guides
 
 This is an extensive site with comprehensive coverage of HTML, CSS and JavaScript.
@@ -49,6 +40,15 @@ JavaScript Guide
 
 JavaScript Reference    
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+Tutorials for Web Developers    
+[developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+
+Developer Guides    
+[developer.mozilla.org/en-US/docs/Web/Guide](https://developer.mozilla.org/en-US/docs/Web/Guide)
+
+CSS Layout Guides    
+[developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
 
 Event Reference    
 [developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
