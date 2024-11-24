@@ -54,6 +54,7 @@ JavaScript Guide
 [Tutorials for Web Developers](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 [Complete Index of MDN Covering] Objects in JavaScript   
+This is essential for any JavaScript developer.    
 [Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 Node.js Walkthrough   
