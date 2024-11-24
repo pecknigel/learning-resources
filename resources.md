@@ -79,6 +79,9 @@ freeCodeCamp
 MDN Curriculum    
 [developer.mozilla.org/en-US/curriculum](https://developer.mozilla.org/en-US/curriculum/)
 
+Frontend Masters    
+[frontendmasters.com/trial](https://frontendmasters.com/trial/)
+
 The Odin Project    
 [theodinproject.com](https://www.theodinproject.com/)
 
