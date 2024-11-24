@@ -74,6 +74,10 @@ Codility
 Markdown Guide    
 [markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
+## Create a GitHub Pages Website
+
+This can be great practice for working with web technologies. It’s a simple and powerful system that’s easy to learn.
+
 GitHub Docs: Creating a GitHub Pages Site    
 [docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
