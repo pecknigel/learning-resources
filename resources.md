@@ -39,23 +39,23 @@ javascript.info
 
 This is the main JavaScript guide from MDN Web Docs. It covers the core language.
 
-[MDN: JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)    
+[JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)    
 developer.mozilla.org
 
 ## Guides and Tutorials
 
 [Complete Index of MDN Covering All Front-End] Web Technology for Developers    
-[Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
+[MDN: Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
 
 [Complete Index of MDN Front-End] Developer Guides    
-[Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
+[MDN: Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 [Complete Index of MDN Front-End] Tutorials for Web Developers    
-[Tutorials for Web Developers](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+[MDN: Tutorials for Web Developers](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 [Complete Index of MDN Covering] Objects in JavaScript   
 This is all essential to be clear on.    
-[Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
+[MDN: Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 
 Node.js Walkthrough   
 Run JavaScript anywhere. Back-end starts here.    
