@@ -48,18 +48,17 @@ JavaScript Guide
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web)
 
 [Complete Index of MDN Front-End] Developer Guides    
-HTML, CSS, JavaScript, Media, APIs, More...    
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
 [Complete Index of MDN Front-End] Tutorials for Web Developers    
-HTML, CSS, JavaScript, Media, APIs, More...    
 [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 Node.js Walkthrough   
-Run JavaScript anywhere.    
+Run JavaScript anywhere. Back-end starts here.    
 [nodejs.org](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 
 TypeScript Documentation    
+Upgrade your JavaScript to leverage types.    
 [typescriptlang.org](https://www.typescriptlang.org/docs/)
 
 ## Shorts    
