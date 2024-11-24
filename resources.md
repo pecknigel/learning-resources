@@ -32,8 +32,8 @@ Learn JavaScript
 
 This covers both the core language and the web browser environment (the front-end).
 
-The Modern JavaScript Tutorial    
-[javascript.info](https://javascript.info/)
+[The Modern JavaScript Tutorial](https://javascript.info/)    
+javascript.info
 
 ## JavaScript Guide
 
