@@ -22,14 +22,11 @@ Structuring the Web with HTML
 Introduction to HTML    
 [developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
-Introduction to CSS    
-[developer.mozilla.org/en-US/docs/Learn/CSS/First_steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
-
 Learn to Style HTML Using CSS    
 [developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
-JavaScript First Steps    
-[developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+Learn JavaScript    
+[developer.mozilla.org/en-US/docs/Learn/JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 ## JavaScript Tutorial
 
@@ -81,6 +78,9 @@ CSS Reference
 
 JavaScript Reference    
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+Web APIs    
+[developer.mozilla.org/en-US/docs/Web/API](https://developer.mozilla.org/en-US/docs/Web/API)
 
 Event Reference    
 [developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
