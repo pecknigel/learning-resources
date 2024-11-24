@@ -25,21 +25,15 @@ Introduction to CSS
 Learn to Style HTML Using CSS    
 [developer.mozilla.org/en-US/docs/Learn/CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
-## References and Guides
+JavaScript First Steps    
+[developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)
+
+## References, Guides, Tutorials
 
 This is an extensive site with comprehensive coverage of HTML, CSS and JavaScript.
 
-MDN Web Docs    
-[developer.mozilla.org](https://developer.mozilla.org/)
-
-Web Technology Documentation Index
-[developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
-
 JavaScript Guide    
 [developer.mozilla.org/en-US/docs/Web/JavaScript/Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-
-JavaScript Reference    
-[developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 Tutorials for Web Developers    
 [developer.mozilla.org/en-US/docs/Web/Tutorials](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
@@ -50,11 +44,23 @@ Developer Guides
 CSS Layout Guides    
 [developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)
 
+HTML Reference    
+[developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+CSS Reference    
+[developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+JavaScript Reference    
+[developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
 Event Reference    
 [developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 HTTP Reference    
 [developer.mozilla.org/en-US/docs/Web/HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+Web Technology Documentation Index
+[developer.mozilla.org/en-US/docs/Web](https://developer.mozilla.org/en-US/docs/Web)
 
 ## JavaScript Tutorial
 
