@@ -140,11 +140,11 @@ Browser Extensions
 
 This can be great practice for working with web technologies. It’s a simple and powerful system that’s easy to learn.
 
-GitHub Docs: Creating a GitHub Pages Site    
+Creating a GitHub Pages Site    
 [docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-GitHub Docs: Setting up a GitHub Pages site with Jekyll    
+Setting up a GitHub Pages site with Jekyll    
 [docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 
-GitHub Docs: About GitHub Pages and Jekyll    
+About GitHub Pages and Jekyll    
 [docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
