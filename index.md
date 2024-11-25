@@ -11,7 +11,7 @@ Consider this the entranceway. It features  a live view of the learning initiati
 
 There’s something for everyone. All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready to get started.
 
-Our Educator in Chief (Nigel) is also head librarian and maintains this site by hand using Markdown, Jekyll, GitHub Pages and a combination of Working Copy (iOS Git client) and some WebStorm and other editors.
+Our Educator in Chief (Nigel) is also head librarian and maintains this site by hand using Markdown, Jekyll and GitHub Pages. Editing the files using Working Copy (an iOS Git client), a little WebStorm and occasionally the GitHub website.
 
 ---
 
