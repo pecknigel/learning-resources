@@ -154,6 +154,8 @@ If you don’t have available a few hours minimum per week, a practice or open s
 - Great for the resume/CV if you’re looking to get a career started.
 - Great for getting some practical experience if you’ve been studying.
 
+Find out more about our two active programs, trading exchange and web framework engineering, below.
+
 ---
 
 ## Trading Exchange Engineering Program
