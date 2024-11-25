@@ -194,7 +194,7 @@ developer.mozilla.or
 
 This can be great practice for working with web technologies. Jekyll is a simple and powerful system that’s easy to learn. GitHub Pages is a free and well designed system for easily using it. Improve many important skills. Not least Git itself.
 
-[Creating a GitHub Pages SitE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)    
+[Creating a GitHub Pages Site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)    
 docs.github.com
 
 [Setting up a GitHub Pages Site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)    
