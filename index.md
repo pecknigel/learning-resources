@@ -11,14 +11,14 @@ Welcome to the academy library. Here you’ll find resources to support your lea
 
 This page features all of the available learning initiatives from [Prescription Free Academy](https://prescriptionfree.academy/).
 
-- Practice Projects
-- Learning Projects
-- Tasks for Coding Practice
-- Open Source Projects
-- Contribute to the School
-- Collaborative Learning Programs
-- Trading Exchange Engineering Program
-- Web Framework Engineering Program
+- [Practice Projects](#practice-projects)
+- [Learning Projects](#learning-projects)
+- [Tasks for Coding Practice](#tasks-for-coding-practice)
+- [Open Source Projects](#open-source-projects)
+- [Contribute to the School](#Contribute to the-school)
+- [Collaborative Learning Programs](#collaborative-learning-programs)
+- [Trading Exchange Engineering Program](#trading-exchange-engineering-program)
+- [Web Framework Engineering Program](#web-framework-engineering-program)
  
 They’re generally set up as Git repositories hosted on GitHub. There are links to the README to get started, the files themselves, the commit log and the issues (if any) for each repository.
 
