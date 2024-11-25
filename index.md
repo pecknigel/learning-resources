@@ -76,6 +76,8 @@ Projects with lots of detail to focus on learning a particular topic.
 • [Issues](https://github.com/pecknigel/css-flexbox-learning-project/issues)
 • [Commits](https://github.com/pecknigel/css-flexbox-learning-project/commits/main/)
 
+Plenty of these to come. See open tasks to get an idea of what’s planned. Set up a session with Nigel if you’re looking for guidance on a particular topic.
+
 ---
  
 ## Tasks for Coding Practice
