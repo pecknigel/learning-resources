@@ -11,6 +11,8 @@ Consider this the entranceway. We start with a live view of the learning initiat
 
 There’s something fir everyone. All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready to get started.
 
+---
+
 # Learning Initiatives
 
 This page features all of the available learning initiatives from [Prescription Free Academy](https://prescriptionfree.academy/).
