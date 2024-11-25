@@ -193,7 +193,7 @@ markdownguide.org/basic-syntax
 [Homebrew — The Missing Package Manager for macOS (or Linux)](https://brew.sh/)    
 brew.sh
 
-[GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)    
+[Node Version Manager - Manage Multiple Active Node.js Versions](https://github.com/nvm-sh/nvm)    
 github.com
 
 [Git Bash/Git for Windows](https://git-scm.com/downloads/win)    
