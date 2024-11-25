@@ -131,9 +131,7 @@ Get involved in our open source projects. Very limited guidance here. Find your 
 • [Issues](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/issues)
 • [Commits](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/commits/main/)
 
-Some are part of larger collaborative projects but can be undertaken in isolation.
-
-Book a session with Nigel for help getting started if this initiative seems interesting but you don’t know where to start.
+Some are part of larger collaborative projects but can be undertaken in isolation. Book a session with Nigel for help getting started if this initiative seems interesting but you don’t know where to start.
 
 ---
 
