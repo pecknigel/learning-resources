@@ -175,6 +175,9 @@ CSS Challenges
 
 ## Utilities
 
+[WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)    
+jetbrains.com
+
 [Node.js — Run JavaScript Everywhere](https://nodejs.org/)    
 nodejs.org
     
@@ -194,6 +197,9 @@ developer.mozilla.org
 git-scm.com
 
 ## Learn to Use Your Tools
+
+[Get Started with WebStorm](https://www.jetbrains.com/webstorm/learn/)    
+jetbrains.com/webstorm/learn
 
 [Introduction to PowerShell](https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/)    
 learn.microsoft.com

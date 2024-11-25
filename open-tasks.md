@@ -68,3 +68,9 @@ Learning Project for API Use - Weather Data API.
 Decoupled request processing project where a website process doesn’t get lost if the tab is closed.
 
 Practice project setting up a form processing cgi-bin type script for learning HTTP without XHR.
+
+Learning project for information architecture.
+
+Learning project for URLs.
+
+Learning project for HTTP.
