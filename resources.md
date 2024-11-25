@@ -78,6 +78,9 @@ developer.mozilla.org
 [Page Load Time Optimisation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages)    
 developer.mozilla.org
 
+[Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)    
+developer.mozilla.or
+
 ## Shorts
 
 [How Browsers Work](https://web.dev/articles/howbrowserswork)    
@@ -186,9 +189,6 @@ markdownguide.org/basic-syntax
 
 [Developer Tools](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)    
 developer.mozilla.org
-
-[Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)    
-developer.mozilla.or
 
 [Git Bash/Git for Windows](https://git-scm.com/downloads/win)    
 git-scm.com
