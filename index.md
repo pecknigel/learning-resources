@@ -15,7 +15,7 @@ This page features all of the available learning initiatives from [Prescription 
 - [Learning Projects](#learning-projects)
 - [Tasks for Coding Practice](#tasks-for-coding-practice)
 - [Open Source Projects](#open-source-projects)
-- [Contribute to the School](#Contribute to the-school)
+- [Contribute to the School](#contribute-to-the-school)
 - [Collaborative Learning Programs](#collaborative-learning-programs)
 - [Trading Exchange Engineering Program](#trading-exchange-engineering-program)
 - [Web Framework Engineering Program](#web-framework-engineering-program)
