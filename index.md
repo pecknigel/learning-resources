@@ -91,7 +91,7 @@ Collections of practice tasks to improve your coding skills. Learn and practice 
 **Repeat Yourself: Loops, Iteration and Scope**    
 [Not Currently in Production]
 
-Working on these the weekend November 23/24. Plenty more of these to come. Collections to cover all of the basic coding techniques. How to put the pieces together to build software.
+We are working on these the week commencing November 25. Plenty more to come. Collections to cover all of the basic coding techniques. How to put the pieces together to build software.
 
 ---
  
