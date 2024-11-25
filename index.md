@@ -7,7 +7,7 @@ heading: Learning Initiatives
 
 Welcome to the Academy Library. Here you’ll find resources to support your learning and involvement with the academy.
 
-Consider this the entranceway. We start with a live view of the learning initiatives that are underway.
+Consider this the entranceway. It features  a live view of the learning initiatives that are underway.
 
 There’s something for everyone. All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready to get started.
 
