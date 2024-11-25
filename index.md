@@ -194,6 +194,8 @@ Below are current implementations. All just getting started (November, 2024). A 
 • [Issues](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/issues)
 • [Commits](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/commits/main/)
 
+Late November, 2024 - This program is gaining momentum with students and our engineering lead actively working on development.
+
 ---
 
 ## Framework Engineering Collaborative Learning
