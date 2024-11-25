@@ -208,4 +208,4 @@ Work in a collaborative environment much like an asynchronous remote team. Desig
 • [Issues](https://github.com/pecknigel/framework-engineering-collaborative-learning/issues)
 • [Commits](https://github.com/pecknigel/framework-engineering-collaborative-learning/commits/main/)
 
-Early days with this one. More coming through December/January 2024. A great time to get involved in firing up this long term program.
+Early days with this one. Experiments are being made. More coming through December/January 2024. A great time to get involved in firing up this long term program.
