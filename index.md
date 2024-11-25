@@ -18,8 +18,8 @@ This page features all of the available learning initiatives from [Prescription 
 - [Contribute to the School](#contribute-to-the-school)
 - [Collaborative Learning Programs](#collaborative-learning-programs)
 - [Trading Exchange Engineering Program](#trading-exchange-engineering-program)
-- [Web Framework Engineering Program](#web-framework-engineering-program)
- 
+- [Web Framework Engineering Program](#framework-engineering-collaborative-learning)
+
 They’re generally set up as Git repositories hosted on GitHub. There are links to the README to get started, the files themselves, the commit log and the issues (if any) for each repository.
 
 It can be handy to bookmark this page. It’s updated as things change.
