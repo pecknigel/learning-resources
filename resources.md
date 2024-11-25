@@ -181,10 +181,10 @@ typescriptlang.org
 [Git](https://git-scm.com/book/en/v2)    
 git-scm.com/book/en/v2
 
-[Markdown Guide](https://www.markdownguide.org/basic-syntax/)    
+[Markdown](https://www.markdownguide.org/basic-syntax/)    
 markdownguide.org/basic-syntax
 
-[Developer Tools Documentation](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)    
+[Developer Tools](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)    
 developer.mozilla.org
 
 [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)    
