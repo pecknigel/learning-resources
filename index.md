@@ -9,7 +9,7 @@ Welcome to the Academy Library. Here you’ll find resources to support your lea
 
 Consider this the entranceway. We start with a live view of the learning initiatives that are underway.
 
-There’s something fir everyone. All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready to get started.
+There’s something for everyone. All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready to get started.
 
 ---
 
