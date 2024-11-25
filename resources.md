@@ -190,6 +190,14 @@ developer.mozilla.org
 [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)    
 developer.mozilla.or
 
+[Git Bash/Git for Windows](https://git-scm.com/downloads/win)    
+git-scm.com
+
+## Learn to Use Your Tools
+
+[Introduction to PowerShell](https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/)    
+learn.microsoft.com
+
 ## Create a GitHub Pages Website
 
 This can be great practice for working with web technologies. Jekyll is a simple and powerful system that’s easy to learn. GitHub Pages is a free and well designed system for easily using it. Improve many important skills. Not least Git itself.
