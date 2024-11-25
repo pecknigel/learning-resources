@@ -173,25 +173,28 @@ Codility
 CSS Challenges    
 [wikiversity.org](https://en.m.wikiversity.org/wiki/Web_Design/CSS_challenges)
 
-## Utilities
+## Tools and Utilities
 
 [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)    
 jetbrains.com
 
 [Node.js — Run JavaScript Everywhere](https://nodejs.org/)    
 nodejs.org
+
+[Developer Tools](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)    
+developer.mozilla.org
     
 [TypeScript](https://www.typescriptlang.org/)    
 typescriptlang.org
-    
-[Git](https://git-scm.com/book/en/v2)    
-git-scm.com/book/en/v2
 
 [Markdown](https://www.markdownguide.org/basic-syntax/)    
 markdownguide.org/basic-syntax
 
-[Developer Tools](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)    
-developer.mozilla.org
+[Homebrew — The Missing Package Manager for macOS (or Linux)](https://brew.sh/)    
+brew.sh
+
+[GitHub - nvm-sh/nvm: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions](https://github.com/nvm-sh/nvm)    
+github.com
 
 [Git Bash/Git for Windows](https://git-scm.com/downloads/win)    
 git-scm.com
@@ -200,6 +203,9 @@ git-scm.com
 
 [Get Started with WebStorm](https://www.jetbrains.com/webstorm/learn/)    
 jetbrains.com/webstorm/learn
+
+[Pro Git](https://git-scm.com/book/en/v2)    
+git-scm.com/book/en/v2
 
 [Introduction to PowerShell](https://learn.microsoft.com/en-us/training/modules/introduction-to-powershell/)    
 learn.microsoft.com
