@@ -5,7 +5,11 @@ permalink: /
 heading: Learning Initiatives
 ---
 
-Welcome to the academy library. Here you’ll find resources to support your learning and involvement with the academy.
+Welcome to the Academy Library. Consider this the entranceway.
+
+Here you’ll find resources to support your learning and involvement with the academy. Starting with a live view of the learning initiatives that are currently underway.
+
+All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready.
 
 # Learning Initiatives
 
