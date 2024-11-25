@@ -177,6 +177,9 @@ nodejs.org
     
 [TypeScript](https://www.typescriptlang.org/)    
 typescriptlang.org
+    
+[Git](https://git-scm.com/book/en/v2)    
+git-scm.com/book/en/v2
 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)    
 markdownguide.org/basic-syntax
@@ -189,16 +192,16 @@ developer.mozilla.or
 
 ## Create a GitHub Pages Website
 
-This can be great practice for working with web technologies. It’s a simple and powerful system that’s easy to learn.
+This can be great practice for working with web technologies. Jekyll is a simple and powerful system that’s easy to learn. GitHub Pages is a free and well designed system for easily using it. Improve many important skills. Not least Git itself.
 
-Creating a GitHub Pages Site    
-[docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+[Creating a GitHub Pages SitE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)    
+docs.github.com
 
-Setting up a GitHub Pages Site with Jekyll    
-[docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+[Setting up a GitHub Pages Site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)    
+docs.github.com
 
-About GitHub Pages and Jekyll    
-[docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)    
+docs.github.com
 
 ## Standards and Governance
 
