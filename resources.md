@@ -107,9 +107,6 @@ css-tricks.com
 [Using CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)    
 developer.mozilla.org
 
-[CSS Challenges](https://en.m.wikiversity.org/wiki/Web_Design/CSS_challenges)    
-wikiversity.org
-
 ## Reference
 
 HTML Reference    
@@ -170,22 +167,25 @@ LeetCode
 Codility    
 [codility.com](https://www.codility.com/)
 
+CSS Challenges    
+[wikiversity.org](https://en.m.wikiversity.org/wiki/Web_Design/CSS_challenges)
+
 ## Utilities
 
-Node.js    
-[Node.js — Run JavaScript Everywhere](https://nodejs.org/)
+[Node.js — Run JavaScript Everywhere](https://nodejs.org/)    
+nodejs.org
+    
+[TypeScript](https://www.typescriptlang.org/)    
+typescriptlang.org
 
-TypeScript    
-[typescriptlang.org](https://www.typescriptlang.org/)
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/)    
+markdownguide.org/basic-syntax
 
-Markdown Guide: Basic Syntax    
-[markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax/)
+[Developer Tools Documentation](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)    
+developer.mozilla.org
 
-Developer Tools Documentation    
-[developer.mozilla.org/en-US/docs/Web#developer_tools_documentation](https://developer.mozilla.org/en-US/docs/Web#developer_tools_documentation)
-
-Browser Extensions    
-[developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+[Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)    
+developer.mozilla.or
 
 ## Create a GitHub Pages Website
 
