@@ -79,7 +79,7 @@ developer.mozilla.org
 developer.mozilla.org
 
 [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)    
-developer.mozilla.or
+developer.mozilla.org
 
 [How Browsers Work](https://web.dev/articles/howbrowserswork)    
 web.dev
