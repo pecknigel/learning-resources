@@ -57,6 +57,8 @@ Set up Practice Project: Abstract DOM Manipulation. Create an abstraction for DO
 
 These have not yet progressed to being assigned as tasks. They are ideas for possible future development.
 
+Learning project for a simple Express API that makes mathematical calculations.
+
 Practice Project for Jekyll Static Site Builder - Set up GitHub Pages Site.
 
 Create a website using a mobile git client. GitHub Pages. Working Copy. Git.
