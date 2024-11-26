@@ -22,7 +22,7 @@
       padding-top: 15px;
       padding-left: 20px;
     }
-    #scrollToTopBtn {
+    #btnTop {
       position: fixed;
       bottom: 10px;
       right: 10px;
@@ -69,7 +69,7 @@
 
       </section>
       <footer>
-      <button id="btnToTop">☝️</button>
+      <button id="btnTop">☝️</button>
       &copy; Prescription Free Academy 2024    
       <ul>
         <li><a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></li>
@@ -79,9 +79,9 @@
       </footer>
     </div>
     <script>
-btnToTop.addEventListener("click", () => document.documentElement.scrollTo({ top: 0, behavior: "smooth" }));
+btnTop.addEventListener("click", () => document.documentElement.scrollTo({ top: 0, behavior: "smooth" }));
 
-var maintainScrollButton = () => btnToTop.style.display = window.scrollY >= 200 ? 'flex' : 'none';
+var maintainScrollButton = () => btnTop.style.display = window.scrollY >= 200 ? 'flex' : 'none';
 maintainScrollButton();
 window.addEventListener("scroll", maintainScrollButton);
     </script>
