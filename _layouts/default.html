@@ -173,8 +173,8 @@ utilityBelt.classList.add('collapsed');
     window.location.href = '/';
   });
   const goToSection = wrapFn(section => {
-    const anchor = section.toLowerCase().replaceAll(/\s+/g, '-');
-    window.location.href = '#' + anchor;
+    // const anchor = section.toLowerCase().replaceAll(/\s+/g, '-');
+    // window.location.href = '#' + anchor;
   });
   const toggleDynamicToc = wrapFn( () => {
     dynamicToc.classList.toggle('shown');
