@@ -88,10 +88,13 @@
     #dynamicToc menu {
       margin: 0;
       padding: 0;
-      display: none;
+      display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: stretch;
+    }
+    #dynamicToc menu#menuToc {
+      display: none;
     }
     #dynamicToc menu#menuToc.shown {
       display: flex;
