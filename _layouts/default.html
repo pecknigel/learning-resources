@@ -26,14 +26,26 @@
       position: fixed;
       bottom: 0;
       right: 0;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
       box-sizing: border-box;
       width: 100%;
       padding: 0 15px 15px;
     }
-    button {
+    #utilityBelt.collapsed .collapsible {
+      display: none;
+    }
+    #btnHome {
+      left: 0;
+    }
+    #btnToc {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    #btnTop {
+      right: 0;
+    }
+    #utilityBelt button {
+      position: absolute;
+      bottom: 0;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -48,9 +60,6 @@
       cursor: pointer;
       white-space: nowrap;
     }
-    #utilityBelt.collapsed .collapsible button {
-      display: none;
-    } 
     </style>
   </head>
   <body>
@@ -83,9 +92,9 @@
       </section>
       <footer>
       <div id="utilityBelt">
-        <div id="btnHome" class="collapsible"><button>Home</button></div>
+        <button id="btnHome" class="collapsible">Home</button>
         <button id="btnToc">H</button>
-        <div id="btnTop"  class="collapsible"><button>To Top</button></div>
+        <button id="btnTop"  class="collapsible">To Top</button>
       </div>
       <div id="dynamicToc"></div> 
       &copy; Prescription Free Academy 2024    
