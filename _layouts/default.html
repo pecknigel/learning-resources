@@ -34,7 +34,7 @@
       line-height: 24px;
       width: 48px;
       height: 48px;
-      display: flex;
+      display: none;
       justify-content: center;
       align-items: center;
     }
@@ -79,8 +79,11 @@
       </footer>
     </div>
     <script>
-var rootElement = document.documentElement;
-scrollToTopBtn.addEventListener("click", function () { rootElement.scrollTo({ top: 0, behavior: "smooth" })}); 
+btnToTop.addEventListener("click", () => document.documentElement.scrollTo({ top: 0, behavior: "smooth" }));
+
+var maintainScrollButton = () => btnToTop.style.display = (window.scrollY >= 200 ? 'flex' : 'none';
+maintainScrollButton();
+window.addEventListener("scroll", maintainScrollButton);
     </script>
   </body>
 </html>
