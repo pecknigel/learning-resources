@@ -250,20 +250,26 @@
   </div>
   <script>
 // Prepare to Fail
-var removeAllEventListeners = [];
+var removeListeners = [];
 function disableBeltOnError(caller, err) {
   utilityBelt.remove();
-  if (removeAllEventListeners) {
-    for (let i = 0; i < removeAllEventListeners.length; i++) {
-      try {
-        removeAllEventListeners[i]();
-      } catch (err) {
-        console.warn('Failed to deregister a listener');
-      } 
-    }
-  } 
-  console.error("Belt cannot function at "' + caller + '" and has been shut down");
+  console.error(
+    'Belt cannot function at "' +
+    caller +
+    '" and has been shut down'
+  );
   console.error(err);
+  // Clean up now useless listeners
+  for (let i = 0; i < removeListeners.length; i++) {
+    // Continue on failure
+    try {
+      removeListeners[i]();
+    } catch (err) {
+      console.warn('Failed to remove a listener');
+    }
+  }
+  // Don't block garbage collection
+  removeListeners = null;
 }
 /*
 * Perhaps this code could be consudered very trying!
@@ -285,7 +291,7 @@ try {
   const registerListener = (el, ev, fn) => {
     try {
       el.addEventListener(ev, fn);
-      removeAllEventListeners.push(
+      removeListeners.push(
         el.removeEventListener.bind(null, ev, fn)
       );
     } catch (err) {
