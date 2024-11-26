@@ -23,11 +23,15 @@
       padding-left: 20px;
     }
     #utilityBelt {
+      display: none;
       position: fixed;
       bottom: 0;
       right: 0;
       box-sizing: border-box;
       width: 100%;
+    }
+    #utilityBelt.shown {
+      display: block;
     }
     #utilityBelt.collapsed .collapsible {
       display: none;
@@ -127,10 +131,11 @@
       </footer>
     </div>
     <script>
-    function disableBeltOnError(err) {
-      utilityBelt.style.display = 'none';
-      console.error("Belt cannot function", err);
-    }
+// Prepare to Fail 
+function disableBeltOnError(err) {
+  utilityBelt.style.display = 'none';
+  console.error("Belt cannot function", err);
+}
 try {
   // Declare
   const maintainBeltState = () => {
@@ -175,12 +180,14 @@ document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
     menu.append(item);
   }
   dynamicToc.append(menu); 
-  // Initialise
-  maintainBeltState();
   // Listen
   btnHome.addEventListener('click', goHome);
   btnTop.addEventListener('click', scrollTop);
   window.addEventListener('scroll', maintainBeltState);
+  // Initialise
+  maintainBeltState();
+  // Activate
+  utilityBelt.classList.add('shown');
 } catch (err) {
   disableBeltOnError(err);
 }
