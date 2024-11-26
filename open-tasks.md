@@ -17,10 +17,6 @@ Check repos for open issues. There are various interesting tasks open to work on
 
 ## School Admin
 
-Research and improve the [learning resources](resources) page. Work with Nigel to evaluate what should be added.
-
-Set up the learning initiatives lists so that the commit and issues links are hidden on page load with an option to show them. HTML, CSS, JavaScript, Jekyll SSG.
-
 Create a procedure for setting up a new project.
 
 Only link the library nav if it’s not the current page.
