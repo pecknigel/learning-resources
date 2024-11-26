@@ -146,6 +146,7 @@ utilityBelt.classList.add('collapsed');
   };
   const goHome = () => {
     try {
+      alert(window.location.href);
       window.location.href = '/';
     } catch (err) {
       disableBeltOnError(err);
