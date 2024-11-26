@@ -98,12 +98,19 @@
       margin: 0;
       padding: 0;
     }
+    #dynamicToc menu#menuSwitcher {
+      flex-direction: row;
+      gap: 6px;
+    }
     #dynamicToc menu li a {
       display: block;
       padding: 3px;
       text-align: center;
       color: #666;
       text-decoration: none;
+    }
+    #dynamicToc menu#menuSwitcher li a{
+padding: 3px 10px;
     }
     #dynamicToc menu li a:focus,
     #dynamicToc menu li a:hover,
@@ -151,7 +158,12 @@
           <button id="btnHome" class="collapsible"><img src="/assets/home-smile-angle-svgrepo-com.svg" alt="Home"></button>
           <button id="btnDynamicToc"><img src="/assets/menu-dots-circle-svgrepo-com.svg" alt="TOC"></button>
           <button id="btnTop"  class="collapsible"><img src="/assets/round-sort-vertical-svgrepo-com.svg" alt="To Top"></button>
-          <div id="dynamicToc"></div>
+          <div id="dynamicToc">
+            <menu id="menuSwitcher">
+              <li class="page">Page</li>
+              <li class="site">Site</li>
+            </menu>
+          </div>
         </div>
       </section>
       <footer>
@@ -224,7 +236,7 @@ location.hash = '';
     link.addEventListener('click', hideToc);
     menu.append(item);
   }
-  dynamicToc.append(menu); 
+  dynamicToc.prepend(menu);
   // Listen
   btnHome.addEventListener('click', goHome);
   btnDynamicToc.addEventListener('click', toggleDynamicToc);
