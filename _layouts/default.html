@@ -196,6 +196,13 @@ utilityBelt.classList.add('collapsed');
       disableBeltOnError(err);
     }
   };
+  const hideToc = () => {
+    try {
+      utilityBelt.classList.remove('show-toc')
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  };
   const scrollTop = () => {
     try {
 document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
@@ -214,6 +221,7 @@ location.hash = '';
     const item = document.createElement('li');
     item.append(link);
     link.href = '#' + headingText.toLowerCase().replaceAll(/\s+/g, '-');
+    link.addEventListener('click', hideToc);
     menu.append(item);
   }
   dynamicToc.append(menu); 
