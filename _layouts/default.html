@@ -68,6 +68,9 @@
       white-space: nowrap;
       box-shadow: 0 0 15px #fff, 0 0 15px #fff, 0 0 15px #fff;
     }
+    #utilityBelt button img {
+      object-fit: contain;
+    }
     #dynamicToc {
       position: fixed;
       z-index: 10000;
@@ -133,7 +136,7 @@
 
         <div id="utilityBelt">
           <button id="btnHome" class="collapsible">Home</button>
-          <button id="btnDynamicToc">Contents</button>
+          <button id="btnDynamicToc"><img src="/assets/menu-dots-circle-svgrepo-com.svg" alt="TOC"></button>
           <button id="btnTop"  class="collapsible">Top</button>
         </div>
         <div id="dynamicToc"></div>
