@@ -49,6 +49,8 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ### Write Clean Code, Master Debugging, Eliminate Frustration
 
+### Delay Gratification
+
 Currently being written November 2024.
 
 ...

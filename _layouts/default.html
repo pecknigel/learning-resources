@@ -96,6 +96,11 @@
     #dynamicToc.shown {
       display: block;
     }
+    @media print, screen and (min-width: 960px) {
+        #utilityBelt, #dynamicToc {
+            display: none !important;
+        }
+    }
     </style>
   </head>
   <body>
