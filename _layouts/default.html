@@ -251,14 +251,18 @@
   <script>
 // Prepare to Fail
 var removeAllEventListeners = [];
-function disableBeltOnError(err) {
+function disableBeltOnError(caller, err) {
   utilityBelt.remove();
   if (removeAllEventListeners) {
     for (let i = 0; i < removeAllEventListeners.length; i++) {
-      removeAllEventListeners[i]();
+      try {
+        removeAllEventListeners[i]();
+      } catch (err) {
+        console.warn('Failed to deregister a listener');
+      } 
     }
   } 
-  console.error("Belt cannot function and has been shut down");
+  console.error("Belt cannot function at "' + caller + '" and has been shut down");
   console.error(err);
 }
 /*
@@ -278,15 +282,14 @@ function disableBeltOnError(err) {
 * Nigel Peck prescriptionfree.academy Nov. 2024
 */
 try {
-  // Declare
   const registerListener = (el, ev, fn) => {
     try {
       el.addEventListener(ev, fn);
-      removeAllEventListeners.push(() => {
-        el.removeEventListener(ev, fn);
-      });
+      removeAllEventListeners.push(
+        el.removeEventListener.bind(null, ev, fn)
+      );
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('registerListener', err);
     }
   };
   const registerListenerMatrix (lnrMat) => {
@@ -295,69 +298,74 @@ try {
         registerListener(...args);
       }
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('registerListenerMatrix', err);
     }
   };
   const maintainBeltState = () => {
     try {
       if (scrollY >= 200) {
-utilityBelt.classList.remove('collapsed');
+        utilityBelt.classList.remove('collapsed');
       } else {
-utilityBelt.classList.add('collapsed');
+        utilityBelt.classList.add('collapsed');
       }
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('maintainBeltState', err);
     }
   };
   const goHome = () => {
     try {
       location.href = '/';
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('goHome', err);
     }
   };
   const toggleDynamicToc = () => {
     try {
       utilityBelt.classList.toggle('show-toc');
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('toggleDynamicToc', err);
     }
   };
   const hideToc = () => {
     try {
       utilityBelt.classList.remove('show-toc')
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('hideToc', err);
     }
   };
   const showMenuToc = (e) => {
     try {
-      e && e.preventDefault();
+      if (e) e.preventDefault();
       menuToc.classList.add('shown');
       menuNav.classList.remove('shown');
-switchToPageMenu.querySelector('a').classList.add('selected');
-switchToSiteMenu.querySelector('a').classList.remove('selected');
+      switchToPageMenu.querySelector('a')
+        .classList.add('selected');
+      switchToSiteMenu.querySelector('a')
+        .classList.remove('selected');
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('showMenuToc', err);
     }
   };
   const showMenuNav = (e) => {
     try {
-      e && e.preventDefault();
+      if (e) e.preventDefault();
       menuToc.classList.remove('shown');
       menuNav.classList.add('shown');
-switchToPageMenu.querySelector('a').classList.remove('selected');
-switchToSiteMenu.querySelector('a').classList.add('selected');
+      switchToPageMenu.querySelector('a')
+        .classList.remove('selected');
+      switchToSiteMenu.querySelector('a')
+        .classList.add('selected');
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('showMenuNav', err);
     }
   };
   const scrollTop = () => {
     try {
-document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
-location.hash = '';
+      document.documentElement
+        .scrollTo({ top: 0, behavior: 'smooth' });
+      location.hash = '';
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('scrollTop', err);
     }
   };
   const populateToc = () => {
@@ -365,7 +373,8 @@ location.hash = '';
       const menu = document.createElement('menu');
       menu.id = 'menuToc';
       menu.classList.add('shown');
-      const tocItems = document.getElementsByTagName('h2');
+      const tocItems = document
+        .getElementsByTagName('h2');
       for(const entry of tocItems) {
         const li = document.createElement('li');
         const link = document.createElement('a');
@@ -382,10 +391,10 @@ location.hash = '';
       }
       dynamicToc.prepend(menu);
     } catch (err) {
-      disableBeltOnError(err);
+      disableBeltOnError('populateToc', err);
     }
   };
-  // Activate Utility Belt
+  populateToc();
   registerListenerMatrix([
     [btnHome, 'click', goHome],
     [btnDynamicToc, 'click', toggleDynamicToc],
