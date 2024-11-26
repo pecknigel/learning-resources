@@ -157,7 +157,7 @@ try {
   // Declare
   const maintainBeltState = () => {
     try {
-      if (window.scrollY >= 200) {
+      if (scrollY >= 200) {
 utilityBelt.classList.remove('collapsed');
       } else {
 utilityBelt.classList.add('collapsed');
@@ -168,7 +168,7 @@ utilityBelt.classList.add('collapsed');
   };
   const goHome = () => {
     try {
-      window.location.href = '/';
+      location.href = '/';
     } catch (err) {
       disableBeltOnError(err);
     }
@@ -176,7 +176,7 @@ utilityBelt.classList.add('collapsed');
   const goToSection = section => {
     try {
       const anchor = section.toLowerCase().replaceAll(/\s+/g, '-');
-      window.location.href = '#' + anchor;
+      location.hash = '#' + anchor;
     } catch (err) {
       disableBeltOnError(err);
     }
