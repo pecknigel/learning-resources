@@ -39,10 +39,6 @@
       align-items: center;
     }
     </style>
-    <script>
-var rootElement = document.documentElement;
-scrollToTopBtn.addEventListener("click", function () { rootElement.scrollTo({ top: 0, behavior: "smooth" })}); 
-    </script>
   </head>
   <body>
     <div class="wrapper">
@@ -82,6 +78,9 @@ scrollToTopBtn.addEventListener("click", function () { rootElement.scrollTo({ to
       </ul> 
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+var rootElement = document.documentElement;
+scrollToTopBtn.addEventListener("click", function () { rootElement.scrollTo({ top: 0, behavior: "smooth" })}); 
+    </script>
   </body>
 </html>
