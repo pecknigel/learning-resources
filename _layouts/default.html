@@ -35,12 +35,13 @@
       box-sizing: border-box;
       width: 100%;
       background: white;
-    }
-    #utilityBelt.collapsed {
       border-top: 3px solid #d0d0d0;
     }
     #utilityBelt.shown {
       display: block;
+    }
+    #utilityBelt.show-toc {
+      border-top: 0;
     }
     #utilityBelt.collapsed .collapsible {
       display: none;
@@ -97,7 +98,7 @@
       margin: 0;
       padding: 0;
     }
-    #dynamicToc.shown {
+    #utilityBelt.show-toc #dynamicToc {
       display: block;
     }
     @media print, screen and (min-width: 960px) {
@@ -138,8 +139,8 @@
           <button id="btnHome" class="collapsible"><img src="/assets/home-smile-angle-svgrepo-com.svg" alt="Home"></button>
           <button id="btnDynamicToc"><img src="/assets/menu-dots-circle-svgrepo-com.svg" alt="TOC"></button>
           <button id="btnTop"  class="collapsible"><img src="/assets/round-sort-vertical-svgrepo-com.svg" alt="To Top"></button>
+          <div id="dynamicToc"></div>
         </div>
-        <div id="dynamicToc"></div>
       </section>
       <footer>
       <ul>
@@ -178,7 +179,7 @@ utilityBelt.classList.add('collapsed');
   };
   const goToSection = anchor => {
     try {
-      dynamicToc.classList.remove('shown');
+      utilityBelt.classList.remove('show-toc');
       location.hash = '#' + anchor;
     } catch (err) {
       disableBeltOnError(err);
@@ -186,7 +187,7 @@ utilityBelt.classList.add('collapsed');
   };
   const toggleDynamicToc = () => {
     try {
-      dynamicToc.classList.toggle('shown');
+      utilityBelt.classList.toggle('show-toc');
     } catch (err) {
       disableBeltOnError(err);
     }
