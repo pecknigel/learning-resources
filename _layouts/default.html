@@ -59,6 +59,28 @@
       cursor: pointer;
       white-space: nowrap;
     }
+    #dynamicToc {
+      position: fixed;
+      bottom: 74px;
+      left: 0;
+      width: 100%;
+      display: none;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+    }
+    #dynamicToc menu {
+      margin: 0;
+      padding: 0;
+    }
+    #dynamicToc menu li {
+      margin: 0;
+      padding: 0;
+    }
+    #dynamicToc.shown {
+      display: flex;
+    }
     </style>
   </head>
   <body>
@@ -92,7 +114,7 @@
       <footer>
       <div id="utilityBelt">
         <button id="btnHome" class="collapsible">Home</button>
-        <button id="btnToc">H</button>
+        <button id="btnToc">TOC</button>
         <button id="btnTop"  class="collapsible">To Top</button>
       </div>
       <div id="dynamicToc"></div> 
@@ -127,20 +149,27 @@ utilityBelt.classList.add('collapsed');
       window.location.href = '/';
     } catch (err) {
       disableBeltOnError(err);
+    }
+  };
+  const toggleDynamicToc = () => }
+    try {
+      dynamicToc.classList.toggle('shown');
+    } catch (err) {
+      disableBeltOnError(err);
     } 
   };
   const scrollTop = () => {
     try {
-document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
+document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
     } catch (err) {
       disableBeltOnError(err);
     }
   };
   // Populate TOC
   const headings = [];
-  const menu = document.createElement("menu");
-  for(const heading of document.getElementsByTagName("h2")) {
-    const item = document.createElement("li");
+  const menu = document.createElement('menu');
+  for(const heading of document.getElementsByTagName('h2')) {
+    const item = document.createElement('li');
     item.innerText = heading.innerText;
     menu.append(item);
   }
@@ -148,9 +177,9 @@ document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
   // Initialise
   maintainBeltState();
   // Listen
-  btnHome.addEventListener("click", goHome);
-  btnTop.addEventListener("click", scrollTop);
-  window.addEventListener("scroll", maintainBeltState);
+  btnHome.addEventListener('click', goHome);
+  btnTop.addEventListener('click', scrollTop);
+  window.addEventListener('scroll', maintainBeltState);
 } catch (err) {
   disableBeltOnError(err);
 }
