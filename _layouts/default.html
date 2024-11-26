@@ -149,9 +149,9 @@ function disableBeltOnError(err) {
 }
 try {
   // Declare
-  const wrapFn = fn => (() => {
+  const wrapFn = fn => (args => {
     try {
-      fn.call(null);
+      fn.apply(null, args);
     } catch (err) {
       disableBeltOnError(err);
     }
@@ -164,8 +164,11 @@ utilityBelt.classList.add('collapsed');
     }
   });
   const goHome = wrapFn(() => {
-    // alert(window.location.href);
     window.location.href = '/';
+  });
+  const goToSection = wrapFn(section => {
+    const anchor = section.toLowerCase().replaceAll(/\s+/g, '-');
+    window.location.href = '#' + anchor;
   });
   const toggleDynamicToc = wrapFn( () => {
     dynamicToc.classList.toggle('shown');
@@ -179,6 +182,7 @@ document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
   for(const heading of document.getElementsByTagName('h2')) {
     const item = document.createElement('li');
     item.innerText = heading.innerText;
+    item.addEventListener('click', goToSection(heading.innerText));
     menu.append(item);
   }
   dynamicToc.append(menu); 
