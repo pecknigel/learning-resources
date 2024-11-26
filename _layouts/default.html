@@ -150,9 +150,17 @@
       display: block;
     }
     @media print, screen and (min-width: 960px) {
-        #utilityBelt, #dynamicToc {
-            display: none !important;
-        }
+      #utilityBelt, #dynamicToc {
+        display: none !important;
+      }
+    }
+    @media print, screen and (max-height: 624px) {
+      #dynamicToc {
+        padding-bottom: 65px;
+      }
+      #utilityBelt button img {
+        height: 42px;
+      }
     }
     </style>
   </head>
