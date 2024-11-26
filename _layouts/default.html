@@ -242,16 +242,18 @@ utilityBelt.classList.add('collapsed');
       disableBeltOnError(err);
     }
   };
-  const showMenuToc = () => {
+  const showMenuToc = (e) => {
     try {
+      e && e.preventDefault();
       menuToc.classList.add('shown');
       menuNav.classList.remove('shown');
     } catch (err) {
       disableBeltOnError(err);
     }
   };
-  const showMenuNav = () => {
+  const showMenuNav = (e) => {
     try {
+      e && e.preventDefault();
       menuToc.classList.remove('shown');
       menuNav.classList.add('shown');
     } catch (err) {
