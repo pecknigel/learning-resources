@@ -259,8 +259,8 @@ function disableBeltOnError(caller, err) {
     '" and has been shut down'
   );
   console.error(err);
-  // Clean up now useless listeners
-  // Don't block garbage collection
+  // Clean up now unwanted listeners
+  // Stop blocking garbage collection
   while (removeListeners.length) {
     try {
       removeListeners.pop()();
@@ -271,6 +271,11 @@ function disableBeltOnError(caller, err) {
   }
   // I dont want to talk to you ever again!
   removeListeners = null;
+  disableBeltOnError = null;
+  try {
+    delete window.removeListeners;
+    delete window.disableBeltOnError;
+  } catch (e) {}
   // (call me)
 }
 /*
@@ -416,6 +421,8 @@ try {
 } catch (err) {
   disableBeltOnError(err);
 }
+// References to any of that now only exist as
+// event listeners or within listener removers 
     </script>
   </body>
 </html>
