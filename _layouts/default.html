@@ -22,23 +22,32 @@
       padding-top: 15px;
       padding-left: 20px;
     }
-    #btnTop {
+    #utilityBelt {
       position: fixed;
-      bottom: 10px;
-      right: 10px;
+      bottom: 0;
+      right: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 15px 15px;
+    }
+    button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 44px;
       border: 1px solid #d0d0d0;
       border-radius: 24px;
       background: #f0f0f0;
-      cursor: pointer;
+      color: #666;
       font-size: 15px;
       font-family: monospace;
       line-height: 24px;
-      height: 44px;
-      display: none;
-      justify-content: center;
-      align-items: center;
+      cursor: pointer;
       white-space: nowrap;
-      color: #666;
+    }
+    #btnTop {
+      display: none;
     }
     </style>
   </head>
@@ -71,7 +80,11 @@
 
       </section>
       <footer>
-      <button id="btnTop">To Top</button>
+      <div id="utilityBelt">
+        <button id="btnHome">Home</button>
+        <button id="btnToc">H</button>
+        <button id="btnTop">To Top</button>
+      </div>
       &copy; Prescription Free Academy 2024    
       <ul>
         <li><a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></li>
@@ -81,11 +94,21 @@
       </footer>
     </div>
     <script>
-btnTop.addEventListener("click", () => document.documentElement.scrollTo({ top: 0, behavior: "smooth" }));
-
-var maintainScrollButton = () => btnTop.style.display = window.scrollY >= 200 ? 'flex' : 'none';
-maintainScrollButton();
-window.addEventListener("scroll", maintainScrollButton);
+try {
+  // Declare
+  const scrollTop = () => document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
+  const maintainScrollButton = () => btnTop.style.display = window.scrollY >= 200 ? 'flex' : 'none';
+  const headings = [];
+  for(const heading of document.getElementsByTagName("h2")) headings.push(heading.innerText);
+  
+  // Initialise
+  maintainScrollButton();
+  // Listen
+  btnTop.addEventListener("click", scrollTop);
+  window.addEventListener("scroll", maintainScrollButton);
+} catch (err) {
+  console.error("Failed to load utility belt");
+}
     </script>
   </body>
 </html>
