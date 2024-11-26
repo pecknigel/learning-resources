@@ -80,7 +80,7 @@
       left: 0;
       width: 100%;
       display: none;
-      padding: 24px 24px 86px;
+      padding: 21px 24px 83px;
       box-sizing: border-box;
       background: #fff;
       border-top: 3px solid #d0d0d0;
@@ -91,13 +91,20 @@
       display: flex;
       flex-direction: column;
       justify-content: center;
-      align-items: center;
-      gap: 6px;
+      align-items: stretch;
     }
     #dynamicToc menu li {
       list-style: none;
       margin: 0;
       padding: 0;
+    }
+    #dynamicToc menu li a {
+      display: block;
+      padding: 3px;
+      text-align: center;
+    }
+    #dynamicToc menu li a:active {
+      background: #f0f0f0;
     }
     #utilityBelt.show-toc #dynamicToc {
       display: block;
@@ -178,14 +185,6 @@ utilityBelt.classList.add('collapsed');
       disableBeltOnError(err);
     }
   };
-  const goToSection = anchor => {
-    try {
-      utilityBelt.classList.remove('show-toc');
-      location.hash = '#' + anchor;
-    } catch (err) {
-      disableBeltOnError(err);
-    }
-  };
   const toggleDynamicToc = () => {
     try {
       utilityBelt.classList.toggle('show-toc');
@@ -206,10 +205,11 @@ location.hash = '';
   const menu = document.createElement('menu');
   for(const heading of document.getElementsByTagName('h2')) {
     const headingText = heading.innerText;
+    const link = document.createElement('a');
+    link.innerText = headingText;
     const item = document.createElement('li');
-    item.innerText = headingText;
-    const headingAnchor = headingText.toLowerCase().replaceAll(/\s+/g, '-');
-    item.addEventListener('click', () => goToSection(headingAnchor));
+    item.append(link);
+    link.href = '#' + headingText.toLowerCase().replaceAll(/\s+/g, '-');
     menu.append(item);
   }
   dynamicToc.append(menu); 
