@@ -98,11 +98,6 @@
       margin: 0;
       padding: 0;
     }
-    #dynamicToc menu#menuSwitcher {
-      flex-direction: row;
-      gap: 6px;
-      margin-top: 12px;
-    }
     #dynamicToc menu li a {
       display: block;
       padding: 3px;
@@ -110,14 +105,20 @@
       color: #666;
       text-decoration: none;
     }
-    #dynamicToc menu#menuSwitcher li a{
-      padding: 3px 10px;
-      color: #267CB9;
-    }
     #dynamicToc menu li a:focus,
     #dynamicToc menu li a:hover,
     #dynamicToc menu li a:active {
       background: #f0f0f0;
+    }
+    #dynamicToc menu#menuSwitcher {
+      flex-direction: row;
+      gap: 6px;
+      margin-top: 12px;
+    }
+    #dynamicToc menu#menuSwitcher li a{
+      padding: 3px 10px;
+      color: #267CB9;
+      font-size: 16px;
     }
     #utilityBelt.show-toc #dynamicToc {
       display: block;
