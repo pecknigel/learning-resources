@@ -249,7 +249,7 @@
     </footer>
   </div>
   <script>
-// Prepare to Fail
+// Prepare for Failure
 var removeListeners = [];
 function disableBeltOnError(caller, err) {
   utilityBelt.remove();
@@ -260,16 +260,18 @@ function disableBeltOnError(caller, err) {
   );
   console.error(err);
   // Clean up now useless listeners
-  for (let i = 0; i < removeListeners.length; i++) {
-    // Continue on failure
+  // Don't block garbage collection
+  while (removeListeners.length) {
     try {
-      removeListeners[i]();
+      removeListeners.pop()();
     } catch (err) {
       console.warn('Failed to remove a listener');
+      console.warn(err);
     }
   }
-  // Don't block garbage collection
+  // I dont want to talk to you ever again!
   removeListeners = null;
+  // (call me)
 }
 /*
 * Perhaps this code could be consudered very trying!
