@@ -48,7 +48,7 @@
       cursor: pointer;
       white-space: nowrap;
     }
-    #utilityBelt.collapsed button.collapsible {
+    #utilityBelt.collapsed .collapsible button {
       display: none;
     } 
     </style>
@@ -105,7 +105,7 @@ try {
   // Declare
   const maintainBeltState = () => {
     try {
-      if(window.scrollY>=200) {
+      if (window.scrollY >= 200) {
 utilityBelt.classList.remove('collapsed');
       } else {
 utilityBelt.classList.add('collapsed');
@@ -120,7 +120,8 @@ document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
     } catch (err) {
       disableBeltOnError(err);
     }
-  }; 
+  };
+  // Populate TOC
   const headings = [];
   const menu = document.createElement("menu");
   for(const heading of document.getElementsByTagName("h2")) {
