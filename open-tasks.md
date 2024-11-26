@@ -19,7 +19,9 @@ Check repos for open issues. There are various interesting tasks open to work on
 
 Create a procedure for setting up a new project.
 
-Only link the library nav if it’s not the current page.
+Only link the library nav if it’s not the current page. Highlight the current page.
+
+## Class Notes
 
 Complete the class notes for DOM manipulation.
 
