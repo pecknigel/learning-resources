@@ -157,7 +157,7 @@ try {
   // Declare
   const wrapFn = fn => (arg => {
     try {
-      if (args) fn.apply(null, [args]);
+      if (args) fn.apply(null, [arg]);
       else fn.call(null);
     } catch (err) {
       disableBeltOnError(err);
