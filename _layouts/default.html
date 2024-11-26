@@ -190,7 +190,7 @@ utilityBelt.classList.add('collapsed');
   const scrollTop = () => {
     try {
 document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
-location.href = location.href.split('#')[0];
+location.hash = '';
     } catch (err) {
       disableBeltOnError(err);
     }
