@@ -138,39 +138,30 @@ function disableBeltOnError(err) {
 }
 try {
   // Declare
-  const maintainBeltState = () => {
+  const wrapFn = (fn) => () => {
     try {
-      if (window.scrollY >= 200) {
+      fn.call(null);
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  };
+  const maintainBeltState = wrapFn(() => {
+    if (window.scrollY >= 200) {
 utilityBelt.classList.remove('collapsed');
-      } else {
+    } else {
 utilityBelt.classList.add('collapsed');
-      }
-    } catch (err) {
-      disableBeltOnError(err);
     }
-  };
-  const goHome = () => {
-    try {
-      alert(window.location.href);
-      window.location.href = '/';
-    } catch (err) {
-      disableBeltOnError(err);
-    }
-  };
-  const toggleDynamicToc = () => }
-    try {
-      dynamicToc.classList.toggle('shown');
-    } catch (err) {
-      disableBeltOnError(err);
-    } 
-  };
-  const scrollTop = () => {
-    try {
+  });
+  const goHome = wrapFn(() => {
+    // alert(window.location.href);
+    window.location.href = '/';
+  });
+  const toggleDynamicToc = wrapFn( () => }
+    dynamicToc.classList.toggle('shown');
+  });
+  const scrollTop = wrapFn(() => {
 document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
-    } catch (err) {
-      disableBeltOnError(err);
-    }
-  };
+  });
   // Populate TOC
   const headings = [];
   const menu = document.createElement('menu');
