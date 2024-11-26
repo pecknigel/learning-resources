@@ -138,13 +138,13 @@ function disableBeltOnError(err) {
 }
 try {
   // Declare
-  const wrapFn = (fn) => () => {
+  const wrapFn = fn => (() => {
     try {
       fn.call(null);
     } catch (err) {
       disableBeltOnError(err);
     }
-  };
+  });
   const maintainBeltState = wrapFn(() => {
     if (window.scrollY >= 200) {
 utilityBelt.classList.remove('collapsed');
