@@ -31,6 +31,7 @@
       bachround: white;
       cursor: pointer;
       font-size: 24px;
+      line-height: 24px;
       width: 48px;
       height: 48px;
       display: flex;
@@ -38,6 +39,15 @@
       align-items: center;
     }
     </style>
+    <script>
+function scrollToTop() {
+  rootElement.scrollTo({
+    top: 0,
+    behavior: "smooth"
+  });
+  scrollToTopBtn.addEventListener("click", scrollToTop);
+} 
+    </script>
   </head>
   <body>
     <div class="wrapper">
