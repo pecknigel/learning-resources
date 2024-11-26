@@ -11,6 +11,10 @@ These are tasks that are available to work on in order to gain experience. Theyâ
 
 Talk to Nigel if youâ€™re interested in getting involved.
 
+## Open Issues
+
+Check repos for open issues. There are various interesting tasks open to work on. Every repo has its issues linked from the learning initiatives page.
+
 ## School Admin
 
 Research and improve the [learning resources](resources) page. Work with Nigel to evaluate what should be added.
