@@ -122,6 +122,13 @@ utilityBelt.classList.add('collapsed');
       disableBeltOnError(err);
     }
   };
+  const goHome = () => {
+    try {
+      window.location.href = '/';
+    } catch (err) {
+      disableBeltOnError(err);
+    } 
+  };
   const scrollTop = () => {
     try {
 document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
@@ -141,6 +148,7 @@ document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
   // Initialise
   maintainBeltState();
   // Listen
+  btnHome.addEventListener("click", goHome);
   btnTop.addEventListener("click", scrollTop);
   window.addEventListener("scroll", maintainBeltState);
 } catch (err) {
