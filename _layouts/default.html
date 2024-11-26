@@ -360,22 +360,31 @@ location.hash = '';
       disableBeltOnError(err);
     }
   };
-  // Populate TOC
-  const headings = [];
-  const menu = document.createElement('menu');
-  menu.id = 'menuToc';
-  menu.classList.add('shown');
-  for(const heading of document.getElementsByTagName('h2')) {
-    const headingText = heading.innerText;
-    const link = document.createElement('a');
-    link.innerText = headingText;
-    const item = document.createElement('li');
-    item.append(link);
-    link.href = '#' + headingText.toLowerCase().replaceAll(/\s+/g, '-').replaceAll(/[^a-z-]/g, '');
-    link.addEventListener('click', hideToc);
-    menu.append(item);
-  }
-  dynamicToc.prepend(menu);
+  const populateToc = () => {
+    try {
+      const menu = document.createElement('menu');
+      menu.id = 'menuToc';
+      menu.classList.add('shown');
+      const tocItems = document.getElementsByTagName('h2');
+      for(const entry of tocItems) {
+        const li = document.createElement('li');
+        const link = document.createElement('a');
+        link.innerText = entry.innerText;
+        link.href = '#' + entry.innerText
+          .toLowerCase()
+          .replaceAll(/\s+/g, '-')
+          .replaceAll(/[^a-z-]/g, '');
+        registerEventListener(
+          link, 'click', hideToc
+        );
+        li.append(link);
+        menu.append(li);
+      }
+      dynamicToc.prepend(menu);
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  };
   // Activate Utility Belt
   registerListenerMatrix([
     [btnHome, 'click', goHome],
