@@ -175,6 +175,7 @@ utilityBelt.classList.add('collapsed');
   };
   const goToSection = anchor => {
     try {
+      dynamicToc.classList.remove('shown');
       location.hash = '#' + anchor;
     } catch (err) {
       disableBeltOnError(err);
