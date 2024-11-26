@@ -175,8 +175,7 @@ utilityBelt.classList.add('collapsed');
   };
   const goToSection = section => {
     try {
-      const anchor = section.toLowerCase().replaceAll(/\s+/g, '-');
-      location.hash = '#' + anchor;
+      location.href = document.URL.replace(/#.*$/, '') + '#' + section.toLowerCase().replaceAll(/\s+/g, '-');
     } catch (err) {
       disableBeltOnError(err);
     }
