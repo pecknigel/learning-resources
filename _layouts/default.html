@@ -40,13 +40,8 @@
     }
     </style>
     <script>
-function scrollToTop() {
-  rootElement.scrollTo({
-    top: 0,
-    behavior: "smooth"
-  });
-  scrollToTopBtn.addEventListener("click", scrollToTop);
-} 
+var rootElement = document.documentElement;
+scrollToTopBtn.addEventListener("click", function () { rootElement.scrollTo({ top: 0, behavior: "smooth" })}); 
     </script>
   </head>
   <body>
