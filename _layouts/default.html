@@ -286,7 +286,7 @@ location.hash = '';
     link.innerText = headingText;
     const item = document.createElement('li');
     item.append(link);
-    link.href = '#' + headingText.toLowerCase().replaceAll(/\s+/g, '-');
+    link.href = '#' + headingText.toLowerCase().replaceAll(/\s+/g, '-').replaceAll(/[^a-z-]/g, '');
     link.addEventListener('click', hideToc);
     menu.append(item);
   }
