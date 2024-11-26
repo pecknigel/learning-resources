@@ -251,8 +251,8 @@ utilityBelt.classList.add('collapsed');
       e && e.preventDefault();
       menuToc.classList.add('shown');
       menuNav.classList.remove('shown');
-      switchToPageMenu.classList.add('selected');
-      switchToSiteMenu.classList.remove('selected');
+switchToPageMenu.querySelector('a').classList.add('selected');
+switchToSiteMenu.querySelector('a').classList.remove('selected');
     } catch (err) {
       disableBeltOnError(err);
     }
@@ -262,8 +262,8 @@ utilityBelt.classList.add('collapsed');
       e && e.preventDefault();
       menuToc.classList.remove('shown');
       menuNav.classList.add('shown');
-      switchToPageMenu.classList.remove('selected');
-      switchToSiteMenu.classList.add('selected');
+switchToPageMenu.querySelector('a').classList.remove('selected');
+switchToSiteMenu.querySelector('a').classList.add('selected');
     } catch (err) {
       disableBeltOnError(err);
     }
