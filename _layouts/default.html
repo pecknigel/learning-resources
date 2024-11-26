@@ -208,40 +208,96 @@
 
       {{ content }}
 
-        <div id="utilityBelt">
-          <button id="btnHome"><img src="/assets/library-line-svgrepo-com.svg" alt="Home"></button>
-          <button id="btnDynamicToc"><img src="/assets/menu-alt-2-svgrepo-com.svg" alt="TOC"></button>
-          <button id="btnTop"  class="collapsible"><img src="/assets/up-arrow-svgrepo-com-outline.svg" alt="To Top"></button>
-          <div id="dynamicToc">
-            <nav id="menuNav">
-              {% for item in site.data.nav.links %}
+      <div id="utilityBelt">
+<button id="btnHome"><img src="/assets/library-line-svgrepo-com.svg" alt="Home"></button>
+<button id="btnDynamicToc"><img src="/assets/menu-alt-2-svgrepo-com.svg" alt="TOC"></button>
+<button id="btnTop"  class="collapsible"><img src="/assets/up-arrow-svgrepo-com-outline.svg" alt="To Top"></button>
+        <div id="dynamicToc">
+          <nav id="menuNav">
+{% for item in site.data.nav.links %}
 <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-              {% endfor %}
-            </nav>
-            <menu id="menuSwitcher">
-              <li id="switchToPageMenu"><a href="#" class="selected">On This Page</a></li>
-              <li id="switchToSiteMenu"><a href="#">Library Aisles</a></li>
-            </menu>
-          </div>
+{% endfor %}
+          </nav>
+          <menu id="menuSwitcher">
+            <li id="switchToPageMenu">
+              <a href="#" class="selected">
+                On This Page
+              </a>
+            </li>
+            <li id="switchToSiteMenu">
+              <a href="#">Library Halls</a>
+            </li>
+          </menu>
         </div>
-      </section>
-      <footer>
+      </div>
+    </section>
+    <footer>
       <ul>
-        <li><a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></li>
-        <li><a href="{{ site.github.repository_url }}">GitHub Repo for This Documentation</a></li>
-        <li>Operated with Jekyll and GitHub Pages</li>
+        <li><a href="{{ site.github.owner_url }}">
+          {{ site.github.owner_name }}
+        </a></li>
+        <li><a
+          href="{{ site.github.repository_url }}"
+        >
+          GitHub Repo for This Documentation
+        </a></li>
+        <li>
+          Operated with Jekyll and GitHub Pages
+        </li>
       </ul>
       &copy; Prescription Free Academy 2024
-      </footer>
-    </div>
-    <script>
-// Prepare to Fail 
+    </footer>
+  </div>
+  <script>
+// Prepare to Fail
+var removeAllEventListeners = [];
 function disableBeltOnError(err) {
-  utilityBelt.style.display = 'none';
-  console.error("Belt cannot function", err);
+  utilityBelt.remove();
+  if (removeAllEventListeners) {
+    for (let i = 0; i < removeAllEventListeners.length; i++) {
+      removeAllEventListeners[i]();
+    }
+  } 
+  console.error("Belt cannot function and has been shut down");
+  console.error(err);
 }
+/*
+* Perhaps this code could be consudered very trying!
+* It's done to ensure that any failure is caught
+* and results in a complete shutdown of the utility
+* belt. So it's never displayed in a broken state.
+* Particularly since some features that are used
+* have pnly been in browsers a few years.
+* 
+* It's coded defensively with vintage features for
+* handling that and othetwise uses modern JS fairly
+* freely. No modern browser? No utility belt!
+* 
+* This is a form of graceful degredation.
+* ~
+* Nigel Peck prescriptionfree.academy Nov. 2024
+*/
 try {
   // Declare
+  const registerListener = (el, ev, fn) => {
+    try {
+      el.addEventListener(ev, fn);
+      removeAllEventListeners.push(() => {
+        el.removeEventListener(ev, fn);
+      });
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  };
+  const registerListenerMatrix (lnrMat) => {
+    try {
+      for (const args of lnrMat) {
+        registerListener(...args);
+      }
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  };
   const maintainBeltState = () => {
     try {
       if (scrollY >= 200) {
@@ -320,16 +376,16 @@ location.hash = '';
     menu.append(item);
   }
   dynamicToc.prepend(menu);
-  // Listen
-  btnHome.addEventListener('click', goHome);
-  btnDynamicToc.addEventListener('click', toggleDynamicToc);
-  btnTop.addEventListener('click', scrollTop);
-  switchToSiteMenu.addEventListener('click', showMenuNav);
-  switchToPageMenu.addEventListener('click', showMenuToc);
-  window.addEventListener('scroll', maintainBeltState);
-  // Initialise
+  // Activate Utility Belt
+  registerListenerMatrix([
+    [btnHome, 'click', goHome],
+    [btnDynamicToc, 'click', toggleDynamicToc],
+    [btnTop, 'click', scrollTop],
+    [switchToSiteMenu, 'click', showMenuNav],
+    [switchToPageMenu, 'click', showMenuToc],
+    [window, 'scroll', maintainBeltState],
+  ]);
   maintainBeltState();
-  // Activate
   utilityBelt.classList.add('shown');
 } catch (err) {
   disableBeltOnError(err);
