@@ -3,23 +3,23 @@ links:
 - title: Home (Learning Initiatives)
   url: /
 
+- title: Class Notes
+  url: /class-notes
+
+- title: Courses and Resources
+  url: /resources
+ 
+- title: Open Tasks
+  url: /open-tasks
+
 - title: Cognate Learning
   url: /cognate-learning
 
 - title: Tenets
   url: /tenets
 
-- title: Class Notes
-  url: /class-notes
-
-- title: Courses and Resources
-  url: /resources
-
 - title: Educator Portal
   url: /for-educators
 
-- title: Open Tasks
-  url: /open-tasks
- 
 - title: About
   url: /about
