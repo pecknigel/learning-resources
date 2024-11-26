@@ -81,7 +81,7 @@
     <script>
 btnToTop.addEventListener("click", () => document.documentElement.scrollTo({ top: 0, behavior: "smooth" }));
 
-var maintainScrollButton = () => btnToTop.style.display = (window.scrollY >= 200 ? 'flex' : 'none';
+var maintainScrollButton = () => btnToTop.style.display = window.scrollY >= 200 ? 'flex' : 'none';
 maintainScrollButton();
 window.addEventListener("scroll", maintainScrollButton);
     </script>
