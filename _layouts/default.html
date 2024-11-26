@@ -383,7 +383,7 @@ try {
           .toLowerCase()
           .replaceAll(/\s+/g, '-')
           .replaceAll(/[^a-z-]/g, '');
-        registerEventListener(
+        registerListener(
           link, 'click', hideToc
         );
         li.append(link);
