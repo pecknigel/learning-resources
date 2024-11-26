@@ -173,9 +173,9 @@ utilityBelt.classList.add('collapsed');
       disableBeltOnError(err);
     }
   };
-  const goToSection = section => {
+  const goToSection = anchor => {
     try {
-      location.href = document.URL.replace(/#.*$/, '') + '#' + section.toLowerCase().replaceAll(/\s+/g, '-');
+      location.hash = '#' + anchor;
     } catch (err) {
       disableBeltOnError(err);
     }
@@ -198,9 +198,11 @@ document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
   const headings = [];
   const menu = document.createElement('menu');
   for(const heading of document.getElementsByTagName('h2')) {
+    const headingText = heading.innerText;
     const item = document.createElement('li');
-    item.innerText = heading.innerText;
-    item.addEventListener('click', goToSection(heading.innerText));
+    item.innerText = headingText;
+    const headingAnchor = headingText.toLowerCase().replaceAll(/\s+/g, '-');
+    item.addEventListener('click', () => goToSection(headingAnchor));
     menu.append(item);
   }
   dynamicToc.append(menu); 
