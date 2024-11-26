@@ -48,7 +48,7 @@
       cursor: pointer;
       white-space: nowrap;
     }
-    #btnTop button, #btnHome button {
+    #utilityBelt.collapsed button.collapsible {
       display: none;
     } 
     </style>
@@ -83,10 +83,11 @@
       </section>
       <footer>
       <div id="utilityBelt">
-        <div id="btnHome"><button>Home</button></div>
+        <div id="btnHome" class="collapsible"><button>Home</button></div>
         <button id="btnToc">H</button>
-        <div id="btnTop"><button>To Top</button></div>
+        <div id="btnTop"  class="collapsible"><button>To Top</button></div>
       </div>
+      <div id="dynamicToc"></div> 
       &copy; Prescription Free Academy 2024    
       <ul>
         <li><a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></li>
@@ -96,20 +97,45 @@
       </footer>
     </div>
     <script>
+    function disableBeltOnError(err) {
+      utilityBelt.style.display = 'none';
+      console.error("Belt cannot function", err);
+    }
 try {
   // Declare
-  const scrollTop = () => document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
-  const maintainScrollButton = () => btnTop.style.display = window.scrollY >= 200 ? 'flex' : 'none';
+  const maintainBeltState = () => {
+    try {
+      if(window.scrollY>=200) {
+utilityBelt.classList.remove('collapsed');
+      } else {
+utilityBelt.classList.add('collapsed');
+      }
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  };
+  const scrollTop = () => {
+    try {
+document.documentElement.scrollTo({ top: 0, behavior: "smooth" });
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  }; 
   const headings = [];
-  for(const heading of document.getElementsByTagName("h2")) headings.push(heading.innerText);
-  
+  const menu = document.createElement("menu");
+  for(const heading of document.getElementsByTagName("h2")) {
+    const item = document.createElement("li");
+    item.innerText = heading.innerText;
+    menu.append(item);
+  }
+  dynamicToc.append(menu); 
   // Initialise
-  maintainScrollButton();
+  maintainBeltState();
   // Listen
   btnTop.addEventListener("click", scrollTop);
-  window.addEventListener("scroll", maintainScrollButton);
+  window.addEventListener("scroll", maintainBeltState);
 } catch (err) {
-  console.error("Failed to load utility belt");
+  disableBeltOnError(err);
 }
     </script>
   </body>
