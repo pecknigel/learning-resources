@@ -155,9 +155,10 @@ function disableBeltOnError(err) {
 }
 try {
   // Declare
-  const wrapFn = fn => (args => {
+  const wrapFn = fn => (arg => {
     try {
-      fn.apply(null, args);
+      if (args) fn.apply(null, [args]);
+      else fn.call(null);
     } catch (err) {
       disableBeltOnError(err);
     }
@@ -173,8 +174,8 @@ utilityBelt.classList.add('collapsed');
     window.location.href = '/';
   });
   const goToSection = wrapFn(section => {
-    // const anchor = section.toLowerCase().replaceAll(/\s+/g, '-');
-    // window.location.href = '#' + anchor;
+    const anchor = section.toLowerCase().replaceAll(/\s+/g, '-');
+    window.location.href = '#' + anchor;
   });
   const toggleDynamicToc = wrapFn( () => {
     dynamicToc.classList.toggle('shown');
