@@ -187,7 +187,7 @@
               {% endfor %}
             </nav>
             <menu id="menuSwitcher">
-              <li id="switchToPageMenu"><a href="#">Page Menu</a></li>
+              <li id="switchToPageMenu"><a href="#" class="selected">Page Menu</a></li>
               <li id="switchToSiteMenu"><a href="#">Site Menu</a></li>
             </menu>
           </div>
@@ -247,6 +247,8 @@ utilityBelt.classList.add('collapsed');
       e && e.preventDefault();
       menuToc.classList.add('shown');
       menuNav.classList.remove('shown');
+      switchToPageMenu.classList.add('selected');
+      switchToSiteMenu.classList.remove('selected');
     } catch (err) {
       disableBeltOnError(err);
     }
@@ -256,6 +258,8 @@ utilityBelt.classList.add('collapsed');
       e && e.preventDefault();
       menuToc.classList.remove('shown');
       menuNav.classList.add('shown');
+      switchToPageMenu.classList.remove('selected');
+      switchToSiteMenu.classList.add('selected');
     } catch (err) {
       disableBeltOnError(err);
     }
