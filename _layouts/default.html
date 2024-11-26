@@ -84,14 +84,17 @@
       box-sizing: border-box;
       background: #fff;
       border-top: 3px solid #d0d0d0;
-    }
+    } 
     #dynamicToc menu {
       margin: 0;
       padding: 0;
-      display: flex;
+      display: none;
       flex-direction: column;
       justify-content: center;
       align-items: stretch;
+    }
+    #dynamicToc menu#menuToc.shown {
+      display: flex;
     }
     #dynamicToc menu li {
       list-style: none;
@@ -109,6 +112,12 @@
     #dynamicToc menu li a:hover,
     #dynamicToc menu li a:active {
       background: #f0f0f0;
+    }
+    #dynamicToc nav {
+      display: none;
+    }
+    #dynamicToc nav.shown {
+      display: flex;
     }
     #dynamicToc menu#menuSwitcher {
       flex-direction: row;
@@ -163,6 +172,11 @@
           <button id="btnDynamicToc"><img src="/assets/menu-dots-circle-svgrepo-com.svg" alt="TOC"></button>
           <button id="btnTop"  class="collapsible"><img src="/assets/round-sort-vertical-svgrepo-com.svg" alt="To Top"></button>
           <div id="dynamicToc">
+            <nav id="menuNav">
+              {% for item in site.data.nav.links %}
+<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+              {% endfor %}
+            </nav>
             <menu id="menuSwitcher">
               <li id="switchToPageMenu"><a href="#">Page Menu</a></li>
               <li id="switchToSiteMenu"><a href="#">Site Menu</a></li>
@@ -219,6 +233,22 @@ utilityBelt.classList.add('collapsed');
       disableBeltOnError(err);
     }
   };
+  const showMenuToc = () => {
+    try {
+      menuToc.classList.add('shown');
+      menuNav.classList.remove('shown');
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  };
+  const showMenuNav = () => {
+    try {
+      menuToc.classList.remove('shown');
+      menuNav.classList.add('shown');
+    } catch (err) {
+      disableBeltOnError(err);
+    }
+  };
   const scrollTop = () => {
     try {
 document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
@@ -230,6 +260,8 @@ location.hash = '';
   // Populate TOC
   const headings = [];
   const menu = document.createElement('menu');
+  menu.id = 'menuToc';
+  menu.classList.add('shown');
   for(const heading of document.getElementsByTagName('h2')) {
     const headingText = heading.innerText;
     const link = document.createElement('a');
@@ -245,6 +277,8 @@ location.hash = '';
   btnHome.addEventListener('click', goHome);
   btnDynamicToc.addEventListener('click', toggleDynamicToc);
   btnTop.addEventListener('click', scrollTop);
+  switchToSiteMenu.addEventListener('click', showMenuNav);
+  switchToPageMenu.addEventListener('click', showMenuToc);
   window.addEventListener('scroll', maintainBeltState);
   // Initialise
   maintainBeltState();
