@@ -59,7 +59,7 @@ For users, at least. It’s a different world. And one that you need to be intim
 
 ## Let Go!
 
-It’s not a useful approach to try and get it all right the first time.
+It’s not a useful approach to try and get it all right the first time. Your focus is needed elsewhere.
 
 ...
 
