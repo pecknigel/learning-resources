@@ -105,7 +105,8 @@
     #dynamicToc menu li,
     #dynamicToc nav li {
       list-style: none;
-      margin: 0;
+      max-width: 500px;
+      margin: 0 auto;
       padding: 0;
     }
     #dynamicToc menu li a,
@@ -117,8 +118,6 @@
       text-decoration: none;
       font-size: 14px;
       line-height: 16px;
-      max-width: 500px;
-      margin: 0 auto;
     }
     #dynamicToc menu li.primary,
     #dynamicToc nav li.primary {
@@ -127,6 +126,9 @@
     #dynamicToc menu li.primary a,
     #dynamicToc nav li.primary a {
       font-weight: 600;
+    }
+    #dynamicToc menu li.intro,
+    #dynamicToc nav li.intro {
     }
     #dynamicToc menu li a.selected,
     #dynamicToc nav li a.selected {
@@ -224,7 +226,7 @@
 <button id="btnTop"  class="collapsible"><img src="/assets/up-arrow-svgrepo-com-outline.svg" alt="To Top"></button>
         <div id="dynamicToc">
           <nav id="menuNav">
-<li class="primary">Walk the halls and discover the secrets!</li>
+<li class="intro">Walk the halls and discover their secrets!</li>
 {% for item in site.data.nav.links %}
 <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
