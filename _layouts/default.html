@@ -459,6 +459,7 @@ try {
         [window, 'scroll', maintainBeltState],
       ]);
       maintainBeltState();
+      // Finally show the belt, so that if there was a failure nothing broken is visible.
       document.querySelector('footer')
         .classList.add('utility-belt-active');
       utilityBelt.classList.add('shown');
