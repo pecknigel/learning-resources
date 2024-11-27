@@ -9,11 +9,13 @@ function destroyBelt(caller, err) {
     console.error(err);
   } catch (e) {}
   try {
-    utilityBelt.remove();
+    document.getElementById('utilityBelt').remove();
   } catch (e) {}
   try {
-    document.querySelector('footer')
-      .classList.remove('utility-belt-active');
+    var footers = document.getElementsByTagName('footer');
+    for (let i = 0; i < footers.length; i++) {
+      footers[i].className = footers[i].className.replace('utility-belt-active', '');
+    }
   } catch (e) {}
   // Clean up event listeners
   // Stop blocking garbage collection
@@ -31,7 +33,7 @@ function destroyBelt(caller, err) {
       }
     }
   } catch (e) {}
-  // I dont want to talk to you ever again!
+  // I don't want to talk to you ever again!
   removeListeners = null;
   destroyBelt = null;
   try {
@@ -43,18 +45,18 @@ function destroyBelt(caller, err) {
   // (call me)
 }
 /*
-* Perhaps this code could be consudered very trying!
+* Perhaps this code could be considered very trying!
 * It's done to ensure that any failure is caught
 * and results in a complete shutdown of the utility
 * belt. So it's never displayed in a broken state.
 * Particularly since some features that are used
-* have pnly been in browsers a few years.
+* have only been in browsers a few years.
 *
 * It's coded defensively with vintage features for
-* handling that and othetwise uses modern JS fairly
+* handling that and otherwise uses modern JS fairly
 * freely. No modern browser? No utility belt!
 *
-* This is a form of graceful degredation.
+* This is a form of graceful degregedation.
 *
 * This was written using Working Copy (iOS Git
 * client) so it's formatted to around 54 characters.
@@ -63,6 +65,16 @@ function destroyBelt(caller, err) {
 * Nigel Peck prescriptionfree.academy Nov. 2024
 */
 try {
+  const utilityBelt = document.getElementById('utilityBelt');
+  const btnHome = document.getElementById('btnHome');
+  const btnDynamicToc = document.getElementById('btnDynamicToc');
+  const btnTop = document.getElementById('btnTop');
+  const menuToc = document.getElementById('menuToc');
+  const menuNav = document.getElementById('menuNav');
+  const switchToSiteMenu = document.getElementById('switchToSiteMenu');
+  const switchToPageMenu = document.getElementById('switchToPageMenu');
+  const dynamicToc = document.getElementById('dynamicToc');
+  const scrollY = window.scrollY;
   const registerListener = (el, ev, fn) => {
     try {
       el.addEventListener(ev, fn);
