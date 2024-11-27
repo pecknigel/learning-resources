@@ -9,7 +9,7 @@ heading: Tenets
 
 These are tenets that we share with students to guide and assist them on their way to becoming accomplished software engineers.
 
-**This is being published as I go. November, 2024.**
+**This is being published as I write it. November, 2024.**
 
 ## It’s Not About How to Code
 
