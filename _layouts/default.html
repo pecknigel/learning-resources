@@ -347,36 +347,15 @@ try {
       disableBeltOnError('maintainBeltState', err);
     }
   };
-  const goHome = () => {
-    try {
-      location.href = '/';
-    } catch (err) {
-      disableBeltOnError('goHome', err);
-    }
-  };
-  const toggleDynamicToc = () => {
-    try {
-      utilityBelt.classList.toggle('show-toc');
-    } catch (err) {
-      disableBeltOnError('toggleDynamicToc', err);
-    }
-  };
-  const hideToc = () => {
-    try {
-      utilityBelt.classList.remove('show-toc')
-    } catch (err) {
-      disableBeltOnError('hideToc', err);
-    }
-  };
   const showMenuToc = (e) => {
     try {
       if (e) e.preventDefault();
       menuToc.classList.add('shown');
       menuNav.classList.remove('shown');
       switchToPageMenu.querySelector('a')
-        .classList.add('selected');
+          .classList.add('selected');
       switchToSiteMenu.querySelector('a')
-        .classList.remove('selected');
+          .classList.remove('selected');
     } catch (err) {
       disableBeltOnError('showMenuToc', err);
     }
@@ -387,11 +366,35 @@ try {
       menuToc.classList.remove('shown');
       menuNav.classList.add('shown');
       switchToPageMenu.querySelector('a')
-        .classList.remove('selected');
+          .classList.remove('selected');
       switchToSiteMenu.querySelector('a')
-        .classList.add('selected');
+          .classList.add('selected');
     } catch (err) {
       disableBeltOnError('showMenuNav', err);
+    }
+  };
+  const goHome = () => {
+    try {
+      location.href = '/';
+    } catch (err) {
+      disableBeltOnError('goHome', err);
+    }
+  };
+  const toggleDynamicToc = () => {
+    try {
+      utilityBelt.classList.toggle('show-toc');
+      if (utilityBelt.classList.includes('show-toc')) {
+          showMenuToc();
+      }
+    } catch (err) {
+      disableBeltOnError('toggleDynamicToc', err);
+    }
+  };
+  const hideToc = () => {
+    try {
+      utilityBelt.classList.remove('show-toc')
+    } catch (err) {
+      disableBeltOnError('hideToc', err);
     }
   };
   const scrollTop = () => {
