@@ -9,6 +9,8 @@ heading: Educator Portal
 
 We are all educators. At least of ourselves. Engaging with that can seriously upgrade your learning.
 
+**This is being published as I write it. November, 2024.**
+
 This area of the site is all about the approach that we take to learning and teaching.
 
 It’s not intended to be comprehensive although in time it may be.
@@ -40,14 +42,10 @@ It’s not about how you code, it’s about the way that you approach it. How yo
 
 ### Build from the Ground Up
 
-Coming soon.
-
 ### Get with the Program
 
 It’s essential to stay engaged. You’re not going to learn by sitting back and being fed instructions. You’re going to have to make it happen yourself. This is not schooling.
 
 ...
 
-More on the way. Currently writing November, 2024.
-
-See [Tenets](/tenets) for further ramblings.
+See [Academy Tenets](/tenets) for further ramblings.

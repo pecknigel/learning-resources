@@ -1,19 +1,21 @@
 ---
 layout: default
-title: Tenets of Software Engineering
+title: Academy Tenets
 permalink: /tenets
-heading: Tenets
+heading: Academy Tenets
 ---
 
 # Tenets of Software Engineering
 
 These are tenets that we share with students to guide and assist them on their way to becoming accomplished software engineers.
 
+**This is being published as I write it. November, 2024.**
+
 ## It’s Not About How to Code
 
 Of course that’s involved, but the real skill is in learning to craft software that’s reliable, maintainable, robust and coherent.
 
-More coming on this soon. Publishing as I go.
+More coming on this soon.
 
 ## Sharpen Your Research Skills
 
@@ -43,6 +45,10 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ## Jack of All Trades, Master of Most
 
+### It’s All About the Experience
+
+For users, at least. It’s a different world. And one that you need to be intimately aware of if you’re designing interfaces and want to do it well.
+
 ## Modules, Interfaces, Modular Design
 
 ## Test, Test, Test
@@ -51,7 +57,9 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ## Delay Gratification
 
-Currently being written November 2024.
+## Let Go!
+
+It’s not a useful approach to try and get it all right the first time. Your focus is needed elsewhere.
 
 ...
 
