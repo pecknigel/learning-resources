@@ -12,9 +12,11 @@ function destroyBelt(caller, err) {
     document.getElementById('utilityBelt').remove();
   } catch (e) {}
   try {
-    var footers = document.getElementsByTagName('footer');
+    var footers = document
+      .getElementsByTagName('footer');
     for (let i = 0; i < footers.length; i++) {
-      footers[i].className = footers[i].className.replace('utility-belt-active', '');
+      footers[i].className = footers[i]
+        .className.replace('utility-belt-active','');
     }
   } catch (e) {}
   // Clean up event listeners
@@ -69,7 +71,7 @@ try {
   const btnHome = document.getElementById('btnHome');
   const btnDynamicToc = document.getElementById('btnDynamicToc');
   const btnTop = document.getElementById('btnTop');
-  const menuToc = document.getElementById('menuToc');
+  let menuToc;
   const menuNav = document.getElementById('menuNav');
   const switchToSiteMenu = document.getElementById('switchToSiteMenu');
   const switchToPageMenu = document.getElementById('switchToPageMenu');
@@ -185,6 +187,7 @@ try {
         menu.append(li);
       }
       dynamicToc.prepend(menu);
+      menuToc = menu;
     } catch (err) {
       destroyBelt('populateToc', err);
     }
