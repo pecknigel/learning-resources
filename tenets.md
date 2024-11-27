@@ -57,7 +57,7 @@ For users, at least. It’s a different world. And one that you need to be intim
 
 ## Delay Gratification
 
-## Let it Go!
+## Let Go!
 
 It’s not a useful approach to try and get it all right the first time.
 
