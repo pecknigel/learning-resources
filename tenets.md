@@ -51,6 +51,10 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ## Delay Gratification
 
+## Let it Go!
+
+It’s not a useful approach to try and get it all right the first time.
+
 Currently being written November 2024.
 
 ...
