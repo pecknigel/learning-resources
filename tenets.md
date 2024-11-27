@@ -15,7 +15,7 @@ These are tenets that we share with students to guide and assist them on their w
 
 Of course that’s involved, but the real skill is in learning to craft software that’s reliable, maintainable, robust and coherent.
 
-More coming on this soon. Publishing as I go.
+More coming on this soon.
 
 ## Sharpen Your Research Skills
 
@@ -60,8 +60,6 @@ For users, at least. It’s a different world. And one that you need to be intim
 ## Let it Go!
 
 It’s not a useful approach to try and get it all right the first time.
-
-Currently being written November 2024.
 
 ...
 

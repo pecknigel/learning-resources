@@ -19,6 +19,8 @@ If it seems interesting to you, have at it. Otherwise there’s a lot more inter
 
 **Take what’s useful [to you], leave the rest.**
 
+**This is being published as I write it. November, 2024.**
+
 ---
 
 ## Ramblings
@@ -40,14 +42,10 @@ It’s not about how you code, it’s about the way that you approach it. How yo
 
 ### Build from the Ground Up
 
-Coming soon.
-
 ### Get with the Program
 
 It’s essential to stay engaged. You’re not going to learn by sitting back and being fed instructions. You’re going to have to make it happen yourself. This is not schooling.
 
 ...
-
-More on the way. Currently writing November, 2024.
 
 See [Tenets](/tenets) for further ramblings.
