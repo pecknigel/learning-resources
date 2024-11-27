@@ -398,6 +398,7 @@ try {
         .querySelectorAll('section h1, section h2');
       for(const entry of tocItems) {
         const li = document.createElement('li');
+        console.log(entry.tagName);
         if (entry.tagName === 'h1') {
           li.classList.add('primary');
         }
