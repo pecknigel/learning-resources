@@ -9,6 +9,8 @@ heading: Tenets
 
 These are tenets that we share with students to guide and assist them on their way to becoming accomplished software engineers.
 
+**This is being published as I go. November, 2024.**
+
 ## It’s Not About How to Code
 
 Of course that’s involved, but the real skill is in learning to craft software that’s reliable, maintainable, robust and coherent.
