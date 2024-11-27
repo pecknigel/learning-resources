@@ -395,7 +395,7 @@ try {
       menu.id = 'menuToc';
       menu.classList.add('shown');
       const tocItems = document
-        .querySelectorAll('h1, h2');
+        .querySelectorAll('section h1, section h2');
       for(const entry of tocItems) {
         const li = document.createElement('li');
         if (entry.tagName === 'h1') {
