@@ -169,7 +169,7 @@
       display: block;
     }
     @media print, screen and (max-width: 959px) {
-      footer {
+      footer.utility-belt-active {
         margin-bottom: 74px;
       }
     }
@@ -271,14 +271,15 @@
 // Prepare for Failure
 var removeListeners = [];
 function disableBeltOnError(caller, err) {
-  utilityBelt.remove();
   console.error(
-    'Belt cannot function at "' +
-    caller +
-    '" and has been shut down'
+    'Belt cannot function at "' + caller + '"' +
+      ' and is being shut down'
   );
   console.error(err);
-  // Clean up now unwanted listeners
+  utilityBelt.remove();
+  document.querySelector('footer')
+    .classList.remove('utility-belt-active');
+  // Clean up event listeners
   // Stop blocking garbage collection
   while (removeListeners.length) {
     try {
@@ -311,9 +312,9 @@ function disableBeltOnError(caller, err) {
 * 
 * This is a form of graceful degredation.
 *
-* This was written using Working Copy (iOS Git client)
-* which is why it's formatted to 50 characters width.
-*
+* This was written using Working Copy (iOS Git
+* client) so it's formatted to around 54 characters.
+* 
 * ~
 * Nigel Peck prescriptionfree.academy Nov. 2024
 */
@@ -444,6 +445,8 @@ try {
   ]);
   maintainBeltState();
   utilityBelt.classList.add('shown');
+  document.querySelector('footer')
+    .classList.add('utility-belt-active');
 } catch (err) {
   disableBeltOnError(err);
 }
