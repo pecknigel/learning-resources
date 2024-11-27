@@ -383,7 +383,7 @@ try {
   const toggleDynamicToc = () => {
     try {
       utilityBelt.classList.toggle('show-toc');
-      if (utilityBelt.classList.includes('show-toc')) {
+      if (utilityBelt.classList.contains('show-toc')) {
           showMenuToc();
       }
     } catch (err) {
