@@ -48,4 +48,4 @@ It’s essential to stay engaged. You’re not going to learn by sitting back an
 
 ...
 
-See [Tenets](/tenets) for further ramblings.
+See [Academy Tenets](/tenets) for further ramblings.

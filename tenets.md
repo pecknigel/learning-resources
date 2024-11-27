@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tenets of Software Engineering
+title: Academy Tenets
 permalink: /tenets
-heading: Tenets
+heading: Academy Tenets
 ---
 
 # Tenets of Software Engineering
