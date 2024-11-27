@@ -1,35 +1,47 @@
 // Prepare for Failure
 var removeListeners = [];
-
-function disableBeltOnError(caller, err) {
-  utilityBelt.remove();
-  console.error(
-    'Belt cannot function at "' +
-    caller +
-    '" and has been shut down'
-  );
-  console.error(err);
-  // Clean up now unwanted listeners
+function destroyBelt(caller, err) {
+  try {
+    console.error(
+      'Belt cannot function at "' + caller + '"' +
+      ' and is being shut down'
+    );
+    console.error(err);
+  } catch (e) {}
+  try {
+    utilityBelt.remove();
+  } catch (e) {}
+  try {
+    document.querySelector('footer')
+      .classList.remove('utility-belt-active');
+  } catch (e) {}
+  // Clean up event listeners
   // Stop blocking garbage collection
-  while (removeListeners.length) {
-    try {
-      removeListeners.pop()();
-    } catch (err) {
-      console.warn('Failed to remove a listener');
-      console.warn(err);
+  try {
+    while (removeListeners.length) {
+      try {
+        removeListeners.pop()();
+      } catch (err) {
+        try {
+          console.warn(
+            'Failed to remove a listener'
+          );
+          console.warn(err);
+        } catch (e) {}
+      }
     }
-  }
+  } catch (e) {}
   // I dont want to talk to you ever again!
   removeListeners = null;
-  disableBeltOnError = null;
+  destroyBelt = null;
   try {
     delete window.removeListeners;
-    delete window.disableBeltOnError;
-  } catch (e) {
-  }
+  } catch (e) {}
+  try {
+    delete window.destroyBelt;
+  } catch (e) {}
   // (call me)
 }
-
 /*
 * Perhaps this code could be consudered very trying!
 * It's done to ensure that any failure is caught
@@ -44,8 +56,8 @@ function disableBeltOnError(caller, err) {
 *
 * This is a form of graceful degredation.
 *
-* This was written using Working Copy (iOS Git client)
-* which is why it's formatted to 50 characters width.
+* This was written using Working Copy (iOS Git
+* client) so it's formatted to around 54 characters.
 *
 * ~
 * Nigel Peck prescriptionfree.academy Nov. 2024
@@ -58,7 +70,7 @@ try {
         el.removeEventListener.bind(null, ev, fn)
       );
     } catch (err) {
-      disableBeltOnError('registerListener', err);
+      destroyBelt('registerListener', err);
     }
   };
   const registerListenerMatrix = (lnrMat) => {
@@ -67,7 +79,7 @@ try {
         registerListener(...args);
       }
     } catch (err) {
-      disableBeltOnError('registerListenerMatrix', err);
+      destroyBelt('registerListenerMatrix', err);
     }
   };
   const maintainBeltState = () => {
@@ -78,7 +90,7 @@ try {
         utilityBelt.classList.add('collapsed');
       }
     } catch (err) {
-      disableBeltOnError('maintainBeltState', err);
+      destroyBelt('maintainBeltState', err);
     }
   };
   const showMenuToc = (e) => {
@@ -91,7 +103,7 @@ try {
       switchToSiteMenu.querySelector('a')
         .classList.remove('selected');
     } catch (err) {
-      disableBeltOnError('showMenuToc', err);
+      destroyBelt('showMenuToc', err);
     }
   };
   const showMenuNav = (e) => {
@@ -104,40 +116,39 @@ try {
       switchToSiteMenu.querySelector('a')
         .classList.add('selected');
     } catch (err) {
-      disableBeltOnError('showMenuNav', err);
+      destroyBelt('showMenuNav', err);
     }
   };
   const goHome = () => {
     try {
       location.href = '/';
     } catch (err) {
-      disableBeltOnError('goHome', err);
+      destroyBelt('goHome', err);
     }
   };
   const toggleDynamicToc = () => {
     try {
       utilityBelt.classList.toggle('show-toc');
-      if (utilityBelt.classList.contains('show-toc')) {
-        showMenuToc();
-      }
+      if (utilityBelt.classList
+        .contains('show-toc')) showMenuToc();
     } catch (err) {
-      disableBeltOnError('toggleDynamicToc', err);
+      destroyBelt('toggleDynamicToc', err);
     }
   };
   const hideToc = () => {
     try {
-      utilityBelt.classList.remove('show-toc')
+      utilityBelt.classList.remove('show-toc');
     } catch (err) {
-      disableBeltOnError('hideToc', err);
+      destroyBelt('hideToc', err);
     }
   };
   const scrollTop = () => {
     try {
       document.documentElement
-        .scrollTo({top: 0, behavior: 'smooth'});
+        .scrollTo({ top: 0, behavior: 'smooth' });
       location.hash = '';
     } catch (err) {
-      disableBeltOnError('scrollTop', err);
+      destroyBelt('scrollTop', err);
     }
   };
   const populateToc = () => {
@@ -146,12 +157,9 @@ try {
       menu.id = 'menuToc';
       menu.classList.add('shown');
       const tocItems = document
-        .querySelectorAll('section h1, section h2');
-      for (const entry of tocItems) {
+        .querySelectorAll('section h2');
+      for(const entry of tocItems) {
         const li = document.createElement('li');
-        if (entry.tagName === 'H1') {
-          li.classList.add('primary');
-        }
         const link = document.createElement('a');
         link.innerText = entry.innerText;
         link.href = '#' + entry.innerText
@@ -166,22 +174,35 @@ try {
       }
       dynamicToc.prepend(menu);
     } catch (err) {
-      disableBeltOnError('populateToc', err);
+      destroyBelt('populateToc', err);
     }
   };
-  populateToc();
-  registerListenerMatrix([
-    [btnHome, 'click', goHome],
-    [btnDynamicToc, 'click', toggleDynamicToc],
-    [btnTop, 'click', scrollTop],
-    [switchToSiteMenu, 'click', showMenuNav],
-    [switchToPageMenu, 'click', showMenuToc],
-    [window, 'scroll', maintainBeltState],
-  ]);
-  maintainBeltState();
-  utilityBelt.classList.add('shown');
+  const activateUtilityBelt = () => {
+    try {
+      populateToc();
+      registerListenerMatrix([
+        [btnHome, 'click', goHome],
+        [btnDynamicToc, 'click', toggleDynamicToc],
+        [btnTop, 'click', scrollTop],
+        [switchToSiteMenu, 'click', showMenuNav],
+        [switchToPageMenu, 'click', showMenuToc],
+        [window, 'scroll', maintainBeltState],
+      ]);
+      maintainBeltState();
+      // Finally show the belt, so that if there was a failure nothing broken is visible.
+      document.querySelector('footer')
+        .classList.add('utility-belt-active');
+      utilityBelt.classList.add('shown');
+    } catch (err) {
+      destroyBelt('activateUtilityBelt', err);
+    }
+  };
+  activateUtilityBelt();
 } catch (err) {
-  disableBeltOnError(err);
+  destroyBelt('main', err);
 }
-// References to any of that now only exist as
-// event listeners or within listener removers
+/*
+* References to anything declared there now only
+* exist as event listeners or within event
+* listener removers. Nice and clean.
+*/
