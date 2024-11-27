@@ -124,14 +124,6 @@
       font-size: 14px;
       line-height: 16px;
     }
-    #dynamicToc menu li.primary,
-    #dynamicToc nav li.primary {
-        padding-bottom: 12px;
-    }
-    #dynamicToc menu li.primary a,
-    #dynamicToc nav li.primary a {
-      font-weight: 600;
-    }
     #dynamicToc menu li.intro,
     #dynamicToc nav li.intro {
         font-style: oblique;
@@ -416,12 +408,9 @@ try {
       menu.id = 'menuToc';
       menu.classList.add('shown');
       const tocItems = document
-        .querySelectorAll('section h1, section h2');
+        .querySelectorAll('section h2');
       for(const entry of tocItems) {
         const li = document.createElement('li');
-        if (entry.tagName === 'H1') {
-          li.classList.add('primary');
-        }
         const link = document.createElement('a');
         link.innerText = entry.innerText;
         link.href = '#' + entry.innerText
