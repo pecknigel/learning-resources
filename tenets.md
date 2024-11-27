@@ -43,6 +43,10 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ## Jack of All Trades, Master of Most
 
+### It’s All About the Experience
+
+For users, at least. It’s a different world. And one that you need to be intimately aware of if you’re designing interfaces and want to do it well.
+
 ## Modules, Interfaces, Modular Design
 
 ## Test, Test, Test
