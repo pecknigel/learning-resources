@@ -9,6 +9,8 @@ heading: Educator Portal
 
 We are all educators. At least of ourselves. Engaging with that can seriously upgrade your learning.
 
+**This is being published as I write it. November, 2024.**
+
 This area of the site is all about the approach that we take to learning and teaching.
 
 It’s not intended to be comprehensive although in time it may be.
@@ -18,8 +20,6 @@ It’s not even necessarily intended for reading. There’s useful info here but
 If it seems interesting to you, have at it. Otherwise there’s a lot more interesting stuff elsewhere here.
 
 **Take what’s useful [to you], leave the rest.**
-
-**This is being published as I write it. November, 2024.**
 
 ---
 
