@@ -76,7 +76,6 @@ try {
   const switchToSiteMenu = document.getElementById('switchToSiteMenu');
   const switchToPageMenu = document.getElementById('switchToPageMenu');
   const dynamicToc = document.getElementById('dynamicToc');
-  const scrollY = window.scrollY;
   const registerListener = (el, ev, fn) => {
     try {
       el.addEventListener(ev, fn);
@@ -98,7 +97,7 @@ try {
   };
   const maintainBeltState = () => {
     try {
-      if (scrollY >= 200) {
+      if (window.scrollY >= 200) {
         utilityBelt.classList.remove('collapsed');
       } else {
         utilityBelt.classList.add('collapsed');
@@ -204,7 +203,8 @@ try {
         [window, 'scroll', maintainBeltState],
       ]);
       maintainBeltState();
-      // Finally show the belt, so that if there was a failure nothing broken is visible.
+      // Finally show the belt, so that if there was
+      // a failure nothing broken is visible.
       document.querySelector('footer')
         .classList.add('utility-belt-active');
       utilityBelt.classList.add('shown');
