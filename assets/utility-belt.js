@@ -67,15 +67,23 @@ function destroyBelt(caller, err) {
 * Nigel Peck prescriptionfree.academy Nov. 2024
 */
 try {
-  const utilityBelt = document.getElementById('utilityBelt');
-  const btnHome = document.getElementById('btnHome');
-  const btnDynamicToc = document.getElementById('btnDynamicToc');
-  const btnTop = document.getElementById('btnTop');
+  const utilityBelt = document
+    .getElementById('utilityBelt');
+  const btnHome = document
+    .getElementById('btnHome');
+  const btnDynamicToc = document
+    .getElementById('btnDynamicToc');
+  const btnTop = document
+    .getElementById('btnTop');
   let menuToc;
-  const menuNav = document.getElementById('menuNav');
-  const switchToSiteMenu = document.getElementById('switchToSiteMenu');
-  const switchToPageMenu = document.getElementById('switchToPageMenu');
-  const dynamicToc = document.getElementById('dynamicToc');
+  const menuNav = document
+    .getElementById('menuNav');
+  const switchToSiteMenu = document
+    .getElementById('switchToSiteMenu');
+  const switchToPageMenu = document
+    .getElementById('switchToPageMenu');
+  const dynamicToc = document
+    .getElementById('dynamicToc');
   const registerListener = (el, ev, fn) => {
     try {
       el.addEventListener(ev, fn);
