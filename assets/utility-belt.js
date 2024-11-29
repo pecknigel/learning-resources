@@ -97,7 +97,6 @@ try {
   };
   const maintainBeltState = () => {
     try {
-      console.log(window.scrollY);
       if (window.scrollY >= 200) {
         utilityBelt.classList.remove('collapsed');
         console.log('removed');
