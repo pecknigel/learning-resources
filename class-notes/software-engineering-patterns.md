@@ -39,23 +39,15 @@ Decouple processing logic from associated cases.
 
 Leverage declarative statements for updates and maintenance.
 
-### Example Definition
+### Example Code
 
 ```typescript
 type CaseKey = 'example' | 'example2' | '...';
 
-type CaseSet: <CaseOptions> = {
+type CaseSet<CaseOptions> = {
   [CaseKey]: CaseOptions
 };
 
-class CaseProcessing {
-  abstract static processCase(key: CaseKey, data: any): any;
-} 
-```
-
-### Example Code
-
-```typescript
 type CaseOptions = {
   exDataKey: string;
   exSwitchKey: boolean;
@@ -74,7 +66,7 @@ const caseSets: CaseSet<CaseOptions> = {
 
 class CaseProcessing {
   public static processCase(key: CaseKey, data: any): any {
-    const caseOptions = caseSets[key];
+    const caseOptions = this.getCaseOptions(key);
     // TODO: Process data based on caseOptions
   }
   
