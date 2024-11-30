@@ -97,6 +97,10 @@ These are used for classification of the software pattern library as it grows.
 - DRY
 - Decision Making
 
+## Comments
+
+Another data structure could be used for config lookup equally effectively. 
+
 ## Associated Patterns
 
 - Hash Config (needs writing)
