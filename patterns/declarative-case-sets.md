@@ -91,7 +91,7 @@ class CaseProcessing {
 
 Examples found in established open source projects.
 
-From Next.js. See the `packages` object and the following for loop. Lines 29 to 31.    
+From Next.js. See the `packages` object and the following for loop. Lines 29 to 31. It’s a partial implementation of the pattern described here.    
 [next.js/scripts/unpack-next.cjs at c90e03d9d35db87d286d13b22e8268f42a5259eb · vercel/next.js · GitHub](https://github.com/vercel/next.js/blob/c90e03d9d35db87d286d13b22e8268f42a5259eb/scripts/unpack-next.cjs)
 
 Please share them where you find them so they can be linked here.
