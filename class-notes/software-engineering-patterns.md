@@ -53,26 +53,26 @@ type CaseOptions = {
   exSwitchKey: boolean;
 };
 
-const caseSets: CaseSet<CaseOptions> = {
-  example: {
-    exDataKey: 'Example String',
-    exSwitchKey: true
-  },
-  example2: {
-    exDataKey: 'Another Example String',
-    exSwitchKey: false
-  }
-};
-
 class CaseProcessing {
+  private static caseSets: CaseSet<CaseOptions> = {
+    example: {
+      exDataKey: ‘Example String’,
+      exSwitchKey: true
+    },
+    example2: {
+      exDataKey: ‘Another Example String’,
+      exSwitchKey: false
+    }
+  };
+  
   public static processCase(key: CaseKey, data: any): any {
     const caseOptions = this.getCaseOptions(key);
     // TODO: Process data based on caseOptions
   }
   
   private static getCaseOptions(key: CaseKey): CaseData {
-    if(caseSets[key]) {
-      return caseSets[key];
+    if(this.caseSets[key]) {
+      return this.caseSets[key];
     }
     throw new Error(`Unrecognised CaseKey: ${key}`);
   }
