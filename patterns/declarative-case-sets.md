@@ -7,15 +7,35 @@ heading: Declarative Case Sets
 
 {% include_relative _back.md %}
 
-**This is being published as it is written.**
+**This is being published as it is written. November/December 2024.**
 
 # Declarative Case Sets
 
-Tags: Processing, Option Sets
+This is a pattern to provide config information for data processing as keyed sets.
 
-Declare sets for processing cases. Abstract a processing interface keyed off the sets.
+A single processing interface is provided to handle multiple distinct cases around the same options.
 
-Use a [hash table](https://en.m.wikipedia.org/wiki/Hash_table) to facilitate set lookup.
+This pattern can be used in cases where there is repeated code around the same theme, in order to reduce it to a single interface.
+
+It makes case processing declarative which simplifies management and makes it less error-prone.
+
+It decouples processing configuration from logic.
+
+## Tags
+
+These are used for classification of the software pattern library as it grows.
+
+- Declarative Config
+- Option Sets
+- Data Structures
+- DRY
+- Decision Making
+
+## Technical Specification
+
+- Declare sets for processing cases.
+- Abstract a processing interface keyed off the sets.
+- Use a hash table to facilitate set lookup.
 
 ## Rationale & Anti-Patterns
 
@@ -67,3 +87,6 @@ class CaseProcessing {
 
 ## Example Implementation
 
+## References
+
+- [Hash table](https://en.m.wikipedia.org/wiki/Hash_table)
