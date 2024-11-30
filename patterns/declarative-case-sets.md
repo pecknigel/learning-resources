@@ -13,7 +13,7 @@ heading: Declarative Case Sets
 
 This is a pattern to provide config information for data processing as keyed sets.
 
-A single processing interface is provided to handle multiple distinct cases around the same options.
+A single processing interface is able to handle multiple distinct cases around the same options.
 
 This pattern can be used in cases where there is repeated code around the same theme, in order to reduce it to a single interface.
 
