@@ -23,11 +23,11 @@ It’s all a work in progress and intentionally creative and original in order t
 
 Of course, much of the material will be covered elsewhere in one form or another. It’s based on experience and what comes up while working with students.
 
-## Declarative Option Sets
+## Declarative Case Sets
 
 Tags: Processing, Option Sets
 
-Declare option sets for processing cases. Abstract a processing interface keyed to the option sets.
+Declare sets for processing cases. Abstract a processing interface keyed off the sets.
 
 Use a [hash table](https://en.m.wikipedia.org/wiki/Hash_table) to facilitate set lookup.
 
@@ -63,11 +63,11 @@ type CaseData = {
 
 const optionSet: OptionSet<CaseData> = {
   example: {
-    exDataKey: ‘Example String Data’,
+    exDataKey: 'Example String Data',
     exSwitchKey: true
   },
   example2: {
-    exDataKey: ‘More Example String Data’,
+    exDataKey: 'More Example String Data',
     exSwitchKey: false
   }
 };
@@ -77,5 +77,12 @@ class CaseProcessing {
     const caseData = optionSet[key];
     ...
   }
+  
+  private static getOptionSet(key: CaseKey) {
+    if(optionSet[key]) {
+      return optionSet[key];
+    }
+    throw new Error(`Unrecognised CaseKey: ${key}`);
+  } b
 } 
 ```
