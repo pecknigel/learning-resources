@@ -113,3 +113,4 @@ Another data structure could be used for config lookup equally effectively.
 ## Associated Patterns
 
 - Hash Config (needs writing)
+- Declarative Set Processing (needs writing)
