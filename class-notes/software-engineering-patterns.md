@@ -39,7 +39,7 @@ Decouple processing logic from associated cases.
 
 Leverage declarative statements for updates and maintenance.
 
-### Example Formal Definition
+### Example Definition
 
 ```typescript
 
@@ -52,8 +52,7 @@ type OptionSet = {
   } 
 };
 
-const optionSet: OptionSet = ...;
-
-// Process a case based on CaseKey
-function caseProcessing(key: CaseKey, data: any): any {}
+class CaseProcessing {
+  abstract processCase(key: CaseKey, data: any): any;
+} 
 ```
