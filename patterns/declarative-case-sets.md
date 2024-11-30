@@ -119,3 +119,4 @@ Another data structure could be used for config lookup equally effectively.
 
 - Hash Config (needs writing)
 - Declarative Set Processing (needs writing)
+- Config Based Processing (needs writing) 
