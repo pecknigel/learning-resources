@@ -87,6 +87,12 @@ class CaseProcessing {
 
 - [Hash table](https://en.m.wikipedia.org/wiki/Hash_table)
 
+## Open Source Examples
+
+Examples found in established open source projects.
+
+Please share them where you find them so they can be linked here.
+
 ## Tags
 
 These are used for classification of the software pattern library as it grows.
