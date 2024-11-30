@@ -7,9 +7,11 @@ heading: Software Engineering Patterns
 
 # Software Engineering Patterns
 
+**This is being published as it is written.**
+
 This is an informal and original collection of design patterns that can be used to engineer software.
 
-**This is published as it is written.**
+- [Declarative Case Sets](#declarative-case-sets)
 
 Informal in the sense that not all may be formally recognisable as patterns. They’re useful approaches to achieving goals with software. There may be crossover and duplication between parts of patterns where it is useful to lay them out in that way.
 
