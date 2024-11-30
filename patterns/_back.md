@@ -1,0 +1,1 @@
+[Back to Software Engineering Patterns](/patterns)

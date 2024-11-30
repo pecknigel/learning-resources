@@ -17,4 +17,3 @@ defaults:
       path: "patterns/*"
     values:
       site_section: "Software Patterns"
- 

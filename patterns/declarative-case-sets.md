@@ -5,6 +5,8 @@ permalink: /patterns/declarative-case-sets
 heading: Declarative Case Sets
 ---
 
+{% include_relative _back.md %}
+
 **This is being published as it is written.**
 
 # Declarative Case Sets
@@ -62,3 +64,6 @@ class CaseProcessing {
   }
 } 
 ```
+
+## Example Implementation
+
