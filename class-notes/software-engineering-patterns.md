@@ -42,19 +42,40 @@ Leverage declarative statements for updates and maintenance.
 ### Example Definition
 
 ```typescript
+type CaseKey = 'example' | 'example2' | '...';
 
-type CaseKey = 'case1' | '...';
-
-type Case = {
-  option1: any,
-  ...
-};
-
-type OptionSet = {
-  [CaseKey]: Case 
+type OptionSet: <CaseData> = {
+  [CaseKey]: CaseData
 };
 
 class CaseProcessing {
   abstract processCase(key: CaseKey, data: any): any;
+} 
+```
+
+### Example Code
+
+```typescript
+type CaseData = {
+  exDataKey: string;
+  exSwitchKey: boolean;
+};
+
+const optionSet: OptionSet<CaseData> = {
+  example: {
+    exDataKey: ‘Example String Data’,
+    exSwitchKey: true
+  },
+  example2: {
+    exDataKey: ‘More Example String Data’,
+    exSwitchKey: false
+  }
+};
+
+class CaseProcessing {
+  processCase(key: CaseKey, data: CaseData): any {
+    const caseData = optionSet[key];
+    ...
+  }
 } 
 ```
