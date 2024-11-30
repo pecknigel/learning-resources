@@ -7,6 +7,8 @@ redirect_from:
   - /dom-manipulation
 ---
 
+[<< Back to Class Notes](/class-notes)
+
 # DOM Manipulation
 
 - Querying
