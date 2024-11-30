@@ -1,1 +1,1 @@
-[Back to Software Engineering Patterns](/patterns)
+[<< Back to Software Engineering Patterns](/patterns)
