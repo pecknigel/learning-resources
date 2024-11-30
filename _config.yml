@@ -13,4 +13,9 @@ defaults:
       path: "class-notes/*"
     values:
       site_section: "Class Notes"
+  -
+     scope:
+      path: "patterns/*"
+    values:
+      site_section: "Software Patterns"
  
