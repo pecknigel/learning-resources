@@ -44,45 +44,45 @@ Leverage declarative statements for updates and maintenance.
 ```typescript
 type CaseKey = 'example' | 'example2' | '...';
 
-type OptionSet: <CaseData> = {
-  [CaseKey]: CaseData
+type CaseSet: <CaseOptions> = {
+  [CaseKey]: CaseOptions
 };
 
 class CaseProcessing {
-  abstract processCase(key: CaseKey, data: any): any;
+  abstract static processCase(key: CaseKey, data: any): any;
 } 
 ```
 
 ### Example Code
 
 ```typescript
-type CaseData = {
+type CaseOptions = {
   exDataKey: string;
   exSwitchKey: boolean;
 };
 
-const optionSet: OptionSet<CaseData> = {
+const caseSets: CaseSet<CaseOptions> = {
   example: {
-    exDataKey: 'Example String Data',
+    exDataKey: 'Example String',
     exSwitchKey: true
   },
   example2: {
-    exDataKey: 'More Example String Data',
+    exDataKey: 'Another Example String',
     exSwitchKey: false
   }
 };
 
 class CaseProcessing {
-  processCase(key: CaseKey, data: CaseData): any {
-    const caseData = optionSet[key];
-    ...
+  public static processCase(key: CaseKey, data: any): any {
+    const caseOptions = caseSets[key];
+    // TODO: Process data based on caseOptions
   }
   
-  private static getOptionSet(key: CaseKey) {
-    if(optionSet[key]) {
-      return optionSet[key];
+  private static getCaseOptions(key: CaseKey): CaseData {
+    if(caseSets[key]) {
+      return caseSets[key];
     }
     throw new Error(`Unrecognised CaseKey: ${key}`);
-  } b
+  }
 } 
 ```
