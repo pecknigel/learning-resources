@@ -10,6 +10,7 @@ heading: Class Notes
 Learning notes for particular topics.
 
 - [DOM Manipulation](/class-notes/dom-manipulation)
+- [Software Design Patterns](/class-notes/patterns)
 
 ## Upcoming Class Notes
 
