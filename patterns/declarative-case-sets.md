@@ -43,6 +43,8 @@ Don’t use this if the cases are not aligned and highly cohesive. Unless there 
 
 ## Example Code
 
+**Needs checking and likely wrong in places.**
+
 ```typescript
 type CaseKey = 'example' | 'example2' | '...';
 
