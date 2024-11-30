@@ -43,13 +43,15 @@ Leverage declarative statements for updates and maintenance.
 
 ```typescript
 
-type CaseKey: 'case1' | '...';
+type CaseKey = 'case1' | '...';
+
+type Case = {
+  option1: any,
+  ...
+};
 
 type OptionSet = {
-  [CaseKey]: {
-    option1: any,
-    ...
-  } 
+  [CaseKey]: Case 
 };
 
 class CaseProcessing {
