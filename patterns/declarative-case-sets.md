@@ -96,7 +96,10 @@ Examples found in established open source projects.
 From Next.js. See the `packages` object and the following for loop. Lines 29 to 31. It’s a partial implementation of the pattern described here.    
 [next.js/scripts/unpack-next.cjs at c90e03d9d35db87d286d13b22e8268f42a5259eb · vercel/next.js · GitHub](https://github.com/vercel/next.js/blob/c90e03d9d35db87d286d13b22e8268f42a5259eb/scripts/unpack-next.cjs)
 
-Please share them where you find them so they can be linked here.
+This highly complex example from Angular is littered with this pattern throughout the processing that is being done of command line compilation and configuration options.    
+[angular/packages/compiler-cli/src/perform_compile.ts at 0675a243f4c397acdc0b0f0251c5ef09100e05d2 · angular/angular · GitHub](https://github.com/angular/angular/blob/0675a243f4c397acdc0b0f0251c5ef09100e05d2/packages/compiler-cli/src/perform_compile.ts)
+
+Links are to specific points in time in case code is changed later. Please share other examples where you find them so they can be added here.
 
 ## Tags
 
