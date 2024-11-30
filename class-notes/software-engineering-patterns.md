@@ -19,7 +19,7 @@ References and collaborators will be cited.
 
 All in the spirit of learning and improving as software engineers. Comments welcome and encouraged. GitHub Discussions coming soon.
 
-It’s all a work in progress and intentionally creative and original in order to encourage innovation and useful point of view that haven’t previously been covered.
+It’s all a work in progress and intentionally creative and original in order to encourage innovation and useful points of view that haven’t previously been covered.
 
 Of course, much of the material will be covered elsewhere in one form or another. It’s based on experience and what comes up while working with students.
 
