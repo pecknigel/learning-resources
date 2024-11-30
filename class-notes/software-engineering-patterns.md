@@ -56,11 +56,11 @@ type CaseOptions = {
 class CaseProcessing {
   private static caseSets: CaseSet<CaseOptions> = {
     example: {
-      exDataKey: ‘Example String’,
+      exDataKey: 'Example String',
       exSwitchKey: true
     },
     example2: {
-      exDataKey: ‘Another Example String’,
+      exDataKey: 'Another Example String',
       exSwitchKey: false
     }
   };
