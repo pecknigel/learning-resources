@@ -39,7 +39,7 @@ Leverage declarative statements for updates and maintenance.
 
 ### Warnings
 
-Don’t use this if the cases are not aligned and highly similar. Unless there is significant crossover another pattern will likely be more appropriate. A signal for this is where the processing code becomes long and case-based. The processing logic should be tight with variance handled by the case configuration which can then be plugged in to the processing logic without a high level of complexity.
+Don’t use this if the cases are not aligned and highly cohesive. Unless there is significant crossover another pattern will likely be more appropriate. A signal for this is where the processing code becomes long and case-based. The processing logic should be tight with variance handled by the case configuration which can then be plugged in to the processing logic without a high level of complexity.
 
 ## Example Code
 
