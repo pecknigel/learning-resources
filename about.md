@@ -11,11 +11,9 @@ heading: About
 
 I thought it was a library?
 
-It’s all a portal. The educator portal is a portal within a portal.
+It’s all a portal. The educator portal is a portal within a portal. The library is a portal.
 
-You’ll get used to me.
-
-Or not.
+A portal to learning and new experiences.
 
 ## About Me
 
