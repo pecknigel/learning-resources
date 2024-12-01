@@ -49,4 +49,4 @@ All of which can help you to be a far more effective software engineer.
 
 ---
 
-More to come on all this.
+It’s intended as inspiration rather than a definitive guide. Contemplate how you might approach improving your software engineer with cognate learning.
