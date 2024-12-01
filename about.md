@@ -5,7 +5,7 @@ permalink: /about
 heading: About
 ---
 
-{% include page-status.html statusLevel="working-draft" %}
+{% include page-status.html statusLevel="steady-working-draft" %}
 
 # About This Portal
 
