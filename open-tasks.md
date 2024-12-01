@@ -11,6 +11,22 @@ These are tasks that are available to work on in order to gain experience. Theyâ
 
 Talk to Nigel if youâ€™re interested in getting involved.
 
+## Upcoming Class Notes
+
+Web Application Architecture Diagrams.
+
+Absolute vs. Relative Links.
+
+Methods for adding CSS to HTML.
+
+Options for selecting elements with CSS.
+
+Object Basics.
+
+Values in JS.
+
+See [Open Tasks](/open-tasks) for options to help out by creating class notes. Learn along the way while benefiting from extra class time.
+
 ## Open Issues
 
 Check repos for open issues. There are various interesting tasks open to work on. Every repo has its issues linked from the learning initiatives page.

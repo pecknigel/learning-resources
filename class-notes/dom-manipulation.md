@@ -11,6 +11,8 @@ redirect_from:
 
 # DOM Manipulation
 
+{% include page-status.html statusLevel="stable" %}
+
 - Querying
 - Creating
 - Appending
