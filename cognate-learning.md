@@ -25,7 +25,7 @@ Here are some ways that you can do that.
 
 ## Sharpen Your Mind
 
-Regular use of Brain Training apps like Elevate can help sharpen your mental abilities. It’s also fun and relaxing.
+Regular use of “brain training” apps like Elevate can help sharpen your mental abilities. It’s also fun and relaxing.
 
 You can improve skills like attention, estimation, math skills and concentration.
 
