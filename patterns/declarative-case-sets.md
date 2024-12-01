@@ -7,7 +7,7 @@ heading: Declarative Case Sets
 
 {% include_relative _back.md %}
 
-**This is being published as it is written. November/December 2024.**
+{% include page-status.html message=“This is a working draft. It is being published as it is written. Nov/Dec 2024.” statusLevel="draft" %}
 
 # Declarative Case Sets
 
