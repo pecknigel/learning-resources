@@ -27,6 +27,8 @@ It decouples configuration from logic for a defined process.
 - Abstract a processing interface keyed off the sets.
 - Use a hash table to facilitate set lookup.
 
+## Code Signals 
+
 ## Rationale & Anti-Patterns
 
 Using a hash table there is no conditional, which is found in anti-patterns to this.
