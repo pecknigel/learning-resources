@@ -5,7 +5,7 @@ permalink: /patterns
 heading: Software Engineering Patterns
 ---
 
-{% include page-status.html statusLevel="stable-index" %}
+{% include page-status.html statusLevel="working-index" %}
 
 # Software Engineering Patterns
 

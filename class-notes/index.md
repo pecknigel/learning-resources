@@ -5,7 +5,7 @@ permalink: /class-notes
 heading: Class Notes
 ---
 
-{% include page-status.html statusLevel="stable-index" %}
+{% include page-status.html statusLevel="working-index" %}
 
 # Class Notes
 
