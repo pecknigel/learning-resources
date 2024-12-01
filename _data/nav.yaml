@@ -3,6 +3,9 @@ links:
 - title: Entranceway (Learning Initiatives)
   url: /
 
+- title: Cognate Learning
+  url: /cognate-learning
+
 - title: Softwate Design Patterns
   url: /patterns
  
@@ -15,9 +18,6 @@ links:
 - title: Open Tasks
   url: /open-tasks
 
-- title: Cognate Learning
-  url: /cognate-learning
-
 - title: Academy Tenets
   url: /tenets
 
@@ -26,3 +26,4 @@ links:
 
 - title: About this Portal
   url: /about
+ 
