@@ -13,8 +13,8 @@ We’re all about the learning here.
 
 One useful approach to learning software engineering skills can be to use a cognate approach.
 
-> **cognate**
-> 3\. Related or analogous in nature, character, or function.
+> **cognate**    
+> 3\. Related or analogous in nature, character, or function.    
 > ~ Miriam Webster
 
 What’s this all about? I hear you say.
