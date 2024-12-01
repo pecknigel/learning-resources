@@ -71,6 +71,7 @@ try {
   const btnHome = document.getElementById('btnHome');
   const btnDynamicToc = document.getElementById('btnDynamicToc');
   const btnTop = document.getElementById('btnTop');
+  // Set dynamically when generated
   let menuToc;
   const menuNav = document.getElementById('menuNav');
   const switchToSiteMenu = document.getElementById('switchToSiteMenu');
@@ -164,13 +165,10 @@ try {
       destroyBelt('scrollTop', err);
     }
   };
-  const populateToc = () => {
+  const generateContentMenu = (menuId, menuElements, clickListener) => {
     try {
       const menu = document.createElement('menu');
-      menu.id = 'menuToc';
-      menu.classList.add('shown');
-      const tocItems = document
-        .querySelectorAll('section h2');
+      menu.id = menuId;
       for(const entry of tocItems) {
         const li = document.createElement('li');
         const link = document.createElement('a');
@@ -178,15 +176,34 @@ try {
         link.href = '#' + entry.innerText
           .toLowerCase()
           .replaceAll(/\s+/g, '-')
-          .replaceAll(/[^a-z-]/g, '');
-        registerListener(
-          link, 'click', hideToc
-        );
+          .replaceAll(/[^a-z-]/g, '')
+          .replaceAll(/(^-+)|(-+$)/g, '')
+          .replaceAll(/-+/g, '-');
+        if (clickListener) {
+          registerListener(
+            link,
+            'click',
+            clickListener
+          );
+        }
         li.append(link);
         menu.append(li);
       }
-      dynamicToc.prepend(menu);
-      menuToc = menu;
+      return menu;
+    } catch (err) {
+      destroyBelt('generateContentMenu', err);
+    }
+  };
+  const populateToc = () => {
+    try {
+      try { menuToc.remove() } catch (e) {}
+      menuToc = generateContentMenu(
+        'menuToc',
+        document.querySelectorAll('h2'),
+        hideToc
+      );
+      menuToc.classList.add('shown');
+      dynamicToc.prepend(menuToc);
     } catch (err) {
       destroyBelt('populateToc', err);
     }
