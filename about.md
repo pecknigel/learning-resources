@@ -13,7 +13,7 @@ I thought it was a library?
 
 It’s all a portal. The educator portal is a portal within a portal.
 
-You’ll get used to me. Or you’ll leave. It’s all good. I’m not for everyone.
+You’ll get used to me.
 
 ## About Me
 
