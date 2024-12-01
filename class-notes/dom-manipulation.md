@@ -9,9 +9,9 @@ redirect_from:
 
 [<< Back to Class Notes](/class-notes)
 
-# DOM Manipulation
-
 {% include page-status.html statusLevel="stable" %}
+
+# DOM Manipulation
 
 - Querying
 - Creating

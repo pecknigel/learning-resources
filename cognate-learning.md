@@ -5,9 +5,9 @@ permalink: /cognate-learning
 heading: Cognate Learning
 ---
 
-# Cognate Learning
-
 {% include page-status.html statusLevel="working-draft" %}
+
+# Cognate Learning
 
 We’re all about the learning here.
 

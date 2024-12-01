@@ -5,9 +5,9 @@ permalink: /for-educators
 heading: Educator Portal
 ---
 
-# Educator Portal
-
 {% include page-status.html statusLevel="working-draft" %}
+
+# Educator Portal
 
 We are all educators. At least of ourselves. Engaging with that can seriously upgrade your learning.
 

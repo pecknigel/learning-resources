@@ -5,9 +5,9 @@ permalink: /resources
 heading: Online Resources
 ---
 
-# Courses and Resources
-
 {% include page-status.html statusLevel="stable" %}
+
+# Courses and Resources
 
 This is a list of online resources that are generally recommended or mentioned in sessions. Use your own judgement with what works for you and discuss it with Nigel.
 

@@ -5,9 +5,9 @@ permalink: /about
 heading: About
 ---
 
-# About This Portal
-
 {% include page-status.html statusLevel="stable" %}
+
+# About This Portal
 
 I thought it was a library?
 

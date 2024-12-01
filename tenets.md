@@ -5,9 +5,9 @@ permalink: /tenets
 heading: Academy Tenets
 ---
 
-# Tenets of Software Engineering
-
 {% include page-status.html statusLevel="working-draft" %}
+
+# Tenets of Software Engineering
 
 These are tenets that we share with students to guide and assist them on their way to becoming accomplished software engineers.
 

@@ -5,9 +5,9 @@ permalink: /patterns
 heading: Software Engineering Patterns
 ---
 
-# Software Engineering Patterns
-
 {% include page-status.html statusLevel="stable-index" %}
+
+# Software Engineering Patterns
 
 This is an informal and original collection of design patterns used to engineer software.
 

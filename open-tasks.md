@@ -5,9 +5,9 @@ permalink: /open-tasks
 heading: Open Tasks
 ---
 
-# Open Tasks
-
 {% include page-status.html statusLevel="working-draft" %}
+
+# Open Tasks
 
 These are tasks that are available to work on in order to gain experience. They’re rough notes intended for looking over when someone has availability.
 
