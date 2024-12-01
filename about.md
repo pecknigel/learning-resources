@@ -15,6 +15,8 @@ It’s all a portal. The educator portal is a portal within a portal.
 
 You’ll get used to me.
 
+Or not.
+
 ## About Me
 
 I’m Nigel. I enjoy teaching. I love teaching if I can be permitted that indiscretion.
