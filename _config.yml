@@ -3,7 +3,7 @@ title: Academy Library
 github:
   is_user_page: false
   is_project_page: true
-  owner_name: Prescription Free Academy (GitHub Organistion)
+  owner_name: GitHub Organistion for Prescription Free Academy
 plugins:
   - jekyll-redirect-from
 
