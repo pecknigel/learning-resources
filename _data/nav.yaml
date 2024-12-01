@@ -3,9 +3,6 @@ links:
 - title: Entranceway (Learning Initiatives)
   url: /
 
-- title: Cognate Learning
-  url: /cognate-learning
-
 - title: Softwate Engineering Patterns
   url: /patterns
  
@@ -14,6 +11,9 @@ links:
 
 - title: Courses and Resources
   url: /resources
+
+- title: Cognate Learning
+  url: /cognate-learning
  
 - title: Open Tasks
   url: /open-tasks
