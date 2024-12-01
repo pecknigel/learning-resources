@@ -5,7 +5,7 @@ permalink: /tenets
 heading: Academy Tenets
 ---
 
-{% include page-status.html statusLevel="working-draft" %}
+{% include page-status.html statusLevel="stalled-draft" %}
 
 # Tenets of Software Engineering
 

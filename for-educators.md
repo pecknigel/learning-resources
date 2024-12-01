@@ -5,7 +5,7 @@ permalink: /for-educators
 heading: Educator Portal
 ---
 
-{% include page-status.html statusLevel="working-draft" %}
+{% include page-status.html statusLevel="stalled-draft" %}
 
 # Educator Portal
 
