@@ -7,6 +7,8 @@ heading: Online Resources
 
 # Courses and Resources
 
+{% include page-status.html statusLevel="stable" %}
+
 This is a list of online resources that are generally recommended or mentioned in sessions. Use your own judgement with what works for you and discuss it with Nigel.
 
 The [MDN Web Docs](https://developer.mozilla.org/) site features comprehensive coverage of all front-end web technology. HTML, CSS, JavaScript and HTTP being the main contenders. It’s from the folks who create the Firefox web browser. Many of the links below are from MDN.

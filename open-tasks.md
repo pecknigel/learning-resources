@@ -7,6 +7,8 @@ heading: Open Tasks
 
 # Open Tasks
 
+{% include page-status.html statusLevel="working-draft" %}
+
 These are tasks that are available to work on in order to gain experience. They’re rough notes intended for looking over when someone has availability.
 
 Talk to Nigel if you’re interested in getting involved.

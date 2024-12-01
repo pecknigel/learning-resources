@@ -7,6 +7,8 @@ heading: Academy Tenets
 
 # Tenets of Software Engineering
 
+{% include page-status.html statusLevel="working-draft" %}
+
 These are tenets that we share with students to guide and assist them on their way to becoming accomplished software engineers.
 
 **This is being published as I write it. November, 2024.**

@@ -7,6 +7,8 @@ heading: Educator Portal
 
 # Educator Portal
 
+{% include page-status.html statusLevel="working-draft" %}
+
 We are all educators. At least of ourselves. Engaging with that can seriously upgrade your learning.
 
 **This is being published as I write it. November, 2024.**
