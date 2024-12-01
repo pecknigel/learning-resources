@@ -117,6 +117,8 @@ Another data structure could be used for config lookup equally effectively.
 
 ## Associated Patterns
 
-- Hash Config (needs writing)
-- Declarative Set Processing (needs writing)
-- Config Based Processing (needs writing) 
+- Hash Config
+- Declarative Set Processing
+- Config Based Processing
+
+Planned entries are listed but not linked.

@@ -26,4 +26,10 @@ Of course, much or all of the material will be covered elsewhere in one form or 
 ## Current List
 
 - [Declarative Case Sets](/patterns/declarative-case-sets)
- 
+- Hash Config
+- Declarative Set Processing
+- Config Based Processing
+- Drop-In Utility
+- Singleton
+
+Planned entries are listed but not linked.
