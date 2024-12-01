@@ -1,5 +1,7 @@
 <div class="page-status {{ include.statusLevel }}">
 {% if include.statusLevel == "working-draft" %}
 This is a working draft. It is being published as it is written. Nov/Dec 2024.
+{% if include.statusLevel == "stable" %}
+This information is considered stable. Updates will be made as needed but none are in progress.
 {% endif %}
 </div>

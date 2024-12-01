@@ -7,7 +7,7 @@ heading: Software Engineering Patterns
 
 # Software Engineering Patterns
 
-**This is being published as it is written.**
+{% include page-status.html statusLevel=‘stable’ %}
 
 This is an informal and original collection of design patterns used to engineer software.
 
