@@ -7,7 +7,7 @@ heading: Software Engineering Patterns
 
 # Software Engineering Patterns
 
-{% include page-status.html statusLevel=‘stable’ %}
+{% include page-status.html statusLevel="stable" %}
 
 This is an informal and original collection of design patterns used to engineer software.
 
