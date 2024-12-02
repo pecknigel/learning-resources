@@ -61,6 +61,14 @@ For users, at least. It’s a different world. And one that you need to be intim
 
 It’s not a useful approach to try and get it all right the first time. Your focus is needed elsewhere.
 
+## Breathe
+
+
+
+## Master Debugging
+
+
+
 ## Take Regular Breaks
 
 
@@ -70,6 +78,10 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 
 ## Stop and Look Around
+
+
+
+## Observe Software
 
 
 
@@ -91,7 +103,9 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 ## Be Straight With One Another
 
-Talking about engineer to engineer. There’s no place for BS or power games or being right. If engineering effective and reliable software is your goal. Everyone needs to be on the same team. If not, best to stick to visiting the public house and leave the engineering to the grown-ups.
+Talking about engineer to engineer. There’s no place for BS or power games or being right or getting offended. That’s if engineering effective and reliable software is your goal. Everyone needs to be on the same team. If not, best to stick to visiting the public house and leave the engineering to the grown-ups.
+
+Learn to breathe. Learn to let go. Practice compassion. Learn to laugh. Practice humour.
 
 ...
 
