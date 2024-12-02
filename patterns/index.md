@@ -30,7 +30,6 @@ Of course, much or all of the material will be covered elsewhere in one form or 
 - Declarative Set Processing
 - Config Based Processing
 - Drop-In Utility
-- Singleton
 - App
 - Include
 - State
