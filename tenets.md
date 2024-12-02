@@ -171,6 +171,14 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 
 
+## Precision of Language
+
+
+
+## Wild Thing
+
+
+
 ## Be Straight With One Another
 
 Talking about engineer to engineer. There’s no place for BS or power games or being right or getting offended. That’s if engineering effective and reliable software is your goal. Everyone needs to be on the same team. If not, best to stick to visiting the public house and leave the engineering to the grown-ups.
