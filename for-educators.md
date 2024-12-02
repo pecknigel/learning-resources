@@ -5,7 +5,7 @@ permalink: /for-educators
 heading: Educator Portal
 ---
 
-{% include page-status.html statusLevel="stalled-draft" %}
+{% include page-status.html statusLevel="working-draft" %}
 
 # Educator Portal
 
@@ -45,6 +45,14 @@ It’s not about how you code, it’s about the way that you approach it. How yo
 ### Get with the Program
 
 It’s essential to stay engaged. You’re not going to learn by sitting back and being fed instructions. You’re going to have to make it happen yourself. This is not schooling.
+
+### Master Task Switching
+
+
+
+### Deliver on Your (Naming) Titles
+
+
 
 ...
 
