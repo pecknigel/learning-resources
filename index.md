@@ -7,6 +7,8 @@ heading: Learning Initiatives
 
 Welcome to the Academy Library. Here you’ll find resources to support your learning and involvement with the academy.
 
+It’s all freely available. Taking classes/sessions with Nigel isn’t required. It’s offered for your learning and growth. Any feedback is greatly appreciated.
+
 Consider this the entranceway. It features  a live view of the learning initiatives that are underway (follow the links to commits to see the action in detail).
 
 There’s something for everyone. All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready to get started.
