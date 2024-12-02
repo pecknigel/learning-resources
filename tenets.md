@@ -81,7 +81,11 @@ Stick anything you see on a list of add a TODO comment.
 
 
 
-## Every Space Matters!
+## Every Space (or Pixel) Matters!
+
+
+
+## Manage Your Time Well
 
 
 
@@ -111,7 +115,7 @@ Use it for documentation as well as code. Contribute to open source projects. Le
 
 ## Get Involved
 
-Know the standards processes. Join newsletters. Check in on the W3C.
+Know the standards processes. Join newsletters. Check in on the W3C. Contribute to discussions.
 
 ## There’s More Than One Way To Do It
 
