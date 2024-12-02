@@ -183,7 +183,7 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 
 
-## Is He Just Writing Titles That He’ll Never Expand Upon
+## Is He Just Writing Titles That He’ll Never Expand Upon?
 
 
 
