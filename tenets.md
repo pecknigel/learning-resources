@@ -117,6 +117,27 @@ Use it for documentation as well as code. Contribute to open source projects. Le
 
 Know the standards processes. Join newsletters. Check in on the W3C. Contribute to discussions.
 
+## Master Task Switching
+
+
+
+## Broaden Your Horizons
+
+Try different libraries and frameworks. Get to know what’s out there. An hour or two can tell you a lot. Keep up with what’s out there.
+
+## Deliver on Your (Naming) Titles
+
+
+
+## Pay Attention to Naming
+
+
+
+
+## Master Data Structures
+
+
+
 ## There’s More Than One Way To Do It
 
 
