@@ -2,13 +2,9 @@
 <html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
     <script src="/assets/utility-belt.js?v=2" defer></script>
     <style>
@@ -261,13 +257,10 @@
           <div>{{ page.heading }}</div>
           {% endif %}
         </div>
-        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
         <p>Learning resources from the <a href="https://prescriptionfree.academy/">Prescription Free Academy</a> of Web Development and Software Engineering.</p>
-        
         <p>"Documentation to get you from beginner to accomplished software engineer with one-to-one mentoring available seven days."</p>
         <nav>
              {% for item in site.data.nav.links %}
@@ -276,9 +269,7 @@
         </nav>
       </header>
       <section>
-
       {{ content }}
-
       <div id="utilityBelt">
 <button id="btnHome"><img src="/assets/library-line-svgrepo-com.svg" alt="Home"></button>
 <button id="btnDynamicToc"><img src="/assets/menu-alt-2-svgrepo-com.svg" alt="TOC"></button>
