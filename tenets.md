@@ -179,6 +179,26 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 
 
+## I Have My Own Mind For That, Thank You
+
+
+
+## Is He Just Writing Titles That He’ll Never Expand Upon
+
+
+
+## Yes
+
+
+
+## Possibly
+
+
+
+## It’s Never Really Clear, Is It ?
+
+
+
 ## Be Straight With One Another
 
 Talking about engineer to engineer. There’s no place for BS or power games or being right or getting offended. That’s if engineering effective and reliable software is your goal. Everyone needs to be on the same team. If not, best to stick to visiting the public house and leave the engineering to the grown-ups.
