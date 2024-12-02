@@ -37,20 +37,33 @@ Of course, much or all of the material will be covered elsewhere in one form or 
 - Validation Quiet Return
 - Option Bag
 - Chaining
+- Event Bus
 
 Planned entries are listed but not linked.
 
 ## Entry-Level Patterns
- 
+
+These could also be called techniques but sit well as entry-level patterns. They’re the next steps for aspiring engineers after learning the basics.
+
 - Varied Functions
 - Single Object Params
 - Negation
 - Chained Logic
 - Fall Through
-- Three-Step Routine: Initialise, Process, Finish
+- Three-Step Routines (Initialise, Process, Finish)
 - Switch Case
 - Map
 - Filter
 - Reduce
+- Recursion
+
+Planned entries are listed but not linked.
+
+## Architecture Patterns
+
+These are listed last because they are generally well covered elsewhere. They’ll be worked on in the same original way but are not being prioritised at this point.
+
+- Factory
+- Singleton
 
 Planned entries are listed but not linked.

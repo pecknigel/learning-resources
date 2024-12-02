@@ -47,6 +47,12 @@ Practicing meditation is excellent to improve your concentration, emotional stat
 
 All of which can help you to be a far more effective software engineer.
 
+## Silence
+
+## Listening
+
+## Contemplation
+
 ---
 
 It’s intended as inspiration rather than a definitive guide. Contemplate how you might approach improving your software engineering with cognate learning.

@@ -143,7 +143,11 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 
 
-## Be Consistent, Consistency is Your Friend
+## Write Algorithms
+
+
+
+## Consistency is Key
 
 
 
@@ -160,6 +164,10 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 
 ## RTFM
+
+
+
+## Really Look
 
 
 
