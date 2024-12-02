@@ -177,6 +177,8 @@ Talking about engineer to engineer. There’s no place for BS or power games or 
 
 Learn to breathe. Learn to let go. Practice compassion. Learn to laugh. Practice humour.
 
+## Only The (Stubborn?) Persistent Survive
+
 ...
 
 See [Educator Portal](/for-educators) for further ramblings.
