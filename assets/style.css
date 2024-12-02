@@ -4,6 +4,7 @@
     a:hover, a:active {
       font-weight: normal;
     }
+    
     h1,
     .heading {
       display: flex;
@@ -22,9 +23,11 @@
       color: #999;
       line-height: 18px;
     }
+    
     section {
       position: relative;
     }
+    
     footer {
     }
     footer ul {
@@ -32,6 +35,7 @@
       padding-top: 15px;
       padding-left: 20px;
     }
+    
     .page-status {
       border-width: 1px;
       border-style: 1px;
@@ -51,6 +55,7 @@
       border-color: seagreen;
       background: limegreen;
     }
+    
     #utilityBelt {
       display: none;
       position: fixed;
@@ -82,6 +87,7 @@
     #btnTop {
       right: 14px;
     }
+    
     #utilityBelt button {
       position: absolute;
       bottom: 7px;
@@ -106,6 +112,7 @@
     #utilityBelt button#btnTop img {
       height: 38px;
     }
+    
     #dynamicToc {
       position: fixed;
       z-index: 10000;
@@ -156,6 +163,7 @@
         font-size: 16px;
         line-height: 18px;
         padding-bottom: 14px;
+        text-align: center;
     }
     #dynamicToc menu li a.selected,
     #dynamicToc nav li a.selected {
