@@ -63,6 +63,16 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 ## Take Regular Breaks
 
+
+
+## Start from Where You Are
+
+
+
+## Stop and Look Around
+
+
+
 ...
 
 See [Educator Portal](/for-educators) for further ramblings.
