@@ -177,7 +177,13 @@ Talking about engineer to engineer. There’s no place for BS or power games or 
 
 Learn to breathe. Learn to let go. Practice compassion. Learn to laugh. Practice humour.
 
-## Only The (Stubborn?) Persistent Survive
+## Laziness, Impatience and Hubris
+
+Thanks, Larry.
+
+## Only The Persistent Survive
+
+Or was it “the stubborn”? Probably it’s both.
 
 ...
 
