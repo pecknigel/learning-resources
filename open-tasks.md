@@ -39,6 +39,8 @@ Check repos for open issues. There are various interesting tasks open to work on
 
 ## School Admin
 
+Get the website updated so it has all the stuff on the library learning initiatives page.
+
 Create a procedure for setting up a new project.
 
 Only link the library nav if it’s not the current page. Highlight the current page.

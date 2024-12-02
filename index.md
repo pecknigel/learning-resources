@@ -133,11 +133,11 @@ Some are part of larger collaborative programs but can be undertaken in isolatio
 
 ---
 
-## Contribute to the School
+## Gain Software Development Experience
 
-A great way to learn is to be involved in teaching others. Work with Nigel to help prepare learning materials while benefiting from free class time. Tasks will be offered  that suit what you’re currently learning.
+A great way to learn is to get some real experience with software development. Another is to be involved in teaching others. Work with Nigel to help maintain and grow the school while benefiting from extra class time. Tasks will be offered  that suit what you’re currently learning.
 
-Due to the nature of this work, it’s only available to learners who are already taking regular classes. Visit [Open Tasks](/open-tasks) to see some notes on what’s currently needed.
+Due to the nature of this work, it’s only available to learners who are already taking regular classes. Visit [Open Tasks](/open-tasks) to see some rough notes on what’s currently needed.
 
 ---
 
