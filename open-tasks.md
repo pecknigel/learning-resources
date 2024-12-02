@@ -17,7 +17,7 @@ Talk to Nigel if you’re interested in getting involved.
 
 Only for students who are already taking regular classes.
 
-## Upcoming Class Notes
+## Class Notes
 
 Web Application Architecture Diagrams.
 
