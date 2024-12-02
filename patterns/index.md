@@ -30,7 +30,7 @@ Of course, much or all of the material will be covered elsewhere in one form or 
 - Declarative Set Processing
 - Config Based Processing
 - Drop-In Utility
-- App
+- App Object
 - Include
 - State
 - Validation Quiet Return
