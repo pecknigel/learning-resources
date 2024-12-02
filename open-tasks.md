@@ -9,9 +9,9 @@ heading: Open Tasks
 
 # Open Tasks
 
-Tasks available to work on in order to gain real experience while supporting the school.
+Tasks available to work on. Gain real coding and engineering experience while supporting the school’s growth.
 
-They’re rough notes intended for looking over when someone has availability.
+These are rough notes intended for looking over when someone has availability.
 
 Talk to Nigel if you’re interested in getting involved.
 
