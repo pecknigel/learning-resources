@@ -23,7 +23,7 @@ It’s all a work in progress and intentionally creative and original in order t
 
 Of course, much or all of the material will be covered elsewhere in one form or another. It’s based on experience and what comes up while working with students.
 
-## Current List
+## Engineering Patterns
 
 - [Declarative Case Sets](/patterns/declarative-case-sets)
 - Hash Config
@@ -33,6 +33,23 @@ Of course, much or all of the material will be covered elsewhere in one form or 
 - Singleton
 - App
 - Include
-- State 
+- State
+- Validation Quiet Return
+- Option Bag
+- Chaining
+
+Planned entries are listed but not linked.
+
+### Entry-Level Patterns
+ 
+- Varied Functions
+- Single Object Params
+- Negation
+- Chained Logic
+- Fall Through
+- Switch Case
+- Filter
+- Reduce
+- Map
 
 Planned entries are listed but not linked.
