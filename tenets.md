@@ -123,6 +123,10 @@ Know the standards processes. Join newsletters. Check in on the W3C. Contribute 
 
 
 
+## Don’t Repeat Yourself
+
+
+
 ## Broaden Your Horizons
 
 Try different libraries and frameworks. Get to know what’s out there. An hour or two can tell you a lot. Keep up with what’s out there.
