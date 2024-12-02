@@ -77,7 +77,7 @@ Set up a Web Components Learning Project. See [DOM Manipulation Class Notes](cla
 
 Set up Practice Project: Abstract DOM Manipulation. Create an abstraction for DOM Manipulation.
 
-## Upcoming Learning Initiatives
+## Learning Initiatives
 
 These have not yet progressed to being assigned as tasks. They are ideas for possible future development.
 
