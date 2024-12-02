@@ -47,10 +47,10 @@ Planned entries are listed but not linked.
 - Negation
 - Chained Logic
 - Fall Through
-- Three-Step Routine: Initialise, Process, Clean
+- Three-Step Routine: Initialise, Process, Finish
 - Switch Case
+- Map
 - Filter
 - Reduce
-- Map
 
 Planned entries are listed but not linked.
