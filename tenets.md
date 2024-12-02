@@ -61,6 +61,10 @@ For users, at least. It’s a different world. And one that you need to be intim
 
 It’s not a useful approach to try and get it all right the first time. Your focus is needed elsewhere.
 
+## Take Regular Breaks
+
 ...
 
 See [Educator Portal](/for-educators) for further ramblings.
+
+See [Cognate Learning](/cognate-learning) for other writings.
