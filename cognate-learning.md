@@ -35,7 +35,7 @@ This is not an advert. It’s a technique that I’ve used personally and had st
 
 I’ve always been pleased to have spent hours pouring over and solving books of logic problems as a teenager. It can be helpful for adults too. It really helps with training the mind to look at all the factors and devise a solution.
 
-## Practice (or Master) Writing
+## Writing
 
 Writing can improve skills that are used for software development. Imagination, creativity, drawing information together.
 
