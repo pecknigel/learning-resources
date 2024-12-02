@@ -51,6 +51,8 @@ For users, at least. It’s a different world. And one that you need to be intim
 
 ## Modules, Interfaces, Modular Design
 
+Pay attention to responsibilities.
+
 ## Test, Test, Test
 
 ## Write Clean Code, Master Debugging, Eliminate Frustration
@@ -125,12 +127,11 @@ Know the standards processes. Join newsletters. Check in on the W3C. Contribute 
 
 Try different libraries and frameworks. Get to know what’s out there. An hour or two can tell you a lot. Keep up with what’s out there.
 
-## Deliver on Your (Naming) Titles
+## Deliver on Your Titles (Names)
 
 
 
 ## Pay Attention to Naming
-
 
 
 
