@@ -36,7 +36,6 @@ Of course, much or all of the material will be covered elsewhere in one form or 
 - Validation Quiet Return
 - Option Bag
 - Chaining
-- Event Bus
 
 Planned entries are listed but not linked.
 
@@ -63,5 +62,6 @@ These are listed last because they are generally well covered elsewhere. They’
 
 - Factory
 - Singleton
+- Event Bus
 
 Planned entries are listed but not linked.
