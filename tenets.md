@@ -83,7 +83,7 @@ Stick anything you see on a list or add a TODO comment.
 
 
 
-## Every Space (or Pixel) Matters!
+## Every Space (Character, Pixel) Matters!
 
 
 
