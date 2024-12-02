@@ -169,7 +169,7 @@ try {
     try {
       const menu = document.createElement('menu');
       menu.id = menuId;
-      for(const entry of tocItems) {
+      for(const entry of menuElements) {
         const li = document.createElement('li');
         const link = document.createElement('a');
         link.innerText = entry.innerText;
