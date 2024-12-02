@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Academy Tenets
+title: Engineering Tenets
 permalink: /tenets
-heading: Academy Tenets
+heading: Engineering Tenets
 ---
 
 {% include page-status.html statusLevel="stalled-draft" %}
