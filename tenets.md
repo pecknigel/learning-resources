@@ -71,7 +71,7 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 ## Do One Thing At a Time (and Do It Well)
 
-Stick anything you see on a list of add a TODO comment.
+Stick anything you see on a list or add a TODO comment.
 
 ## The Three Step Process
 
