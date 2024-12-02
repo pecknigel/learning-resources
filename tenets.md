@@ -73,6 +73,22 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 
 
+## There’s More Than One Way To Do It
+
+
+
+## It Depends
+
+
+
+## Your Mileage May Vary
+
+
+
+## RTFM
+
+
+
 ...
 
 See [Educator Portal](/for-educators) for further ramblings.
