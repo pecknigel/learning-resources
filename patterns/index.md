@@ -33,5 +33,6 @@ Of course, much or all of the material will be covered elsewhere in one form or 
 - Singleton
 - App
 - Include
+- State 
 
 Planned entries are listed but not linked.

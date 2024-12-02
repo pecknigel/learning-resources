@@ -89,6 +89,10 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 
 
+## Be Straight With One Another
+
+Talking about engineer to engineer. There’s no place for BS or power games or being right. If engineering effective and reliable software is your goal. Everyone needs to be on the same team. If not, best to stick to visiting the public house and leave the engineering to the grown-ups.
+
 ...
 
 See [Educator Portal](/for-educators) for further ramblings.
