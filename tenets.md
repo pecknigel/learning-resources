@@ -69,6 +69,22 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 
 
+## Do One Thing At a Time (and Do It Well)
+
+Stick anything you see on a list of add a TODO comment.
+
+## The Three Step Process
+
+
+
+## Pay Attention to Formatting
+
+
+
+## Every Space Matters!
+
+
+
 ## Take Regular Breaks
 
 
@@ -84,6 +100,10 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 ## Observe Software
 
 
+
+## Get to Know Your IDE
+
+And make it WebStorm rather than VS Code. Or at least give it a good try.
 
 ## There’s More Than One Way To Do It
 
