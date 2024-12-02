@@ -19,7 +19,7 @@ This pattern can be used in cases where there is repeated code around the same t
 
 It makes case processing declarative which simplifies management and makes it less error-prone.
 
-It decouples configuration from logic for a defined process.
+It decouples configuration from logic.
 
 ## Technical Specification
 
