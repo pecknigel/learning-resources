@@ -105,6 +105,14 @@ Stick anything you see on a list of add a TODO comment.
 
 And make it WebStorm rather than VS Code. Or at least give it a good try.
 
+## Learn Git
+
+Use it for documentation as well as code. Contribute to open source projects. Learn GitHub features.
+
+## Get Involved
+
+Know the standards processes. Join newsletters. Check in on the W3C.
+
 ## There’s More Than One Way To Do It
 
 
