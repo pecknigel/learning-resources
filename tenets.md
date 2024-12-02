@@ -139,6 +139,10 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 
 
+## Be Consistent, Consistency is Your Friend
+
+
+
 ## There’s More Than One Way To Do It
 
 
