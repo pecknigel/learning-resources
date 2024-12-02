@@ -55,7 +55,6 @@ These could also be called techniques but sit well as entry-level patterns. They
 - Map
 - Filter
 - Reduce
-- Recursion
 
 Planned entries are listed but not linked.
 
