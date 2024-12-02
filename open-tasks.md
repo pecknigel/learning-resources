@@ -9,7 +9,7 @@ heading: Open Tasks
 
 # Open Tasks
 
-Tasks available to work on. Gain real coding and engineering experience while supporting the school’s growth.
+Tasks available to work on. Gain real software development experience while supporting the school’s growth.
 
 These are rough notes intended for looking over when someone has availability.
 
