@@ -11,6 +11,8 @@ heading: Class Notes
 
 Learning notes for particular topics.
 
+## Browser Tech
+
 - [DOM Manipulation](/class-notes/dom-manipulation)
 
 ## Upcoming Class Notes
