@@ -15,7 +15,7 @@ These are tenets to guide and assist on your way to becoming an accomplished sof
 
 Of course that’s involved, but the real skill is in learning to craft software that’s reliable, maintainable, robust and coherent.
 
-More coming on this soon.
+A lot more to say on this.
 
 ## Sharpen Your Research Skills
 
