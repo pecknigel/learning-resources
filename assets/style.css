@@ -43,6 +43,11 @@
       margin-bottom: 15px;
       color: black;
     }
+    .page-status.rough-draft {
+      border-color: darkred;
+      background: firebrick;
+      color: white;
+    }
     .page-status.working-draft,
     .page-status.stalled-draft,
     .page-status.working-index {

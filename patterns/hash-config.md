@@ -1,21 +1,20 @@
 ---
 layout: default
-title: Declarative Case Sets
-permalink: /patterns/declarative-case-sets
-heading: Declarative Case Sets
+title: Hash Config
+permalink: /patterns/hash-config
 ---
 
 {% include_relative _back.md %}
 
-{% include page-status.html statusLevel='working-draft' %}
+{% include page-status.html statusLevel='rough-draft' %}
 
-# Declarative Case Sets
+# Hash Config
 
-This is a pattern to provide config information for data processing as keyed sets.
+**This is partially started after copying the template. Check back soon. Dec 2, 2024.**
 
-A single processing interface is able to handle multiple distinct cases around the same options.
+This is a pattern to declaratively recording config information and having it available by key with fast retrieval.
 
-This pattern can be used in cases where there is repeated code around the same theme, in order to reduce it to a single interface.
+Other patterns build on this.
 
 It makes case processing declarative which simplifies management and makes it less error-prone.
 
@@ -23,25 +22,20 @@ It decouples configuration from logic.
 
 ## Technical Specification
 
-- Declare sets for processing cases.
-- Abstract a processing interface keyed off the sets.
-- Use a hash table to facilitate set lookup.
+- Declare keys for each config option.
+- Use a hash table to facilitate retrieval.
 
-## Code Signals 
+## Code Signals
+
+Config information is distributed throughout the code.
 
 ## Rationale & Anti-Patterns
-
-Using a hash table there is no conditional, which is found in anti-patterns to this.
-
-Decouple processing logic from associated cases.
 
 Leverage declarative statements for updates and maintenance.
 
 ## When to Reach for It
 
 ### Warnings
-
-Don’t use this if the cases are not aligned and highly cohesive. Unless there is significant crossover another pattern will likely be more appropriate. A signal for this is where the processing code becomes long and case-based. The processing logic should be tight with variance handled by the case configuration which can then be plugged in to the processing logic without a high level of complexity.
 
 ## Example Code
 
@@ -121,7 +115,7 @@ The basic idea is to separate processing details from processing logic where the
 
 ## Associated Patterns
 
-- [Hash Config](/patterns/hash-config)
+- Hash Config
 - Declarative Set Processing
 - Config Based Processing
 

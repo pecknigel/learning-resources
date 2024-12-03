@@ -1,5 +1,9 @@
 <div class="page-status {{ include.statusLevel }}">
-{% if include.statusLevel == "working-draft" %}
+{% if include.statusLevel == "rough-draft" %}
+
+This document is a rough draft. Don't use it. Check back in a day or two. It is live published as it is written and edited. Dec/Jan 2024.
+
+{% elsif include.statusLevel == "working-draft" %}
 
 This document is a working draft. It is live published as it is written and edited. Dec/Jan 2024.
 
