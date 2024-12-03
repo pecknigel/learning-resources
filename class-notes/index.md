@@ -19,4 +19,6 @@ See [Open Tasks](/open-tasks) for planned class notes.
 
 ---
 
+## See Also
+
 For our other collection, which is the main focus of development right now, see [Software Engineering Patterns](/patterns).
