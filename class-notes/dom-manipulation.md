@@ -7,6 +7,10 @@ redirect_from:
   - /dom-manipulation
 ---
 
+[<< Back to Class Notes](/class-notes)
+
+{% include page-status.html statusLevel="stable" %}
+
 # DOM Manipulation
 
 - Querying

@@ -3,23 +3,26 @@ links:
 - title: Entranceway (Learning Initiatives)
   url: /
 
+- title: Softwate Engineering Patterns
+  url: /patterns
+ 
 - title: Class Notes
   url: /class-notes
 
 - title: Courses and Resources
   url: /resources
- 
-- title: Open Tasks
-  url: /open-tasks
 
 - title: Cognate Learning
   url: /cognate-learning
 
-- title: Academy Tenets
+- title: Tenets for Engineers
   url: /tenets
 
 - title: Educator Portal
   url: /for-educators
 
-- title: About
+- title: About this Portal
   url: /about
+
+- title: Open Tasks
+  url: /open-tasks

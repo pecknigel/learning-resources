@@ -5,17 +5,45 @@ permalink: /open-tasks
 heading: Open Tasks
 ---
 
+{% include page-status.html statusLevel="working-draft" %}
+
 # Open Tasks
 
-These are tasks that are available to work on in order to gain experience. They’re rough notes intended for looking over when someone has availability.
+Tasks available to work on. Gain real software development experience while supporting the school’s growth.
+
+These are rough notes intended for looking over when someone has availability.
 
 Talk to Nigel if you’re interested in getting involved.
+
+Only for students who are already taking regular classes.
+
+## Class Notes
+
+Abstracting and Extracting
+
+Easy asset version and cache control with fake get parameters
+
+Web Application Architecture Diagrams.
+
+Absolute vs. Relative Links.
+
+Methods for adding CSS to HTML.
+
+Options for selecting elements with CSS.
+
+Object Basics.
+
+Values in JS.
+
+See [Open Tasks](/open-tasks) for options to help out by creating class notes. Learn along the way while benefiting from extra class time.
 
 ## Open Issues
 
 Check repos for open issues. There are various interesting tasks open to work on. Every repo has its issues linked from the learning initiatives page.
 
 ## School Admin
+
+Get the website updated so it has all the stuff on the library learning initiatives page.
 
 Create a procedure for setting up a new project.
 
@@ -55,7 +83,7 @@ Set up a Web Components Learning Project. See [DOM Manipulation Class Notes](cla
 
 Set up Practice Project: Abstract DOM Manipulation. Create an abstraction for DOM Manipulation.
 
-## Upcoming Learning Initiatives
+## Learning Initiatives
 
 These have not yet progressed to being assigned as tasks. They are ideas for possible future development.
 

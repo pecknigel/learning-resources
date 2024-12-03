@@ -5,11 +5,11 @@ permalink: /for-educators
 heading: Educator Portal
 ---
 
+{% include page-status.html statusLevel="working-draft" %}
+
 # Educator Portal
 
 We are all educators. At least of ourselves. Engaging with that can seriously upgrade your learning.
-
-**This is being published as I write it. November, 2024.**
 
 This area of the site is all about the approach that we take to learning and teaching.
 
@@ -23,8 +23,6 @@ If it seems interesting to you, have at it. Otherwise there’s a lot more inter
 
 ---
 
-## Ramblings
-
 Let’s get in to it.
 
 > **“Lord, I was born a ramblin’ man.”**
@@ -32,7 +30,7 @@ Let’s get in to it.
 > ~ 1971 - 1973 Dickey Betts (The Allman Brothers Band)    
 > ~ Inspired by Hank Williams 1951
 
-### All Bets Are Off
+## All Bets Are Off
 
 There’s no prescription here. The name wasn’t chosen by accident. Everyone learns their own way and that’s important. Creativity is important. The imagination is important.
 
@@ -40,12 +38,14 @@ If that’s lost or ignored, you’ll never be all that you can be. You’ll nev
 
 It’s not about how you code, it’s about the way that you approach it. How you code is a product of *that*. And it needs to be your own.
 
-### Build from the Ground Up
+## Build from the Ground Up
 
-### Get with the Program
+## Get with the Program
 
 It’s essential to stay engaged. You’re not going to learn by sitting back and being fed instructions. You’re going to have to make it happen yourself. This is not schooling.
 
 ...
 
 See [Academy Tenets](/tenets) for further ramblings.
+
+See [Cognate Learning](/cognate-learning) for other writings.

@@ -5,13 +5,17 @@ permalink: /about
 heading: About
 ---
 
+{% include page-status.html statusLevel="steady-working-draft" %}
+
 # About This Portal
 
 I thought it was a library?
 
-It’s all a portal. The educator portal is a portal within a portal.
+It’s all a portal. The educator portal is a portal within a portal. The library is a portal.
 
-You’ll get used to me. Or you’ll leave. It’s all good. I’m not for everyone.
+A portal to learning and new experiences.
+
+Perhaps.
 
 ## About Me
 

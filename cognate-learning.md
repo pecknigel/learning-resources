@@ -5,15 +5,17 @@ permalink: /cognate-learning
 heading: Cognate Learning
 ---
 
+{% include page-status.html statusLevel="working-draft" %}
+
 # Cognate Learning
 
 We’re all about the learning here.
 
 One useful approach to learning software engineering skills can be to use a cognate approach.
 
-> **cognate**
->
+> **cognate**    
 > 3\. Related or analogous in nature, character, or function.    
+> ~ Miriam Webster
 
 What’s this all about? I hear you say.
 
@@ -23,9 +25,15 @@ Here are some ways that you can do that.
 
 ## Sharpen Your Mind
 
-Regular use of Brain Training apps like Elevate can help sharpen your mental abilities. It’s also fun and relaxing.
+Regular use of “brain training” apps like Elevate can help sharpen your mental abilities. It’s also fun and relaxing.
 
-You can improve skills like attention, estimation, mental arithmetic and concentration.
+You can improve skills like attention, estimation, math skills and concentration.
+
+This is not an advert. It’s a technique that I’ve used personally and had student feedback that it’s helpful for them. There are other options than Elevate.
+
+## Solve Logic Problems
+
+I’ve always been pleased to have spent hours pouring over and solving books of logic problems as a teenager. It can be helpful for adults too. It really helps with training the mind to look at all the factors and devise a solution.
 
 ## Writing
 
@@ -39,6 +47,12 @@ Practicing meditation is excellent to improve your concentration, emotional stat
 
 All of which can help you to be a far more effective software engineer.
 
+## Silence
+
+## Listening
+
+## Contemplation
+
 ---
 
-More to come on all this.
+It’s intended as inspiration rather than a definitive guide. Contemplate how you might approach improving your software engineering with cognate learning.

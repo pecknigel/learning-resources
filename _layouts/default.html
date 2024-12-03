@@ -2,221 +2,31 @@
 <html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
-    <script src="assets/utility-belt.js" defer></script>
-    <style>
-    nav {padding-bottom: 20px;}
-    a:hover, a:active {font-weight: normal;}
-    h1 { display: flex; flex-direction: column; align-items: flex-start; gap: 3px; }
-    h1 div:first-child { font-size: 16px; color: #999; }
-    section {
-      position: relative;
-    }
-    footer {
-    }
-    footer ul {
-      margin-left: 0;
-      padding-top: 15px;
-      padding-left: 20px;
-    }
-    #utilityBelt {
-      display: none;
-      position: fixed;
-      z-index: 10000;
-      bottom: 0;
-      right: 0;
-      height: 68px;
-      box-sizing: border-box;
-      width: 100%;
-      background: white;
-      border-top: 1px solid #d0d0d0;
-    }
-    #utilityBelt.shown {
-      display: block;
-    }
-    #utilityBelt.show-toc {
-      border-top: 0;
-    }
-    #utilityBelt.collapsed .collapsible {
-      opacity: 0.3;
-    }
-    #btnHome {
-      left: 14px;
-    }
-    #btnDynamicToc {
-      left: 50%;
-      transform: translateX(-50%);
-    }
-    #btnTop {
-      right: 14px;
-    }
-    #utilityBelt button {
-      position: absolute;
-      bottom: 7px;
-      z-index: 10100;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 52px;
-      padding: 0;
-      border: none;
-      background: none;
-      color: #666;
-      cursor: pointer;
-      user-select: none;
-    }
-    #utilityBelt button img {
-      height: 52px;
-    }
-    #utilityBelt button#btnDynamicToc img {
-      height: 44px;
-    }
-    #utilityBelt button#btnTop img {
-      height: 38px;
-    }
-    #dynamicToc {
-      position: fixed;
-      z-index: 10000;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      display: none;
-      padding: 24px 24px 76px;
-      box-sizing: border-box;
-      background: #fff;
-      border-top: 3px solid #d0d0d0;
-      max-height: 100%;
-      overflow-y: auto;
-    }
-    #dynamicToc menu,
-    #dynamicToc nav {
-      margin: 0;
-      padding: 0;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: stretch;
-    }
-    #dynamicToc menu li,
-    #dynamicToc nav li {
-      list-style: none;
-      max-width: 500px;
-      margin: 0 auto;
-      padding: 0;
-    }
-    #dynamicToc menu#menuSwitcher li {
-        max-width: none;
-        margin: 0;
-    }
-    #dynamicToc menu li a,
-    #dynamicToc nav li a {
-      display: block;
-      padding: 3px;
-      text-align: center;
-      color: #666;
-      text-decoration: none;
-      font-size: 14px;
-      line-height: 16px;
-    }
-    #dynamicToc menu li.intro,
-    #dynamicToc nav li.intro {
-        font-style: oblique;
-        font-size: 16px;
-        line-height: 18px;
-        padding-bottom: 14px;
-    }
-    #dynamicToc menu li a.selected,
-    #dynamicToc nav li a.selected {
-      background: #f0f0f0;
-    }
-    #dynamicToc menu li a:focus,
-    #dynamicToc menu li a:hover,
-    #dynamicToc menu li a:active,
-    #dynamicToc nav li a:focus,
-    #dynamicToc nav li a:hover,
-    #dynamicToc nav li a:active {
-      background: #f0f0f0;
-    }
-    #dynamicToc menu#menuToc {
-      display: none;
-    }
-    #dynamicToc menu#menuToc.shown {
-      display: flex;
-    }
-    #dynamicToc nav {
-      display: none;
-    }
-    #dynamicToc nav.shown {
-      display: flex;
-    }
-    #dynamicToc menu#menuSwitcher {
-      flex-direction: row;
-      gap: 6px;
-      margin-top: 22px;
-    }
-    #dynamicToc menu#menuSwitcher li a {
-      padding: 3px 10px;
-      border: 3px solid #d0d0d0;
-      border-radius: 5px; 
-    }
-    #utilityBelt.show-toc #dynamicToc {
-      display: block;
-    }
-    @media print, screen and (max-width: 959px) {
-      footer.utility-belt-active {
-        margin-bottom: 74px;
-      }
-    }
-    @media print, screen and (min-width: 960px) {
-      #utilityBelt, #dynamicToc {
-        display: none !important;
-      }
-    }
-    @media print, screen and (max-height: 624px) {
-      #utilityBelt {
-        height: 56px;
-      }
-      #dynamicToc {
-        padding-bottom: 65px;
-      }
-      #utilityBelt button img {
-        height: 42px;
-      }
-      #btnHome {
-        left: 25%;
-        transform: translateX(-50%);
-      }
-      #btnTop {
-        right: 25%;
-        transform: translateX(50%);
-      }
-    }
-    </style>
+    <link rel="stylesheet" href="/assets/style.css?v=4">
+    <script src="/assets/utility-belt.js?v=2" defer></script>
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1>
+        <div class="heading">
           <div>
             {{ site.title }}{% if page.site_section %}: {{ page.site_section }}{% endif %}
           </div>
           {% if page.heading %}
           <div>{{ page.heading }}</div>
+          {% elsif page.title %}
+          <div>{{ page.title }}</div>
           {% endif %}
-        </h1>
-        
+        </div>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
         <p>Learning resources from the <a href="https://prescriptionfree.academy/">Prescription Free Academy</a> of Web Development and Software Engineering.</p>
+        <p>"Master software engineering for the web with one-to-one mentoring available seven days."</p>
         <nav>
              {% for item in site.data.nav.links %}
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
@@ -224,16 +34,14 @@
         </nav>
       </header>
       <section>
-
       {{ content }}
-
       <div id="utilityBelt">
 <button id="btnHome"><img src="/assets/library-line-svgrepo-com.svg" alt="Home"></button>
 <button id="btnDynamicToc"><img src="/assets/menu-alt-2-svgrepo-com.svg" alt="TOC"></button>
 <button id="btnTop"  class="collapsible"><img src="/assets/up-arrow-svgrepo-com-outline.svg" alt="To Top"></button>
         <div id="dynamicToc">
           <nav id="menuNav">
-<li class="intro">Walk the halls and discover their secrets!</li>
+<li class="intro">Wander the halls! It's a young site but growing steadily.</li>
 {% for item in site.data.nav.links %}
 <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
@@ -241,31 +49,18 @@
           <menu id="menuSwitcher">
             <li id="switchToPageMenu">
               <a href="#" class="selected">
-                On This Page
+                This Page
               </a>
             </li>
             <li id="switchToSiteMenu">
-              <a href="#">Library Halls</a>
+              <a href="#">Library Menu</a>
             </li>
           </menu>
         </div>
       </div>
     </section>
     <footer>
-      <ul>
-        <li><a href="{{ site.github.owner_url }}">
-          {{ site.github.owner_name }}
-        </a></li>
-        <li><a
-          href="{{ site.github.repository_url }}"
-        >
-          GitHub Repo for This Documentation
-        </a></li>
-        <li>
-          Operated with Jekyll and GitHub Pages
-        </li>
-      </ul>
-      &copy; Prescription Free Academy 2024
+      &copy; Prescription Free Academy 2024; Operated with Jekyll and GitHub Pages; <a href="https://github.com/Prescription-Free-Academy/Prescription-Free-Academy.github.io">Git Repo</a>; <a href="https://github.com/Prescription-Free-Academy">GitHub Org</a>
     </footer>
   </div>
   </body>

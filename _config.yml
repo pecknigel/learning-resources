@@ -3,7 +3,6 @@ title: Academy Library
 github:
   is_user_page: false
   is_project_page: true
-  owner_name: Prescription Free Academy (GitHub Organistion)
 plugins:
   - jekyll-redirect-from
 
@@ -13,4 +12,8 @@ defaults:
       path: "class-notes/*"
     values:
       site_section: "Class Notes"
- 
+  -
+    scope:
+      path: "patterns/*"
+    values:
+      site_section: "Software Patterns"

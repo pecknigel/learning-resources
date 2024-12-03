@@ -7,11 +7,20 @@ heading: Learning Initiatives
 
 Welcome to the Academy Library. Here you’ll find resources to support your learning and involvement with the academy.
 
+It’s all freely available. Taking classes/sessions with Nigel isn’t required. It’s offered for your learning and growth. Any feedback is greatly appreciated.
+
 Consider this the entranceway. It features  a live view of the learning initiatives that are underway (follow the links to commits to see the action in detail).
 
 There’s something for everyone. All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready to get started.
 
 Our Educator in Chief (Nigel) serves as head librarian and maintains this site by hand using Markdown, Jekyll and GitHub Pages. While editing the files using Working Copy (an iOS Git client), a little WebStorm and occasionally the GitHub website.
+
+---
+
+**Latest Entries**
+
+- [Engineering Patterns: Declarative Case Sets](/patterns/declarative-case-sets)
+- [Engineering Patterns: Hash Config](/patterns/hash-config)
 
 ---
 
@@ -133,11 +142,11 @@ Some are part of larger collaborative programs but can be undertaken in isolatio
 
 ---
 
-## Contribute to the School
+## Gain Software Development Experience
 
-A great way to learn is to be involved in teaching others. Work with Nigel to help prepare learning materials while benefiting from free class time. Tasks will be offered  that suit what you’re currently learning.
+A great way to learn is to get some real experience with software development. Another is to be involved in teaching others. Work with Nigel to help maintain and grow the school while benefiting from support and extra class time. Tasks will be offered  that suit what you’re currently learning.
 
-Due to the nature of this work, it’s only available to learners who are already taking regular classes. Visit [Open Tasks](/open-tasks) to see some notes on what’s currently needed.
+Due to the nature of this work, it’s only available to learners who are already taking regular classes. Visit [Open Tasks](/open-tasks) to see some rough notes on what’s currently needed.
 
 ---
 
