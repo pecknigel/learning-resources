@@ -48,6 +48,7 @@ These could also be called techniques but sit well as entry-level patterns. They
 
 - Varied Functions
 - Single Object Params
+- Class
 - Negation
 - Chained Logic
 - Fall Through
@@ -58,6 +59,8 @@ These could also be called techniques but sit well as entry-level patterns. They
 - Reduce
 - JSON Storage
 - .env
+- Verified Get
+- Verified Set
 
 Planned entries are listed but not linked.
 

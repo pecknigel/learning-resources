@@ -33,7 +33,11 @@ Leverage declarative statements for updates and maintenance.
 
 ## When to Reach for It
 
+-
+
 ### Warnings
+
+-
 
 ## Example Code
 
@@ -97,6 +101,8 @@ class Processing {
 ```
 
 ## Example Implementation
+
+-
 
 ## Attribution
 

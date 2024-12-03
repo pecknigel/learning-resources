@@ -29,6 +29,8 @@ It decouples configuration from logic.
 
 ## Code Signals 
 
+-
+
 ## Rationale & Anti-Patterns
 
 Using a hash table there is no conditional, which is found in anti-patterns to this.
@@ -38,6 +40,8 @@ Decouple processing logic from associated cases.
 Leverage declarative statements for updates and maintenance.
 
 ## When to Reach for It
+
+-
 
 ### Warnings
 
