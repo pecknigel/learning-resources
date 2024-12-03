@@ -69,6 +69,8 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 
 
+## Not All of This is For You
+
 ## Master Debugging
 
 It’s worth mentioning twice.
