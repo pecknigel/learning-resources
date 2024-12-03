@@ -38,6 +38,7 @@ These are patterns that are useful in day to engineering to get the job done in 
 - Validation Quiet Return
 - Option Bag
 - Chaining
+- Render
 
 Planned entries are listed but not linked.
 
