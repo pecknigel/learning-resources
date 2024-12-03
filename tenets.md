@@ -197,6 +197,10 @@ A.k.a. Take care with everything that you do. If a job’s worth doing, it’s w
 
 
 
+## There’s No Need to Get Angry
+
+A note on managing one’s emotions and state of mind.
+
 ## Precision of Language
 
 
