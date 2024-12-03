@@ -128,7 +128,7 @@ Here are some suggestions...
 
 Examples found in established open source projects.
 
-From Next.js. See the `packages` object and the following for loop. Lines 29 to 31. It’s a partial implementation of the pattern described here.    
+From Next.js. See the `packages` object and the following for loop. Lines 19 to 31. It’s a partial implementation of the pattern described here.    
 [GitHub vercel/next.js at 5259eb](https://github.com/vercel/next.js/blob/c90e03d9d35db87d286d13b22e8268f42a5259eb/scripts/unpack-next.cjs)
 
 This highly complex example from Angular is littered with this pattern throughout the processing that is being done of command line compilation and configuration options.    
