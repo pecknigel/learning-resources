@@ -19,6 +19,10 @@ Only for students who are already taking regular classes.
 
 ## Class Notes
 
+Abstracting and Extracting
+
+Easy asset version and cache control with fake get parameters
+
 Web Application Architecture Diagrams.
 
 Absolute vs. Relative Links.
