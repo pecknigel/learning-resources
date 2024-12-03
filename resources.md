@@ -236,7 +236,7 @@ Upgrade your GitHub Pages website to use Strapi for managing content or simply e
 [Strapi Quick Start Guide](https://docs.strapi.io/dev-docs/quick-start)    
 docs.strapi.io/dev-docs/quick-start
 
-Integrate it with a Node.js command line script to generate Markdown and practice with `fetch` or whatever else you can think of.
+Integrate it with a Node.js command line script to generate HTML or Markdown for your site, practice with `fetch` to query the API, or whatever else you can think of.
 
 ## Standards and Governance
 
