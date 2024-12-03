@@ -9,7 +9,9 @@ heading: Engineering Tenets
 
 # Tenets of Software Engineering
 
-These are tenets to guide and assist on your way to becoming an accomplished software engineer.
+A.k.a. 101 tenets. Or at least it’s looking like getting towards that.
+
+These are tenets to guide and assist you on your way to becoming an accomplished software engineer.
 
 ## It’s Not About How to Code
 
