@@ -98,6 +98,8 @@ class CaseProcessing {
 
 ## Example Implementation
 
+-
+
 ## Attribution
 
 If you make use of this pattern, please consider adding an attribution to your code or elsewhere.
