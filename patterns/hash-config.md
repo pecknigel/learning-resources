@@ -10,7 +10,7 @@ permalink: /patterns/hash-config
 
 # Hash Config
 
-This is a pattern to declaratively recording config information and having it available by key with fast retrieval.
+This is a pattern for declaratively recording config information and having it available by key with fast retrieval.
 
 Other patterns build on this.
 
