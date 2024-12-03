@@ -124,10 +124,6 @@ Here are some suggestions...
  */
 ```
 
-## References
-
-- [Hash table](https://en.m.wikipedia.org/wiki/Hash_table)
-
 ## Open Source Examples
 
 Examples found in established open source projects.
@@ -155,6 +151,10 @@ These are used for classification of the software pattern library as it grows.
 Another data structure could be used for config lookup equally effectively. There are many variations on this kind of approach. Other pattern entries are being worked on to demonstrate that.
 
 The basic idea is to separate processing details from processing logic where the process needs to be done in different yet similar ways, so it can be abstracted and result in less code that shows the logic involved rather than details of the cases.
+
+## References
+
+- [Hash table](https://en.m.wikipedia.org/wiki/Hash_table)
 
 ## Associated Patterns
 

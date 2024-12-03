@@ -130,10 +130,6 @@ Here are some suggestions...
  */
 ```
 
-## References
-
-- [Hash table](https://en.m.wikipedia.org/wiki/Hash_table)
-
 ## Open Source Examples
 
 Examples found in established open source projects.
@@ -156,6 +152,10 @@ These are used for classification of the software pattern library as it grows.
 Another data structure could be used for option lookup equally effectively.
 
 This enables centralising options so they are decoupled from the logic and can be readily changed and controlled from a centralised location.
+
+## References
+
+- [Hash table](https://en.m.wikipedia.org/wiki/Hash_table)
 
 ## Associated Patterns
 
