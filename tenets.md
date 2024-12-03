@@ -283,6 +283,8 @@ Ahem.
 
 Or was it “the stubborn”? Probably it’s both.
 
+...
+
 This is Ripley, last surviving member of the crew of the Nostromo, signing off.
 
 (sorry, couldn’t resist)
