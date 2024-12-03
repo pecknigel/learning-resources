@@ -234,7 +234,13 @@ docs.github.com
 Upgrade your GitHub Pages website to use Strapi for managing content or simply experiment with this great system. So easy to get started creating APIs.
 
 [Strapi Quick Start Guide](https://docs.strapi.io/dev-docs/quick-start)    
-docs.strapi.io/dev-docs/quick-start
+docs.strapi.io
+
+[Strapi Admin Panel User Guide](https://docs.strapi.io/user-docs/intro)    
+docs.strapi.io
+
+[Strapi Developer Docs](https://docs.strapi.io/dev-docs/intro)    
+docs.strapi.io
 
 Integrate it with a Node.js command line script to generate HTML or Markdown for your site, practice with `fetch` to query the API, or whatever else you can think of.
 
