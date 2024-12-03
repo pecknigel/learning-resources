@@ -25,7 +25,7 @@ Of course, much or all of the material will be covered elsewhere in one form or 
 
 ## Engineering Patterns
 
-These are patterns that are useful in day to engineering to get the job done in a reliable and consistent way. They’re intended as starting points and food for thought. To help you improve as a software engineer. There’s no right and wrong here. Just information. Use it as you see fit. Mix and match them. Find inspiration. Learn what’s useful and use it in the same way.
+These are patterns that are useful in day to engineering to get the job done in a reliable and consistent way. They’re intended as starting points and food for thought. To help you improve as a software engineer. There’s no right and wrong here. Just information. Use it as you see fit. Mix and match them. Augment them. Use bits of them. Find inspiration. Learn what’s useful and use it in the same way.
 
 - [Declarative Case Sets](/patterns/declarative-case-sets)
 - Hash Config
