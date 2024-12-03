@@ -45,9 +45,16 @@ Don’t use this if the cases are not aligned and highly cohesive. Unless there 
 
 ## Example Code
 
-**Needs checking and likely wrong in places.**
+```javascript
+// Function-Based JavaScript Example
+
+```
+
+**TS code needs checking and likely wrong in places.**
 
 ```typescript
+// Class-Based TypeScript Example
+
 type CaseKey = 'example' | 'example2' | '...';
 
 type CaseOptions = {

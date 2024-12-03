@@ -38,10 +38,7 @@ Leverage declarative statements for updates and maintenance.
 ## Example Code
 
 ```javascript
-
-/*
- * Function-baseed JavaScript example.
- */
+// Function-Based JavaScript Example
 
 const options = {
   exStringKey: 'Example String',
@@ -68,10 +65,7 @@ function doSomething() {
 **TS code needs checking and improving, just a rough start.**
 
 ```typescript
-
-/*
- * Class-based TypeScript example.
- */
+// Class-Based TypeScript Example
 
 type Options = {
   exDataKey: string;
