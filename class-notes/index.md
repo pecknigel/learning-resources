@@ -16,3 +16,7 @@ Learning notes for particular topics.
 ## Upcoming Class Notes
 
 See [Open Tasks](/open-tasks) for planned class notes.
+
+---
+
+For our other collection, which is the main focus of development right now, see [Software Engineering Patterns](/patterns).

@@ -69,3 +69,7 @@ These are listed last because they are generally well covered elsewhere. They’
 - Event Bus
 
 Planned entries are listed but not linked.
+
+---
+
+For our other collection see [Class Notes](/class-notes).
