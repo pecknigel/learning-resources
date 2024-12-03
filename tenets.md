@@ -269,9 +269,9 @@ Learn to breathe. Learn to let go. Practice compassion. Learn to laugh. Practice
 
 Thanks, Larry.
 
-## Isn’t this just a load of drivel?
+## Isn’t this just a load of old drivel?
 
-Yes! Very much so. It’s only for if it’s useful. If it engages you. If you get something from it. Otherwise, yes, it’s just a load of drivel.
+Yes! Very much so. It’s only for if it’s useful. If it engages you. If you get something from it. Otherwise, yes, it’s just a load of old drivel.
 
 Move on.
 
