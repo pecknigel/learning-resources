@@ -37,7 +37,7 @@ These are patterns that are useful in day to engineering to get the job done in 
 - State
 - Validation Quiet Return
 - Option Bag
-- Chaining
+- Chain
 - Render
 
 Planned entries are listed but not linked.
