@@ -112,3 +112,5 @@ Learning project for HTTP.
 Learning project for “drop in” JavaScript. Techniques for adding bits of JS to pages to provide functionality on otherwise static pages.
 
 Uptime monitor practice project.
+
+Strapi CMS Practice Project

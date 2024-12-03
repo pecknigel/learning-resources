@@ -229,6 +229,15 @@ docs.github.com
 [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)    
 docs.github.com
 
+## Create a Content API
+
+Upgrade your GitHub Pages website to use Strapi for managing content or simply experiment with this great system. So easy to get started creating APIs.
+
+[Strapi Quick Start Guide](https://docs.strapi.io/dev-docs/quick-start)    
+docs.strapi.io/dev-docs/quick-start
+
+Integrate it with a Node.js command line script to generate Markdown and practice with `fetch` or whatever else you can think of.
+
 ## Standards and Governance
 
 W3C: World Wide Web Consortium    
