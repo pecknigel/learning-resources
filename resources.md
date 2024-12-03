@@ -207,6 +207,9 @@ git-scm.com
 [Get Started with WebStorm](https://www.jetbrains.com/webstorm/learn/)    
 jetbrains.com/webstorm/learn
 
+[Getting started with Git](https://docs.github.com/en/get-started/getting-started-with-git)    
+docs.github.com
+
 [Pro Git](https://git-scm.com/book/en/v2)    
 git-scm.com/book/en/v2
 
