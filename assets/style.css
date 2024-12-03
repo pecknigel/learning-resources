@@ -44,14 +44,14 @@
       color: black;
     }
     .page-status.working-draft,
-    .page-status.steady-working-draft,
     .page-status.stalled-draft,
     .page-status.working-index {
       border-color: orangered;
       background: orange;
     }
     .page-status.stable,
-    .page-status.stable-index {
+    .page-status.stable-index,
+    .page-status.open-notes {
       border-color: seagreen;
       background: limegreen;
     }

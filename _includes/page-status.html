@@ -1,15 +1,11 @@
 <div class="page-status {{ include.statusLevel }}">
 {% if include.statusLevel == "working-draft" %}
 
-This is a working draft. It is live published as it is written and edited. Dec/Jan 2024.
-
-{% elsif include.statusLevel == "steady-working-draft" %}
-
-This is a working draft. It is live published as it is written and edited.
+This document is a working draft. It is live published as it is written and edited. Dec/Jan 2024.
 
 {% elsif include.statusLevel == "stalled-draft" %}
 
-This is a stalled draft. It is live published as it is written and edited, but is stalled and not generally being worked on. If you find it useful please let Nigel know to encourage its further development. It certainly needs a lot of work.
+This document is a stalled draft. It is live published as it is written and edited, but is stalled and not generally being worked on. If you find it useful please let Nigel know to encourage its further development. It certainly needs a lot of work.
 
 {% elsif include.statusLevel == "working-index" %}
 
@@ -17,11 +13,15 @@ This section of the site is being actively developed. Entries are being written 
 
 {% elsif include.statusLevel == "stable" %}
 
-This information is considered stable. Updates are   made but what is there is considered enough as it stands to do the topic justice.
+This document is considered stable. Updates are   made but what is there is considered enough as it stands to do the topic justice.
 
 {% elsif include.statusLevel == "stable-index" %}
 <!-- None are currently at this status -->
 STABLE INDEX! OMG!
+
+{% elsif include.statusLevel == "open-notes" %}
+
+This document is an open note with freehand details as availsble. It's very much a working document and not being developed in any way.
 
 {% endif %}
 </div>
