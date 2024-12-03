@@ -10,8 +10,6 @@ permalink: /patterns/hash-config
 
 # Hash Config
 
-**This is partially started after copying the template. Check back soon. Dec 2, 2024.**
-
 This is a pattern to declaratively recording config information and having it available by key with fast retrieval.
 
 Other patterns build on this.
