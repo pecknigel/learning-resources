@@ -5,7 +5,7 @@ permalink: /tenets
 heading: Engineering Tenets
 ---
 
-{% include page-status.html statusLevel="stalled-draft" %}
+{% include page-status.html statusLevel="working-draft" %}
 
 # Tenets of Software Engineering
 
