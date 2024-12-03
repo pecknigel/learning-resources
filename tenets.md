@@ -13,6 +13,12 @@ A.k.a. 101 tenets. Or at least it’s looking like getting towards that.
 
 These are tenets to guide and assist you on your way to becoming an accomplished software engineer.
 
+Use them as they’re useful to you. Scan them. Take what works for you. It’s not intended for all to apply to everyone.
+
+TMTOWTDI There’s More Than One Way To Do It.
+
+YMMV Your Mileage May Vary.
+
 ## It’s Not About How to Code
 
 Of course that’s involved, but the real skill is in learning to craft software that’s reliable, maintainable, robust and coherent.
