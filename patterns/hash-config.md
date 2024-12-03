@@ -38,18 +38,23 @@ Leverage declarative statements for updates and maintenance.
 ## Example Code
 
 ```javascript
+
+/*
+ * Function-baseed JavaScript example.
+ */
+
 const options = {
-  exStringKey: ‘Example String’,
+  exStringKey: 'Example String',
   exSwitchKey: true
 };
 
+// Provide a getter function to access the options
 function getOption(key) {
   if(options[key]) return options[key];
   throw new Error(`Unrecognised option: ${key}`);
 }
 
-// Or just use them directly
-
+// Or just use them directly...
 function doSomething() {
   if (options.exSwitchKey) {
     // Go left
@@ -64,6 +69,10 @@ function doSomething() {
 
 ```typescript
 
+/*
+ * Class-based TypeScript example.
+ */
+
 type Options = {
   exDataKey: string;
   exSwitchKey: boolean;
@@ -74,17 +83,52 @@ class Processing {
     exDataKey: 'Example String',
     exSwitchKey: true
   };
-  
+
+  // Provide a get method to access the options
   private static getOption(key: any): any {
-    if(this.options[key]) {
-      return this.options[key];
-    }
+    if(this.options[key]) return this.options[key];
     throw new Error(`Unrecognised option: ${key}`);
+  }
+
+  // Or just use them directly...
+  private doSomething() {
+    if (this.options.exSwitchKey) {
+      // Go left
+    } else {
+      // Go right
+    }
+    return `Processed ${this.options.exDataKey}`;
   }
 } 
 ```
 
 ## Example Implementation
+
+## Attribution
+
+If you make use of this pattern, please consider adding an attribution to your code or elsewhere.
+
+Here are some suggestions...
+
+```javascript
+// https://docs.prescriptionfree.academy/patterns/hash-config
+```
+
+```javascript
+// Based on the "Hash Config" Pattern:
+// https://docs.prescriptionfree.academy/patterns/hash-config
+```
+
+```javascript
+/*
+ * ########################################################
+ *   An implementation of the "Hash Config" pattern from
+ * the Prescription Free Academy's Software Pattern Library
+ * ########################################################
+   https://docs.prescriptionfree.academy/patterns/hash-config
+ * ########################################################
+ */
+```
 
 ## References
 

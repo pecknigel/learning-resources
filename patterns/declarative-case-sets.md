@@ -87,6 +87,32 @@ class CaseProcessing {
 
 ## Example Implementation
 
+## Attribution
+
+If you make use of this pattern, please consider adding an attribution to your code or elsewhere.
+
+Here are some suggestions...
+
+```javascript
+// https://docs.prescriptionfree.academy/patterns/declarative-case-sets
+```
+
+```javascript
+// Based on the "Declarative Case Sets" Pattern:
+// https://docs.prescriptionfree.academy/patterns/declarative-case-sets
+```
+
+```javascript
+/*
+ * ###############################################################
+ *   An implementation of the "Declarative Case Sets" pattern from
+ * the Prescription Free Academy's Software Pattern Library
+ * ###############################################################
+   https://docs.prescriptionfree.academy/patterns/declarative-case-sets
+ * ###############################################################
+ */
+```
+
 ## References
 
 - [Hash table](https://en.m.wikipedia.org/wiki/Hash_table)
