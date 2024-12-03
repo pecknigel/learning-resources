@@ -6,7 +6,7 @@ permalink: /patterns/hash-config
 
 {% include_relative _back.md %}
 
-{% include page-status.html statusLevel='rough-draft' %}
+{% include page-status.html statusLevel='working-draft' %}
 
 # Hash Config
 
@@ -39,42 +39,49 @@ Leverage declarative statements for updates and maintenance.
 
 ## Example Code
 
-**Needs checking and likely wrong in places.**
-
-```typescript
-type CaseKey = 'example' | 'example2' | '...';
-
-type CaseSet<CaseOptions> = {
-  [CaseKey]: CaseOptions
+```javascript
+const options = {
+  exStringKey: ‘Example String’,
+  exSwitchKey: true
 };
 
-type CaseOptions = {
+function getOption(key) {
+  if(options[key]) return options[key];
+  throw new Error(`Unrecognised option: ${key}`);
+}
+
+// Or just use them directly
+
+function doSomething() {
+  if (options.exSwitchKey) {
+    // Go left
+  } else {
+    // Go right
+  }
+  return `Processed ${options.exStringKey}`;
+}
+```
+
+**TS code needs checking and improving, just a rough start.**
+
+```typescript
+
+type Options = {
   exDataKey: string;
   exSwitchKey: boolean;
 };
 
-class CaseProcessing {
-  private static caseSets: CaseSet<CaseOptions> = {
-    example: {
-      exDataKey: 'Example String',
-      exSwitchKey: true
-    },
-    example2: {
-      exDataKey: 'Another Example String',
-      exSwitchKey: false
-    }
+class Processing {
+  private options: Options = {
+    exDataKey: 'Example String',
+    exSwitchKey: true
   };
   
-  public static processCase(key: CaseKey, data: any): any {
-    const caseOptions = this.getCaseOptions(key);
-    // TODO: Process data based on caseOptions
-  }
-  
-  private static getCaseOptions(key: CaseKey): CaseData {
-    if(this.caseSets[key]) {
-      return this.caseSets[key];
+  private static getOption(key: any): any {
+    if(this.options[key]) {
+      return this.options[key];
     }
-    throw new Error(`Unrecognised CaseKey: ${key}`);
+    throw new Error(`Unrecognised option: ${key}`);
   }
 } 
 ```
@@ -89,11 +96,7 @@ class CaseProcessing {
 
 Examples found in established open source projects.
 
-From Next.js. See the `packages` object and the following for loop. Lines 29 to 31. It’s a partial implementation of the pattern described here.    
-[next.js/scripts/unpack-next.cjs at c90e03d9d35db87d286d13b22e8268f42a5259eb · vercel/next.js · GitHub](https://github.com/vercel/next.js/blob/c90e03d9d35db87d286d13b22e8268f42a5259eb/scripts/unpack-next.cjs)
-
-This highly complex example from Angular is littered with this pattern throughout the processing that is being done of command line compilation and configuration options.    
-[angular/packages/compiler-cli/src/perform_compile.ts at 0675a243f4c397acdc0b0f0251c5ef09100e05d2 · angular/angular · GitHub](https://github.com/angular/angular/blob/0675a243f4c397acdc0b0f0251c5ef09100e05d2/packages/compiler-cli/src/perform_compile.ts)
+-
 
 Links are to specific points in time in case code is changed later. Please share other examples where you find them so they can be added here.
 
@@ -102,20 +105,19 @@ Links are to specific points in time in case code is changed later. Please share
 These are used for classification of the software pattern library as it grows.
 
 - Declarative Config
-- Option Sets
 - Data Structures
 - DRY
 - Decision Making
 
 ## Comments
 
-Another data structure could be used for config lookup equally effectively. There are many variations on this kind of approach. Other pattern entries are being worked on to demonstrate that.
+Another data structure could be used for option lookup equally effectively.
 
-The basic idea is to separate processing details from processing logic where the process needs to be done in different yet similar ways, so it can be abstracted and result in less code that shows the logic involved rather than details of the cases.
+This enables centralising options so they are decoupled from the logic and can be readily changed and controlled from a centralised location.
 
 ## Associated Patterns
 
-- Hash Config
+- [Declarative Case Sets](/patterns/declarative-case-sets)
 - Declarative Set Processing
 - Config Based Processing
 

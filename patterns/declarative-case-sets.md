@@ -50,13 +50,13 @@ Don’t use this if the cases are not aligned and highly cohesive. Unless there 
 ```typescript
 type CaseKey = 'example' | 'example2' | '...';
 
-type CaseSet<CaseOptions> = {
-  [CaseKey]: CaseOptions
-};
-
 type CaseOptions = {
   exDataKey: string;
   exSwitchKey: boolean;
+};
+
+type CaseSet<CaseOptions> = {
+  [CaseKey]: CaseOptions
 };
 
 class CaseProcessing {

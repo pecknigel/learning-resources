@@ -17,6 +17,13 @@ Our Educator in Chief (Nigel) serves as head librarian and maintains this site b
 
 ---
 
+**Latest Entries**
+
+- [Engineering Patterns: Declarative Case Sets](/patterns/declarative-case-sets)
+- [Engineering Patterns: Hash Config](/patterns/hash-config)
+
+---
+
 # Learning Initiatives
 
 This page features all of the available learning initiatives from [Prescription Free Academy](https://prescriptionfree.academy/).
