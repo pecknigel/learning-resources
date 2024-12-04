@@ -50,8 +50,9 @@ These could also be called techniques but sit well as entry-level patterns. They
 - Class
 - Negation
 - Chained Logic
-- Fall Through Case/Implied Case
-- Validation Quiet Return
+- Fall Through Case/Implied Case (return/condition)
+- Validation Return
+- Quiet Return
 - Three-Step Routine (Initialise, Process, Finish)
 - Switch Case
 - Map
