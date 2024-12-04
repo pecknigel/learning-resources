@@ -23,6 +23,10 @@ Learning notes for particular topics.
 
 See [Open Tasks](/open-tasks) for planned class notes. Help out by working with Nigel to create material and research them. Learn along the way while benefiting from extra class time.
 
+## Online Resources
+
+Looking for learning materials? Check out [Courses and Resources](/resources).
+
 ---
 
 ## See Also
