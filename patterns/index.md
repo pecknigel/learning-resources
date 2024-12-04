@@ -59,6 +59,7 @@ These could also be called techniques but sit well as entry-level patterns. They
 - Reduce
 - JSON Storage
 - .env
+- .inc
 - Verified Get
 - Verified Set
 
