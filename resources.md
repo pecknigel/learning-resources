@@ -86,14 +86,14 @@ developer.mozilla.org
 [How Browsers Work](https://web.dev/articles/howbrowserswork)    
 web.dev
 
-## CSS
+## CSS Deep Dives
+
+[Cascade, Specificity, and Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)    
+developer.mozilla.org
 
 > ”While working through this lesson may seem less relevant immediately and a little more academic than some other parts of the course, **an understanding of these concepts will save you from a lot of pain later on!** We encourage you to work through this section carefully and check that you understand the concepts before moving on.”
 > 
 > ~ Well said, MDN! The same could be said of a lot of the learning that you can find from this page, although the specific quote is from the link below.
-
-[Cascade, Specificity, and Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)    
-developer.mozilla.org
 
 [CSS Layout Guides](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/CSS_Layout)    
 developer.mozilla.org
