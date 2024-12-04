@@ -47,7 +47,7 @@ docs.prescriptionfree.academy/patterns
 
 ## Getting Started
 
-Just starting out? Or ready to refresh the basics. Working through these will give you a solid grounding in the essentials.
+Just starting out? Or ready to refresh the basics? Working through these will give you a solid grounding in the essentials.
 
 [Getting Started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)    
 developer.mozilla.org
