@@ -86,6 +86,9 @@ developer.mozilla.org
 [How Browsers Work](https://web.dev/articles/howbrowserswork)    
 web.dev
 
+[Differences between Node.js and the Browser](https://nodejs.org/en/learn/getting-started/differences-between-nodejs-and-the-browser)    
+nodejs.org
+
 [The Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)    
 developer.mozilla.org
 
@@ -269,9 +272,10 @@ nodejs.org
 [Node.js — How to install Node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)    
 nodejs.org
 
+[How To Build Command Line Applications with Node.js](https://www.digitalocean.com/community/tutorials/how-to-build-command-line-applications-with-node-js)    
+digitalocean.com
 
-
-Extras: [Node.js Documentation](https://nodejs.org/docs/latest/api/)
+Extras: [Intro to npm Package Manager](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) &#8226; [Node.js Documentation](https://nodejs.org/docs/latest/api/)
 
 ## Standards and Governance
 
