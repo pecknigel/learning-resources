@@ -38,6 +38,8 @@ The idea is to have a collection of building blocks for software that you can le
 
 The pattern library enables you to learn and use them directly rather than coming across them by chance or figuring them out due to need.
 
+These are not rules. They’re ideas. To build on, work with, learn from, combine and to make your own.
+
 [Software Engineering Patterns](/patterns)    
 docs.prescriptionfree.academy/patterns
 
