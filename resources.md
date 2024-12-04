@@ -233,7 +233,13 @@ Extras: [Embed HTML in Markdown](https://stackoverflow.com/questions/14951321/ho
 
 ## Create a Content API
 
-Upgrade your GitHub Pages website to use Strapi for managing content or simply experiment with this great system. So easy to get started creating APIs.
+Interested in learning to create APIs? Strapi is a great system for getting in to that. You can do everything with their admin interface (no coding) or customise everything with code to get more advanced.
+
+This library site itself integrates Strapi with GitHub Pages to manage the Markdown for the content for the class notes and pattern collections.
+
+It’s easy to get started. You can have an API going in less than an hour and build from there. Use it to create a back-end API for your front-end to use.
+
+Integrate it with a Node.js command line script to generate HTML or Markdown for your site, practice with `fetch` to query the API, or whatever else you can think of.
 
 [Strapi Quick Start Guide](https://docs.strapi.io/dev-docs/quick-start)    
 docs.strapi.io
@@ -243,8 +249,6 @@ docs.strapi.io
 
 [Strapi Developer Docs](https://docs.strapi.io/dev-docs/intro)    
 docs.strapi.io
-
-Integrate it with a Node.js command line script to generate HTML or Markdown for your site, practice with `fetch` to query the API, or whatever else you can think of.
 
 ## Standards and Governance
 
