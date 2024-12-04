@@ -16,7 +16,9 @@ function destroyBelt(caller, err) {
       .getElementsByTagName('footer');
     for (let i = 0; i < footers.length; i++) {
       footers[i].className = footers[i]
-        .className.replace('utility-belt-active','');
+        .className.replace(
+          'utility-belt-active',''
+        );
     }
   } catch (e) {}
   // Clean up event listeners
