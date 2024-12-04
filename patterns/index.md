@@ -2,7 +2,6 @@
 layout: default
 title: Software Engineering Patterns
 permalink: /patterns
-heading: Software Engineering Patterns
 ---
 
 {% include page-status.html statusLevel="working-index" %}

@@ -2,7 +2,6 @@
 layout: default
 title: Educator Portal
 permalink: /for-educators
-heading: Educator Portal
 ---
 
 {% include page-status.html statusLevel="working-draft" %}

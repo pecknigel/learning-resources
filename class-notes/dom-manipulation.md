@@ -2,7 +2,6 @@
 layout: default
 title: DOM Manipulation
 permalink: /class-notes/dom-manipulation
-heading: DOM Manipulation
 redirect_from:
   - /dom-manipulation
 ---

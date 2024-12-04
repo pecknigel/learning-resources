@@ -2,7 +2,6 @@
 layout: default
 title: Open Tasks
 permalink: /open-tasks
-heading: Open Tasks
 ---
 
 {% include page-status.html statusLevel="working-draft" %}

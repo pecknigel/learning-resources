@@ -2,7 +2,6 @@
 layout: default
 title: Cognate Learning
 permalink: /cognate-learning
-heading: Cognate Learning
 ---
 
 {% include page-status.html statusLevel="working-draft" %}

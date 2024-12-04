@@ -2,7 +2,6 @@
 layout: default
 title: Engineering Tenets
 permalink: /tenets
-heading: Engineering Tenets
 ---
 
 {% include page-status.html statusLevel="working-draft" %}
