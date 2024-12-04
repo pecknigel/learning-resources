@@ -18,6 +18,10 @@ Learning notes for particular topics.
  
 - [Semantic HTML](/class-notes/semantic-html)
 
+## Developer Tools
+
+- [Git](/class-notes/git)
+
 ## Online Resources
 
 Looking for learning materials? Check out [Courses and Resources](/resources).

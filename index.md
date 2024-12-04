@@ -20,6 +20,7 @@ Our Educator in Chief (Nigel) serves as head librarian and maintains this site b
 <aside markdown="1">
 # Latest Arrivals
 
+- [Class Notes: Git](/class-notes/git)
 - [Class Notes: Semantic HTML](/class-notes/semantic-html)
 - [Engineering Patterns: Hash Config](/patterns/hash-config)
 - [Engineering Patterns: Declarative Case Sets](/patterns/declarative-case-sets)
