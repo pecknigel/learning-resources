@@ -6,7 +6,7 @@ permalink: /class-notes/semantic-html
 
 {% include_relative _back.md %}
 
-{% include page-status.html statusLevel="working-draft" %}
+{% include page-status.html statusLevel="stable" %}
 
 # Semantic HTML
 
