@@ -306,11 +306,11 @@ Add any library from Node’s massive and open package library - npm - and use i
 [Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)    
 nodejs.org
 
-[How to Install Node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)    
-nodejs.org
-
 [How To Build Command Line Applications with Node.js](https://www.digitalocean.com/community/tutorials/how-to-build-command-line-applications-with-node-js)    
 digitalocean.com
+
+[Mastering API Requests: Using Fetch with Strapi's Content API](https://strapi.io/blog/mastering-api-requests-using-fetch-with-strapi-content-api).   
+strapi.io
 
 Extras: [Introduction to npm](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) &#8226; [Node.js Documentation](https://nodejs.org/docs/latest/api/)
 

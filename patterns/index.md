@@ -71,6 +71,7 @@ These could also be called techniques but sit well as entry-level patterns. They
 - JSON Storage
 - Web Storage
 - .env
+- .inc
 - Verified Get
 - Verified Set
 - Try-Throw-Catch
