@@ -41,7 +41,7 @@ You may have heard of a “pull request” or PR for contributing code to projec
 [Pull Request Tutorial Exercise](https://docs.github.com/en/get-started/start-your-journey/hello-world)    
 docs.github.com
 
-Finally there are some great links to:
+And to mention a few more gems:
 
 [Set Up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)    
 docs.github.com

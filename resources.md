@@ -261,6 +261,9 @@ jetbrains.com/webstorm/learn
 [Getting Started with Git](https://docs.github.com/en/get-started/getting-started-with-git)    
 docs.github.com
 
+[Using Git](https://docs.github.com/en/get-started/using-git)    
+docs.github.com
+
 [Pro Git](https://git-scm.com/book/en/v2)    
 git-scm.com/book/en/v2
 
