@@ -207,7 +207,9 @@ try {
       try { menuToc.remove() } catch (e) {}
       menuToc = generateContentMenu(
         'menuToc',
-        document.querySelectorAll('section h1, section h2'),
+        document.querySelectorAll(
+          'section h1, section h2'
+        ),
         hideToc
       );
       menuToc.classList.add('shown');
