@@ -2,9 +2,8 @@
 
 import dotenv from 'dotenv';
 
-dotenv.config();
-
 (async () => {
+  dotenv.config();
   const [error, data] = await fetchData(
     process.env.LIBRARY_CMS_URL,
     process.env.LIBRARY_CMS_API_KEY
@@ -26,15 +25,11 @@ async function fetchData(url, apiKey) {
   });
   if (!response.ok) {
     const errorData = await response.json();
-    const errorMessage = (errorData.error.status && errorData.error.message)
-      ? `${errorData.error.status} - ${errorData.error.message}`
-      : '';
-    if (errorMessage) {
-      return [errorMessage, undefined];
-    } else {
+    if (!(errorData.error.status && errorData.error.message)) {
       console.error("Unrecognised error", errorData);
       throw new Error("Unrecognised error");
     }
+    return [`${errorData.error.status} - ${errorData.error.message}`, undefined];
   }
   return [undefined, await response.json()];
 }
