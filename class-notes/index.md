@@ -2,7 +2,6 @@
 layout: default
 title: Class Notes
 permalink: /class-notes
-heading: Class Notes
 ---
 
 {% include page-status.html statusLevel="working-index" %}
