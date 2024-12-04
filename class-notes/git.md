@@ -27,43 +27,30 @@ skills.github.com
 
 Here are some highlights.
 
-[About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
+[About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)    
+docs.github.com
 
-as a place to get started, or go straight to:
+[Getting Started with Git](https://docs.github.com/en/get-started/getting-started-with-git)    
+docs.github.com
 
-[Getting Started with Git](https://docs.github.com/en/get-started/getting-started-with-git)
+[Using Git](https://docs.github.com/en/get-started/using-git)    
+docs.github.com
 
-or:
+You may have heard of a “pull request” or PR for contributing code to projects. There’s a guided exercise to help learn what that’s all about. It’s a GitHub thing rather than Git itself.
 
-[Using Git](https://docs.github.com/en/get-started/using-git)
-
-You may have heard of a “pull request” or PR for contributing code to projects.
-
-There’s a:
-
-[Pull Request Tutorial Exercise](https://docs.github.com/en/get-started/start-your-journey/hello-world)
-
-to help learn what that’s all about. It’s a GitHub thing rather than Git itself.
-
-Perhaps you need to:
-
-[Set Up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
-
-or:
-
-[Download Files from GitHub](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github)
+[Pull Request Tutorial Exercise](https://docs.github.com/en/get-started/start-your-journey/hello-world)    
+docs.github.com
 
 Finally there are some great links to:
 
-[Git and GitHub Learning Resources](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
+[Set Up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)    
+docs.github.com
 
-Or find out all about the features for:
+[Download Files from GitHub](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github)    
+docs.github.com
 
-[Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)
+[Git and GitHub Learning Resources](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)    
+docs.github.com
 
-
-
-
-
-
-
+[Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)    
+docs.github.com
