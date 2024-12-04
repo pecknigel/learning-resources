@@ -248,8 +248,6 @@ This library site itself integrates Strapi with GitHub Pages to manage the Markd
 
 It’s easy to get started. You can have an API going in less than an hour and build from there. Use it to create a back-end API for your front-end to use.
 
-Integrate it with a Node.js command line script to generate HTML or Markdown for your site, practice with `fetch` to query the API, or whatever else you can think of.
-
 [Strapi Quick Start Guide](https://docs.strapi.io/dev-docs/quick-start)    
 docs.strapi.io
 
@@ -258,6 +256,8 @@ docs.strapi.io
 
 [Strapi Developer Docs](https://docs.strapi.io/dev-docs/intro)    
 docs.strapi.io
+
+Integrate it with a Node.js command line script to generate HTML or Markdown for your site, practice with `fetch` to query the API, or whatever else you can think of.
 
 ## Create a Node.js Command Line Script
 
