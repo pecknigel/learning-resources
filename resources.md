@@ -45,6 +45,8 @@ docs.prescriptionfree.academy/patterns
 
 ## Getting Started
 
+Just starting out? Or ready to refresh the basics. Working through these will give you a solid grounding in the essentials.
+
 [Getting Started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)    
 developer.mozilla.org
 
@@ -76,6 +78,8 @@ developer.mozilla.org
 
 ## Guides and Tutorials
 
+There’s a lot of information here. We start with a full index of all web technology content from MDN. The next two are key selections from that. Finally there are guides for learning Node.js, TypeScript and GitHub.
+
 [Complete Index of MDN Covering All Front-End] Web Technology for Developers    
 [MDN: Web Technology for Developers](https://developer.mozilla.org/en-US/docs/Web)
 
@@ -98,6 +102,8 @@ Learn all about this important platform.
 [skills.github.com](https://skills.github.com/)
 
 ## Deep Dives
+
+Ready to learn all the details? To gain some deeper understandings? Here’s a set of deep dives in to some of the essential areas of web development that it can help to know well.
 
 [Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)    
 developer.mozilla.org
