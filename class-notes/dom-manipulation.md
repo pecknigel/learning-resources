@@ -11,6 +11,8 @@ redirect_from:
 
 {% include page-status.html statusLevel="stable" %}
 
+You’re browsing our [Class Notes](/class-notes) collection. It features summaries of important topics for learning web development and software engineering along with quality links to learn more.
+
 # DOM Manipulation
 
 Topic list.

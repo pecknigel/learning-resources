@@ -8,6 +8,8 @@ permalink: /class-notes/semantic-html
 
 {% include page-status.html statusLevel="stable" %}
 
+You’re browsing our [Class Notes](/class-notes) collection. It features summaries of important topics for learning web development and software engineering along with quality links to learn more.
+
 # Semantic HTML
 
 This is an important topic. Getting the [semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) of your HTML correct has many benefits. It means your HTML will leverage the way that the browser is designed to work and that when software attempts to understand your HTML it has a much better chance of doing so.

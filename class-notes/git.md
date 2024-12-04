@@ -8,6 +8,8 @@ permalink: /class-notes/git
 
 {% include page-status.html statusLevel="working-draft" %}
 
+You’re browsing our [Class Notes](/class-notes) collection. It features summaries of important topics for learning web development and software engineering along with quality links to learn more.
+
 # Git
 
 Git is an essential tool for any serious web developer, and useful for anyone working with code or even files in general. It’s a distributed [version control system](https://en.m.wikipedia.org/wiki/Version_control). It enables you to collaborate with others developing software by tracking changes and providing facilities to resolve conflicts.
