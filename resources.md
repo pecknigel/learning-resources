@@ -266,16 +266,16 @@ Like file access, network access, running other programs, launching software. Th
 
 Add any library from Node’s massive and open package library - npm - and use it from the command line to do quick tasks. Write complex scripts or even create full applications.
 
-[Node.js — Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)    
+[Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)    
 nodejs.org
 
-[Node.js — How to install Node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)    
+[How to install Node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)    
 nodejs.org
 
 [How To Build Command Line Applications with Node.js](https://www.digitalocean.com/community/tutorials/how-to-build-command-line-applications-with-node-js)    
 digitalocean.com
 
-Extras: [Intro to npm Package Manager](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) &#8226; [Node.js Documentation](https://nodejs.org/docs/latest/api/)
+Extras: [Introduction to npm](https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager) &#8226; [Node.js Documentation](https://nodejs.org/docs/latest/api/)
 
 ## Standards and Governance
 
