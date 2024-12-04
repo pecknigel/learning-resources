@@ -269,7 +269,7 @@ Add any library from Node’s massive and open package library - npm - and use i
 [Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)    
 nodejs.org
 
-[How to install Node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)    
+[How to Install Node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)    
 nodejs.org
 
 [How To Build Command Line Applications with Node.js](https://www.digitalocean.com/community/tutorials/how-to-build-command-line-applications-with-node-js)    
