@@ -24,14 +24,17 @@ async function fetchData(url, apiKey) {
       Authorization: `Bearer ${apiKey}`,
     },
   });
-  if (response.ok) {
-    return [undefined, await response.json()];
+  if (!response.ok) {
+    const errorData = await response.json();
+    const errorMessage = (errorData.error.status && errorData.error.message)
+      ? `${errorData.error.status} - ${errorData.error.message}`
+      : '';
+    if (errorMessage) {
+      return [errorMessage, undefined];
+    } else {
+      console.error("Unrecognised error", errorData);
+      throw new Error("Unrecognised error");
+    }
   }
-  const error = await response.json();
-  const errorMessage = (error.error.status && error.error.message)
-    ? `${error.error.status} - ${error.error.message}`
-    : '';
-  if (errorMessage) return [errorMessage, undefined];
-  console.error("Unrecognised error", error);
-  throw new Error("Unrecognised error");
+  return [undefined, await response.json()];
 }
