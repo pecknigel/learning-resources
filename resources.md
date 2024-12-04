@@ -256,7 +256,7 @@ docs.strapi.io
 [Strapi Developer Docs](https://docs.strapi.io/dev-docs/intro)    
 docs.strapi.io
 
-## Create a Command Line Node.js Script
+## Create a Command Line Script
 
 Did you know that you can use Node.js to run JavaScript from the command line or terminal on your computer?
 
