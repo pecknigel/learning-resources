@@ -11,7 +11,7 @@ heading: Online Resources
 
 This is a collection of online courses and resources that are generally recommended or mentioned in sessions. Use your own judgement with what works for you and discuss it with Nigel.
 
-Just starting? Towards the end you’ll find three suggested projects that you can work with to gain some experience with what web development is all about. Create a website, make an API and write a command line script.
+Just starting out? Towards the end you’ll find three suggested projects that you can work with to gain some experience with what web development is all about. Create a website, make an API and write a command line script.
 
 ## A Note About MDN
 
