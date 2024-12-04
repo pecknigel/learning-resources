@@ -15,8 +15,6 @@ You’re browsing our [Class Notes](/class-notes) collection. It features summar
 
 # DOM Manipulation
 
-Topic list.
-
 - Querying
 - Creating
 - Appending
