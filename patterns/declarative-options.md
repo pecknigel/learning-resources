@@ -8,6 +8,8 @@ permalink: /patterns/declarative-options
 
 {% include page-status.html statusLevel='working-draft' %}
 
+You’re browsing our [Software Pattern Library](/patterns) collection. It features useful patterns for writing software, to help with learning web development and software engineering.
+
 # Declarative Sets
 
 This is a pattern to provide a single processing interface able to complete processing based on a set of options.

@@ -8,6 +8,8 @@ permalink: /patterns/hash-config
 
 {% include page-status.html statusLevel='working-draft' %}
 
+You’re browsing our [Software Pattern Library](/patterns) collection. It features useful patterns for writing software, to help with learning web development and software engineering.
+
 # Hash Config
 
 This is a pattern for declaratively recording config information and having it available by key with fast retrieval.
