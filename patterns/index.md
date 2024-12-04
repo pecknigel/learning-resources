@@ -9,7 +9,7 @@ heading: Software Engineering Patterns
 
 # Software Engineering Patterns
 
-We’re really excited about this resource. It’s the main focus of our content development at the moment.
+We’re excited about the possibilities for this resource. It’s the main focus of our content development at the moment.
 
 The idea is to have a collection of building blocks for software that you can learn and use beyond the basic constructs. It’s how programming works anyway, but mostly we pick them up as we go along.
 
