@@ -10,7 +10,7 @@ permalink: /class-notes/git
 
 # Git
 
-Git is an essential tool for any serious web developer, and useful for anyone working with code or even files in general. It’s a [version control system](https://en.m.wikipedia.org/wiki/Version_control). It enables you to collaborate with others developing software by tracking changes and providing facilities to resolve conflicts.
+Git is an essential tool for any serious web developer, and useful for anyone working with code or even files in general. It’s a distributed [version control system](https://en.m.wikipedia.org/wiki/Version_control). It enables you to collaborate with others developing software by tracking changes and providing facilities to resolve conflicts.
 
 It also works well to use alone. Enabling you to write code with confidence, knowing that you can easily switch back to the last point that you committed your changes to the repository.
 
@@ -18,9 +18,9 @@ Git is commonly used with what’s termed a remote, which enables everyone to ac
 
 You can set up your own remote server, but it’s common to use a platform. Some popular ones are GitHub, BitBucket and GitLab. As well as providing a Git remote server, these platforms provide a whole host of useful features that work with or around your Git repository.
 
-## Where to Study Git
+Where to find out more? Let’s get in to it.
 
-### GitHub Skills
+## GitHub Skills
 
 The GitHub Skills site features a massive range of quality resources to help you with both using GitHub itself and with all of the features that GitHub itself has.
 
@@ -57,12 +57,40 @@ docs.github.com
 [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)    
 docs.github.com
 
-### Git Community
+## The Git Book: Pro Git
 
 Once you’ve got the basics, or just because you like diving in, pick up and read at least the first three chapters of Pro Git. It’s from the official Git community and is excellent.
 
 [Pro Git](https://git-scm.com/book/en/v2)    
 git-scm.com/book/en/v2
 
+## Git Community
+
+Git has a shining example of an open source software community. Not only is it excellent software, led in its development by the same chap who is responsible for Linux - Linus Torvalds, but they provide top of the line support to the community with some incredible resources.
+
 [Git Community](https://git-scm.com/)    
 git-scm.com
+
+[Linus Torvalds - Wikipedia](https://wikipedia.org/wiki/Linus_Torvalds)    
+wikipedia.org
+
+Here are those resources in more detail.
+
+[Documentation and Videos](https://git-scm.com/doc)    
+git-scm.com/doc
+
+[GUI Clients](https://git-scm.com/downloads/guis)    
+git-scm.com/downloads/guis
+
+[Git for Windows](https://git-scm.com/downloads/win)    
+git-scm.com/downloads/win
+
+Finally there are ways that you can get involved in the Git community yourself, either to learn or to contribute yourself.
+
+[Get Involved](https://git-scm.com/community)    
+git-scm.com/community
+
+For an added bonus, find the code for Git itself on GitHub:
+
+[GitHub - git/git: Git Source Code Mirror](https://github.com/git/git)    
+github.com/git/git
