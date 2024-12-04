@@ -17,10 +17,13 @@ Our Educator in Chief (Nigel) serves as head librarian and maintains this site b
 
 ---
 
-**Latest Entries**
+<aside markdown="1">
+# Latest Arrivals
 
-- [Engineering Patterns: Declarative Case Sets](/patterns/declarative-case-sets)
+- [Class Notes: Semantic HTML](/class-notes/semantic-html)
 - [Engineering Patterns: Hash Config](/patterns/hash-config)
+- [Engineering Patterns: Declarative Case Sets](/patterns/declarative-case-sets)
+</aside>
 
 ---
 

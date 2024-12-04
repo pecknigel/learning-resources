@@ -7,11 +7,13 @@ redirect_from:
   - /dom-manipulation
 ---
 
-[<< Back to Class Notes](/class-notes)
+{% include_relative _back.md %}
 
 {% include page-status.html statusLevel="stable" %}
 
 # DOM Manipulation
+
+Topic list.
 
 - Querying
 - Creating
@@ -28,7 +30,7 @@ redirect_from:
 - Web Components
 - Frameworks
 
-## References
+## Where to Study This
 
 Introduction to the DOM    
 [Introduction to the DOM - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)

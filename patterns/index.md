@@ -32,36 +32,40 @@ These are patterns that are useful in day to engineering to get the job done in 
 - Declarative Set Processing
 - Config Based Processing
 - Drop-In Utility
-- App Object
-- Include
+- App
 - State
-- Validation Quiet Return
 - Option Bag
 - Chain
 - Render
+- Embed
+- Include
 
 Planned entries are listed but not linked.
 
 ## Entry-Level Patterns
 
-These could also be called techniques but sit well as entry-level patterns. They’re the next steps for aspiring engineers after learning the basics.
+These could also be called techniques but sit well as entry-level patterns. They’re the next steps for aspiring engineers after learning the basics. Along with building software of course, and these are building blocks for software.
 
-- Varied Functions
-- Single Object Params
+- Varied Function
+- Single Object Param
 - Class
 - Negation
 - Chained Logic
-- Fall Through
-- Three-Step Routines (Initialise, Process, Finish)
+- Fall Through Case/Implied Case (return/condition)
+- Validation Return
+- Quiet Return
+- Three-Step Routine (Initialise, Process, Finish)
 - Switch Case
 - Map
 - Filter
 - Reduce
 - JSON Storage
+- Web Storage
 - .env
 - .inc
 - Verified Get
 - Verified Set
+- Try-Throw-Catch
 
 Planned entries are listed but not linked.
 
@@ -72,6 +76,8 @@ These are listed last because they are generally well covered elsewhere. They’
 - Factory
 - Singleton
 - Event Bus
+- Dependency Injection
+- Reactive Programming
 
 Planned entries are listed but not linked.
 
