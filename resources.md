@@ -264,7 +264,7 @@ You wouldn’t have access to any browser APIs, but Node.js comes with its whole
 
 Like file access, network access, running other programs, launching software. There’s all kinds of useful stuff that you can do.
 
-Add any library from Node’s massive and open package library - npm - and use it from the command line to do quick tasks, write complex scripts or even create full applications.
+Add any library from Node’s massive and open package library - npm - and use it from the command line to do quick tasks. Write complex scripts or even create full applications.
 
 [Node.js — Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)    
 nodejs.org
