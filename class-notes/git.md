@@ -8,7 +8,7 @@ permalink: /class-notes/git
 
 You’re reading our [Class Notes](/class-notes) collection. It features summaries of important topics along with quality links to learn more.
 
-{% include page-status.html statusLevel="working-draft" %}
+{% include page-status.html statusLevel="stable" %}
 
 # Git
 
