@@ -229,13 +229,9 @@ docs.github.com
 [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)    
 docs.github.com
 
-### Useful Extras
-
-How to display HTML content in github README.md?    
-[markdown - How to display HTML content in github README.md? - Stack Overflow](https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md)
-
-Embedding Markdown in Jekyll HTML    
-[Embedding Markdown in Jekyll HTML - Stack Overflow](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html#23384161)
+Extras:
+- [Embed HTML in Markdown](https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md)
+- [Embed Markdown in Jekyll HTML](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html#23384161)
 
 ## Create a Content API
 
