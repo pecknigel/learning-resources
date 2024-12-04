@@ -18,7 +18,8 @@ In other cases, it just makes sense. If you use an unordered list for what you w
 
 It’s all semantics. The semantics of a `<dialog>` are that it identifies what the browser should handle as a modal or non-modal dialog box.
 
-Read more at MDN: [&lt;dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
+Read more at MDN:    
+[&lt;dialog>: The Dialog Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
 
 But when we talk about semantics specifically in HTML, rather than in a more general sense, we usually mean elements that are provided for little other than their semantics. Always along with grouping whatever is inside them - since it’s always a tree.
 
@@ -32,7 +33,8 @@ Read all about them below. Maybe starting with headings. Did you know that:
 > 
 > Each section can have its own heading hierarchy. Therefore, even a nested section can have an <h1>.
 
-Reference: [html - HTML5: Should I use h2’s or h3’s for content inside of an aside element? - Stack Overflow](https://stackoverflow.com/a/53937288)
+Reference:    
+[html - HTML5: Should I use h2’s or h3’s for content inside of an aside element? - Stack Overflow](https://stackoverflow.com/a/53937288)
 
 When Stack Overflow shines, it really sparkles :) Much appreciation to “Luke” for that awesome reference dug out from the long MDN page.
 
