@@ -19,11 +19,11 @@ The [MDN Web Docs](https://developer.mozilla.org/) site features comprehensive c
 
 ## Class Notes
 
-Our very own “class notes” collection features summaries of important topics along with carefully chosen links to help you to study.
+Our very own “class notes” collection features summaries of important topics along with carefully chosen links to help you study.
 
 They’re generally written in preparation for sessions with students and then shared here.
 
-There’s not a great deal of them yet but there’s enough to be useful and a lot more on the way.
+There’s not a great deal of them yet but there are enough to be useful and a lot more on the way.
 
 [Class Notes](/class-notes)    
 docs.prescriptionfree.academy/class-notes
