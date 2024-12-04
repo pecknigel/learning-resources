@@ -18,7 +18,7 @@ Git is commonly used with what’s termed a remote, which enables everyone to ac
 
 You can set up your own remote server, but it’s common to use a platform. Some popular ones are GitHub, BitBucket and GitLab. As well as providing a Git remote server, these platforms provide a whole host of useful features that work with or around your Git repository.
 
-## Where to Study This’ll 
+## Where to Study This
 
 The GitHub Skills site features a massive range of quality resources to help you with both using GitHub itself and with all of the features that GitHub itself has.
 
