@@ -9,7 +9,11 @@ heading: Online Resources
 
 # Courses and Resources
 
-This is a list of online resources that are generally recommended or mentioned in sessions. Use your own judgement with what works for you and discuss it with Nigel.
+This is a list of online courses and resources that are generally recommended or mentioned in sessions. Use your own judgement with what works for you and discuss it with Nigel.
+
+Just starting? Towards the end you’ll find three suggested projects that you can work with to gain some experience with what web development is all about. Create a website, make an API and write a command line script.
+
+## A Note About MDN
 
 The [MDN Web Docs](https://developer.mozilla.org/) site features comprehensive coverage of all front-end web technology. HTML, CSS, JavaScript and HTTP being the main contenders. It’s from the folks who create the Firefox web browser. Many of the links below are from MDN.
 
