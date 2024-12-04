@@ -21,7 +21,9 @@ Learning notes for particular topics.
 
 ## Online Resources
 
-Looking for learning materials? Check out [Courses and Resources](/resources).
+Looking for learning materials?
+
+Check out [Courses and Resources](/resources).
 
 ## Upcoming Class Notes
 
