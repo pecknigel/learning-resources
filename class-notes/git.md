@@ -96,3 +96,5 @@ For an added bonus, find the code for Git itself on GitHub:
 
 [GitHub - git/git: Git Source Code Mirror](https://github.com/git/git)    
 github.com/git/git
+
+{% include_relative _back.md %}

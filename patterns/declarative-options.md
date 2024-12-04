@@ -141,3 +141,5 @@ The basic idea is to separate processing details from processing logic where the
 - [Hash Config](/patterns/hash-config)
 
 Planned entries are listed but not linked.
+
+{% include_relative _back.md %}
