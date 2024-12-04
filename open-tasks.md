@@ -35,6 +35,8 @@ Object Basics.
 
 Values in JS.
 
+URLs
+
 ## Open Issues
 
 Check repos for open issues. There are various interesting tasks open to work on. Every repo has its issues linked from the learning initiatives page.
