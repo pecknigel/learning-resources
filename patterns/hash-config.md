@@ -66,7 +66,7 @@ function doSomething() {
 }
 ```
 
-**TS code needs checking and improving, just a rough start.**
+**TS code needs checking and improving, just a rough start. Not using key properly for types.**
 
 ```typescript
 // Class-Based TypeScript Example

@@ -2,7 +2,6 @@
 layout: default
 title: Declarative Case Sets
 permalink: /patterns/declarative-case-sets
-heading: Declarative Case Sets
 ---
 
 {% include_relative _back.md %}
@@ -11,7 +10,7 @@ heading: Declarative Case Sets
 
 # Declarative Case Sets
 
-This is a pattern to provide config information for data processing as keyed sets.
+This is a pattern to provide options for processing as keyed sets.
 
 A single processing interface is able to handle multiple distinct cases around the same options.
 
@@ -54,7 +53,7 @@ Don’t use this if the cases are not aligned and highly cohesive. Unless there 
 
 ```
 
-**TS code needs checking and likely wrong in places.**
+**TS code needs checking and improving, just a rough start.**
 
 ```typescript
 // Class-Based TypeScript Example
@@ -93,7 +92,10 @@ class CaseProcessing {
     }
     throw new Error(`Unrecognised CaseKey: ${key}`);
   }
-} 
+}
+
+CaseProcessing.processCase('example', data);
+CaseProcessing.processCase(‘example2’, data);
 ```
 
 ## Example Implementation
@@ -160,8 +162,7 @@ The basic idea is to separate processing details from processing logic where the
 
 ## Associated Patterns
 
+- [Declarative Options](/pattern/declarative-options)
 - [Hash Config](/patterns/hash-config)
-- Declarative Set Processing
-- Config Based Processing
 
 Planned entries are listed but not linked.
