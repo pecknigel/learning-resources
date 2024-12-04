@@ -25,7 +25,9 @@ Looking for learning materials? Check out [Courses and Resources](/resources).
 
 ## Upcoming Class Notes
 
-See [Open Tasks](/open-tasks) for planned class notes. Help out by working with Nigel to create material and research them. Learn along the way while benefiting from extra class time.
+See [Open Tasks](/open-tasks) for planned class notes.
+
+Help out by working with Nigel to research and create material. Learn along the way while benefiting from extra class time.
 
 ---
 
