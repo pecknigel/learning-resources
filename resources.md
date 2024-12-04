@@ -67,6 +67,10 @@ TypeScript Documentation
 Upgrade your JavaScript to leverage types.    
 [typescriptlang.org](https://www.typescriptlang.org/docs/)
 
+GitHub Skills    
+Learn how this important platform.    
+[skills.github.com](https://skills.github.com/)
+
 ## Deep Dives
 
 [Objects in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)    
