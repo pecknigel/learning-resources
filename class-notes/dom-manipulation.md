@@ -9,9 +9,9 @@ redirect_from:
 
 {% include_relative _back.md %}
 
-{% include page-status.html statusLevel="stable" %}
-
 You’re browsing our [Class Notes](/class-notes) collection. It features summaries of important topics for learning web development and software engineering along with quality links to learn more.
+
+{% include page-status.html statusLevel="stable" %}
 
 # DOM Manipulation
 

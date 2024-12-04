@@ -6,9 +6,9 @@ permalink: /patterns/declarative-case-sets
 
 {% include_relative _back.md %}
 
-{% include page-status.html statusLevel='working-draft' %}
-
 You’re browsing our [Software Pattern Library](/patterns) collection. It features useful patterns for writing software, to help with learning web development and software engineering.
+
+{% include page-status.html statusLevel=‘working-draft’ %}
 
 # Declarative Case Sets
 
