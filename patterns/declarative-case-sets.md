@@ -6,7 +6,7 @@ permalink: /patterns/declarative-case-sets
 
 {% include_relative _back.md %}
 
-You’re browsing our [Software Patterns](/patterns) collection. It features useful patterns for learning to write software.
+You’re reading our [Software Patterns](/patterns) collection. It features useful patterns for learning to write software.
 
 {% include page-status.html statusLevel='working-draft' %}
 

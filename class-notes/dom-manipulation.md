@@ -9,7 +9,7 @@ redirect_from:
 
 {% include_relative _back.md %}
 
-You’re browsing our [Class Notes](/class-notes) collection. It features summaries of important topics along with quality links to learn more.
+You’re reading our [Class Notes](/class-notes) collection. It features summaries of important topics along with quality links to learn more.
 
 {% include page-status.html statusLevel="stable" %}
 
