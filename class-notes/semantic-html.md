@@ -38,7 +38,7 @@ Reference:
 
 When Stack Overflow shines, it really sparkles :) Much appreciation to “Luke” for that awesome reference dug out from the long MDN page.
 
-## References
+## Where to Study This
 
 MDN Glossary: Semantics    
 [Semantics - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)

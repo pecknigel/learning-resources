@@ -13,6 +13,8 @@ redirect_from:
 
 # DOM Manipulation
 
+Topic list.
+
 - Querying
 - Creating
 - Appending
@@ -28,7 +30,7 @@ redirect_from:
 - Web Components
 - Frameworks
 
-## References
+## Where to Study This
 
 Introduction to the DOM    
 [Introduction to the DOM - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
