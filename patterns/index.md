@@ -33,11 +33,12 @@ These are patterns that are useful in day to engineering to get the job done in 
 - Config Based Processing
 - Drop-In Utility
 - App
-- Include
 - State
 - Option Bag
 - Chain
 - Render
+- Embed
+- Include
 
 Planned entries are listed but not linked.
 
