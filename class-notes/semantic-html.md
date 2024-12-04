@@ -12,7 +12,7 @@ permalink: /class-notes/semantic-html
 
 This is an important topic. Getting the [semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) of your HTML correct has many benefits. It means your HTML will leverage the way that the browser is designed to work and that when software attempts to understand your HTML it has a much better chance of doing so.
 
-It also means that if your HTML is viewed without CSS, it has a better chance of being usable. And it can be less CSS for you to write, since the element you use already has default styling fur the intent that you have for it.
+It also means that if your HTML is viewed without CSS, it has a better chance of being usable. And it can be less CSS for you to write, since the element you use already has default styling for the intent that you have for it.
 
 In other cases, it just makes sense. If you use an unordered list for what you want to be a paragraph, you’ll have to do more work to make it look how you want. Maybe even manipulating the DOM with JS.
 
