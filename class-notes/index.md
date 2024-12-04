@@ -14,6 +14,7 @@ Learning notes for particular topics.
 ## Browser Tech
 
 - [DOM Manipulation](/class-notes/dom-manipulation)
+- [Semantic HTML](/class-notes/semantic-html)
 
 ## Upcoming Class Notes
 

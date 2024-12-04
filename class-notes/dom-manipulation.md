@@ -7,7 +7,7 @@ redirect_from:
   - /dom-manipulation
 ---
 
-[<< Back to Class Notes](/class-notes)
+{% include_relative _back.md %}
 
 {% include page-status.html statusLevel="stable" %}
 

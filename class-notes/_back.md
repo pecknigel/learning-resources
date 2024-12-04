@@ -1,1 +1,1 @@
-[<< Back to Software Engineering Patterns](/patterns)
+[<< Back to Class Notes](/class-notes)
