@@ -173,7 +173,9 @@ try {
       destroyBelt('scrollTop', err);
     }
   };
-  const generateContentMenu = (menuId, menuElements, clickListener) => {
+  const generateContentMenu = (
+    menuId, menuElements, clickListener
+  ) => {
     try {
       const menu = document.createElement('menu');
       menu.id = menuId;
