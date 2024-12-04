@@ -17,6 +17,30 @@ Just starting out? Towards the end you’ll find three suggested projects that y
 
 The [MDN Web Docs](https://developer.mozilla.org/) site features comprehensive coverage of all front-end web technology. HTML, CSS, JavaScript and HTTP being the main contenders. It’s from the folks who create the Firefox web browser. Many of the links below are from MDN.
 
+## Class Notes
+
+Our very own “class notes” collection features summaries of important topics along with carefully chosen links to help you to study.
+
+They’re generally written in preparation for sessions with students and then shared here.
+
+There’s not a great deal of them yet but there’s enough to be useful and a lot more on the way.
+
+[Class Notes](/class-notes)    
+docs.prescriptionfree.academy/class-notes
+
+## Software Pattern Library
+
+We’re really excited about this resource. It’s the main focus of our content development at the moment.
+
+After starting as Markdown files on GitHub Pages it’s rapidly growing to become a substantial database. Or at least on its way to becoming that.
+
+The idea is to have a collection of building blocks for software that you can learn and use beyond the basic constructs. It’s how programming works anyway, but mostly we pick them up as we go along.
+
+The pattern library enables you to learn and use them directly rather than coming across them by chance or figuring them out due to need.
+
+[Software Engineering Patterns](/patterns)    
+docs.prescriptionfree.academy/patterns
+
 ## Getting Started
 
 [Getting Started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)    
