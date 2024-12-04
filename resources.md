@@ -86,6 +86,9 @@ developer.mozilla.org
 [How Browsers Work](https://web.dev/articles/howbrowserswork)    
 web.dev
 
+[The Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)    
+developer.mozilla.org
+
 ## CSS Deep Dives
 
 [Cascade, Specificity, and Inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)    
@@ -249,6 +252,26 @@ docs.strapi.io
 
 [Strapi Developer Docs](https://docs.strapi.io/dev-docs/intro)    
 docs.strapi.io
+
+## Create a Command Line Node.js Script
+
+Did you know that you can use Node.js to run JavaScript from the command line or terminal on your computer?
+
+You wouldn’t have access to any browser APIs, but Node.js comes with its whole own set of APIs for working with the operating system.
+
+Like file access, network access, running other programs, launching software. There’s all kinds of useful stuff that you can do.
+
+Add any library from Node’s massive and open package library - npm - and use it from the command line to do quick tasks, write complex scripts or even create full applications.
+
+[Node.js — Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)    
+nodejs.org
+
+[Node.js — How to install Node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)    
+nodejs.org
+
+
+
+Extras: [Node.js Documentation](https://nodejs.org/docs/latest/api/)
 
 ## Standards and Governance
 
