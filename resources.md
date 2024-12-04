@@ -231,7 +231,7 @@ docs.github.com
 
 Extras: [Embed HTML in Markdown](https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md) &#8226; [Embed Markdown in Jekyll HTML](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html#23384161)
 
-## Create a Content API
+## Create a Back-End API
 
 Interested in learning to create APIs? Strapi is a great system for getting in to that. You can do everything with their admin interface (no coding) or customise everything with code to get more advanced.
 
