@@ -20,16 +20,16 @@ async function fetchData(url, apiKey) {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
-      Authorization: `Bearer ${apiKey}`,
+      "Authorization": `Bearer ${apiKey}`,
     },
   });
+  const responseData = await response.json();
   if (!response.ok) {
-    const errorData = await response.json();
-    if (!(errorData.error.status && errorData.error.message)) {
-      console.error("Unrecognised error", errorData);
+    if (!(responseData.error.status && responseData.error.message)) {
+      console.error("Unrecognised error", responseData);
       throw new Error("Unrecognised error");
     }
-    return [`${errorData.error.status} - ${errorData.error.message}`, undefined];
+    return [`${responseData.error.status} - ${responseData.error.message}`, undefined];
   }
-  return [undefined, await response.json()];
+  return [undefined, responseData];
 }
