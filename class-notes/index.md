@@ -21,7 +21,7 @@ Learning notes for particular topics.
 
 ## Upcoming Class Notes
 
-See [Open Tasks](/open-tasks) for planned class notes.
+See [Open Tasks](/open-tasks) for planned class notes. Help out by working with Nigel to create material and research them. Learn along the way while benefiting from extra class time.
 
 ---
 
