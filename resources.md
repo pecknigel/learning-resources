@@ -94,7 +94,7 @@ developer.mozilla.org
 [How Browsers Work](https://web.dev/articles/howbrowserswork)    
 web.dev
 
-[Differences between Node.js and the Browser](https://nodejs.org/en/learn/getting-started/differences-between-nodejs-and-the-browser)    
+[Differences Between Node.js and the Browser](https://nodejs.org/en/learn/getting-started/differences-between-nodejs-and-the-browser)    
 nodejs.org
 
 [The Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)    
