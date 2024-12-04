@@ -27,7 +27,7 @@ Looking for learning materials? Check out [Courses and Resources](/resources).
 
 See [Open Tasks](/open-tasks) for planned class notes.
 
-Help out by working with Nigel to research and create material. Learn along the way while benefiting from extra class time.
+Help out by working with Nigel to research and create learning materials. Learn along the way while benefiting from extra class time.
 
 ---
 
