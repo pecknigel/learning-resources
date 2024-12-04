@@ -68,7 +68,7 @@ Upgrade your JavaScript to leverage types.
 [typescriptlang.org](https://www.typescriptlang.org/docs/)
 
 GitHub Skills    
-Learn how this important platform.    
+Learn all about this important platform.    
 [skills.github.com](https://skills.github.com/)
 
 ## Deep Dives
