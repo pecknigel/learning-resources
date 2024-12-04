@@ -22,6 +22,8 @@ Learning notes for particular topics.
 
 - [Git](/class-notes/git)
 
+--- 
+
 ## Online Resources
 
 Looking for learning materials? Check out [Courses and Resources](/resources).
