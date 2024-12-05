@@ -288,9 +288,9 @@ Or was it, move along? I’ve always preferred that one.
 
 Ahem.
 
-## Only The Persistent Survive
+## Persistence Furthers
 
-Or was it “the stubborn”? Probably it’s both.
+Or was it “stubbornness”? Probably it’s both.
 
 ...
 

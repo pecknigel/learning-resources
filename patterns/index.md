@@ -54,15 +54,18 @@ Planned entries are listed but not linked.
 
 These could also be called techniques but sit well as entry-level patterns. They’re the next steps for aspiring engineers after learning the basics. Along with building software of course, and these are building blocks for software.
 
+- Nested Condotion
+- Fall Through Case/Implied Case (return/condition)
+- Switch Case
+- Validation Return
+- Quiet Return
+- Chained Logic
+- IIFE
+- AsyncIIFE
 - Single Object Param
 - Class
 - Negation
-- Chained Logic
-- Fall Through Case/Implied Case (return/condition)
-- Validation Return
-- Quiet Return
 - Three-Step Routine (Initialise, Process, Finish)
-- Switch Case
 - Map
 - Filter
 - Reduce
