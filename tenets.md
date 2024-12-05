@@ -62,7 +62,11 @@ Pay attention to responsibilities.
 
 ## Test, Test, Test
 
-## Write Clean Code, Master Debugging, Eliminate Frustration
+## Write Clean Code
+
+## Master Debugging
+
+## Eliminate Frustration
 
 ## Delay Gratification
 
