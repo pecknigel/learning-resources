@@ -76,6 +76,14 @@ Root cause analysis and practical applications of the same.
 
 ## Delay Gratification
 
+## Take Small Wins
+
+Fixing one error and moving on to the next is a win.
+
+## Errors Are Your Friend
+
+Work with them. Don’t fight them. Court them. They’re helping you craft reliable software.
+
 ## Let Go!
 
 It’s not a useful approach to try and get it all right the first time. Your focus is needed elsewhere.
