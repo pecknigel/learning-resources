@@ -274,10 +274,6 @@ Talking about engineer to engineer. There’s no place for BS or power games or 
 
 Learn to breathe. Learn to let go. Practice compassion. Learn to laugh. Practice humour.
 
-## Laziness, Impatience and Hubris
-
-Thanks, Larry.
-
 ## Isn’t this just a load of old drivel?
 
 Yes! Very much so. It’s only for if it’s useful. If it engages you. If you get something from it. Otherwise, yes, it’s just a load of old drivel.
