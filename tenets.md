@@ -220,9 +220,9 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 A.k.a. Take care with everything that you do. If a job’s worth doing, it’s worth doing well. The devil is in the details. A job well done is its own reward.
 
-## RTFM
+## RT(F)M
 
-
+It used to be a thing. Now documentation is better and way more accessible and it’s just the done thing.
 
 ## Really Look
 
