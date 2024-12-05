@@ -52,6 +52,8 @@ It’s not just about writing code. That’s probably not even half of it.
 
 ## Jack of All Trades, Master of Most
 
+But keep it focused. Watch what you get in to. But know what it is that you’re not getting in to. If you get me.
+
 ## It’s All About the Experience
 
 For users, at least. It’s a different world. And one that you need to be intimately aware of if you’re designing interfaces and want to do it well.
