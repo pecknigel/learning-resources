@@ -66,6 +66,10 @@ Pay attention to responsibilities.
 
 ## Master Debugging
 
+## Go for the Root
+
+Root cause analysis and practical applications of the same.
+
 ## Eliminate Frustration
 
 ## Delay Gratification
@@ -77,6 +81,10 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 ## Breathe
 
 ## Step Away
+
+## Take a Minute
+
+When you sit down to a codebase after a break, or just whenever you need to. Don’t let the mind keep soldiering on.
 
 ## Not All of This is For You
 
@@ -98,11 +106,7 @@ There are three steps. Or at least, it can be a useful way to look at it. Here i
 
 ## Every Space (Character, Pixel) Matters!
 
-
-
 ## Manage Your Time Well
-
-
 
 ## There’s Nothing To Prove
 
@@ -120,11 +124,7 @@ And no sugar!
 
 ## Take Regular Breaks
 
-
-
 ## Start from Where You Are
-
-
 
 #% Rules Were Made For Bending
 
@@ -132,19 +132,11 @@ Breaking can also work.
 
 ## Sometimes Mistakes Are Worth Making
 
-
-
 ## Does It Really Matter?
-
-
 
 ## Stop and Look Around
 
-
-
 ## Observe Software
-
-
 
 ## Get to Know Your IDE
 
@@ -160,11 +152,7 @@ Know the standards processes. Join newsletters. Check in on the W3C. Contribute 
 
 ## Master Task Switching
 
-
-
 ## Don’t Repeat Yourself
-
-
 
 ## Broaden Your Horizons
 
@@ -172,47 +160,25 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 ## Deliver on Your Titles (Names)
 
-
-
 ## Pay Attention to Naming
-
-
 
 ## Master Data Structures
 
-
-
 ## Write Algorithms
-
-
 
 ## Render
 
-
-
 ## Consistency is Key
-
-
 
 ## Triangles Look Like Squares
 
-
-
 ## There’s More Than One Way To Do It
-
-
 
 ## It Depends
 
-
-
 ## Your Mileage May Vary
 
-
-
 ## Context is Everything
-
-
 
 ## Special by Default
 
@@ -224,27 +190,17 @@ It used to be a thing. Now documentation is better and way more accessible and i
 
 ## Really Look
 
-
-
 ## There’s No Need to Get Angry
 
 A note on managing one’s emotions and state of mind.
 
 ## Precision of Language
 
-
-
 ## It’s Different, It Matters
-
-
 
 ## I Have My Own Mind For That, Thank You
 
-
-
 ## Don’t You Have AI To Help You With That?
-
-
 
 ## Be Straight With One Another
 
