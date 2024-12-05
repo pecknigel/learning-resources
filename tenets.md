@@ -196,7 +196,9 @@ A.k.a. Take care with everything that you do. If a job’s worth doing, it’s w
 
 ## RT(F)M
 
-It used to be a thing. Now documentation is better and way more accessible and it’s just the done thing. Best to read it :) It’s actually fun in most cases (looking at you, my good friend Node.js, pheeeeoowee those docs - still well worth reading though).
+It used to be a thing. Now documentation is better and way more accessible and it’s just the done thing. Best to read it :) It’s actually fun in most cases.
+
+Looking at you, my good friend Node.js, pheeeeoowee those docs. Still well worth reading though. Awesome software.
 
 ## Really Look
 
