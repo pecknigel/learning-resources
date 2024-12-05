@@ -240,27 +240,7 @@ A note on managing one’s emotions and state of mind.
 
 
 
-## Wild Thing
-
-
-
 ## I Have My Own Mind For That, Thank You
-
-
-
-## Is He Just Writing Titles That He’ll Never Expand Upon?
-
-
-
-## Yes
-
-
-
-## Possibly
-
-
-
-## It’s Never Really Clear, Is It ?
 
 
 
