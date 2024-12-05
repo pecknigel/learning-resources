@@ -76,11 +76,7 @@ It’s not a useful approach to try and get it all right the first time. Your fo
 
 ## Breathe
 
-
-
 ## Step Away
-
-
 
 ## Not All of This is For You
 
@@ -96,11 +92,9 @@ Stick anything you see on a list or add a TODO comment.
 
 ## The Three Step Process
 
-
+There are three steps. Or at least, it can be a useful way to look at it. Here is where they shall be enumerated.
 
 ## Pay Attention to Formatting
-
-
 
 ## Every Space (Character, Pixel) Matters!
 
