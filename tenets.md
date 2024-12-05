@@ -60,7 +60,7 @@ For users, at least. It’s a different world. And one that you need to be intim
 
 ## Modules, Interfaces, Modular Design
 
-Pay attention to responsibilities.
+Pay attention to responsibilities. Pay attention to naming. Get good at it. Experiment with it. Take time with it. Then make sure it does what it says it does and that the interface is clean.
 
 ## Test, Test, Test
 
