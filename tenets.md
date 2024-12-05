@@ -178,6 +178,10 @@ Try different libraries and frameworks. Get to know what’s out there. An hour 
 
 ## Render
 
+## Learn to Study
+
+Not everyone knows how. Learn to enjoy it. Take your time. Skip around a bit as needed. All while maintaining focus to your investigations. Look for the common patterns. Look for how things relate and where they’re just different perspectives on the same thing (which is common). Especially spend time on the areas that cause you difficulty. Get as far forward as you can before seeking help (such as a session with me). Put what you’re studying in to practice. Try it different ways round. Break it and fix it. Whatever helps. Get to know how you learn.
+
 ## Consistency is Key
 
 ## Triangles Look Like Squares
