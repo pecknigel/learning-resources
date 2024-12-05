@@ -76,13 +76,13 @@ Root cause analysis and practical applications of the same.
 
 ## Delay Gratification
 
-## Take Small Wins
+## Celebrate Small Wins
 
-Fixing one error and moving on to the next is a win.
+Fixing one error and moving on to the next is a win. Making some progress but not actively solving an issue before it’s time to sign off is a win.
 
 ## Errors Are Your Friend
 
-Work with them. Don’t fight them. Court them. They’re helping you craft reliable software.
+Work with them. Don’t fight them. Court them. They’re helping you craft reliable software. They’re giving you feedback on how to make your code reliable.
 
 ## Let Go!
 
