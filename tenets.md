@@ -96,7 +96,7 @@ It’s worth mentioning twice.
 
 ## Do One Thing At a Time (and Do It Well)
 
-Stick anything you see on a list or add a TODO comment.
+Stick anything you see on a list or add a TODO comment. Stay with it. See it through. Focus.
 
 ## The Three Step Process
 
