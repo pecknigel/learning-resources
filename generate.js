@@ -4,19 +4,26 @@ import dotenv from 'dotenv';
 
 (async () => {
   dotenv.config();
-  const [error, data] = await fetchData(
-    process.env.LIBRARY_CMS_URL,
+  const patternData = await fetchPatterns();
+  const patternNames = patternData.data.map(el => el.title);
+  console.log('Pattern Names:', patternNames);
+})();
+
+async function fetchPatterns() {
+  const [error, patternsData] = await fetchData(
+    '/patterns',
     process.env.LIBRARY_CMS_API_KEY
   );
   if (error) {
     console.error('Failed to load data', error);
-    return;
+    throw new Error("Failed to load data");
   }
-  console.log('Data fetched successfully', data);
-})();
+  return patternsData;
+}
 
 async function fetchData(url, apiKey) {
-  const response = await fetch(url, {
+  console.log(`Fetching "${url}"`);
+  const response = await fetch(`${process.env.LIBRARY_CMS_URL}${url}`, {
     method: "GET",
     headers: {
       "Content-Type": "application/json",
@@ -29,7 +36,7 @@ async function fetchData(url, apiKey) {
       console.error("Unrecognised error", responseData);
       throw new Error("Unrecognised error");
     }
-    return [`${responseData.error.status} - ${responseData.error.message}`, undefined];
+    return [`${responseData.error.status} - ${responseData.error.message}`];
   }
   return [undefined, responseData];
 }

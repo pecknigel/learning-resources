@@ -77,6 +77,7 @@ These could also be called techniques but sit well as entry-level patterns. They
 - Verified Set
 - Try-Throw-Catch
 - Validation
+- Extract (values from collection)
 
 Planned entries are listed but not linked.
 
