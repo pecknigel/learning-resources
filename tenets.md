@@ -158,7 +158,7 @@ Use it for documentation as well as code. Contribute to open source projects. Le
 
 ## Get Involved
 
-Know the standards processes. Join newsletters. Check in on the W3C. Contribute to discussions.
+Join newsletters. Join mailing lists. Ask questions. Contribute to discussions. Know the standards processes. Check in on the W3C and friends.
 
 ## Master Task Switching
 
