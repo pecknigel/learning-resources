@@ -54,7 +54,6 @@ Planned entries are listed but not linked.
 
 These could also be called techniques but sit well as entry-level patterns. They’re the next steps for aspiring engineers after learning the basics. Along with building software of course, and these are building blocks for software.
 
-- Varied Function
 - Single Object Param
 - Class
 - Negation
