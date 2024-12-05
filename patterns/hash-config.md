@@ -161,9 +161,8 @@ This enables centralising options so they are decoupled from the logic and can b
 
 ## Associated Patterns
 
+- [Declarative Options](/patterns/declarative-options)
 - [Declarative Case Sets](/patterns/declarative-case-sets)
-- Declarative Set Processing
-- Config Based Processing
 
 Planned entries are listed but not linked.
 
