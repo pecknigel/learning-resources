@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=4' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=5' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <link rel="stylesheet" href="/assets/style.css?v=4">
     <script src="/assets/utility-belt.js?v=3" defer></script>
@@ -14,7 +14,10 @@
       <header>
         <div class="heading">
           <div>
-            {{ site.title }}{% if page.site_section %}: {{ page.site_section }}{% endif %}
+            {{ site.title }}
+            {% if page.site_section %}: 
+              {{ page.site_section }}
+            {% endif %}
           </div>
           {% if page.heading %}
           <div>{{ page.heading }}</div>
