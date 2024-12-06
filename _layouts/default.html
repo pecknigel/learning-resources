@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=4' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <link rel="stylesheet" href="/assets/style.css?v=4">
     <script src="/assets/utility-belt.js?v=3" defer></script>
@@ -28,9 +28,11 @@
         <p>Learning resources from the <a href="https://prescriptionfree.academy/">Prescription Free Academy</a> of Web Development and Software Engineering.</p>
         <p>"Master software engineering for the web with teaching and mentoring available seven days."</p>
         <nav>
-             {% for item in site.data.nav.links %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
+        {% for item in site.data.nav.links %}
+          <li><a href="{{ item.url }}">
+            {{ item.title }}
+          </a></li>
+        {% endfor %}
         </nav>
       </header>
       <section>
