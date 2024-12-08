@@ -283,7 +283,7 @@ docs.github.com
 [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)    
 docs.github.com
 
-Extras: [Embed HTML in Markdown](https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md) &#8226; [Embed Markdown in Jekyll HTML](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html#23384161)
+Extras: [Embed HTML in Markdown](https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md) &#8226; [Embed Markdown in Jekyll HTML](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html#23384161) &#8226; [View Build Logs](https://dev.to/github/visualize-github-pages-build-logs-1mc1)
 
 ## Create a Strapi Back-End API
 
