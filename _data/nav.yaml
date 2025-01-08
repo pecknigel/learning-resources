@@ -12,17 +12,17 @@ links:
 - title: Courses and Resources
   url: /resources
 
-- title: Cognate Learning
-  url: /cognate-learning
+# - title: Cognate Learning
+#   url: /cognate-learning
 
-- title: Tenets for Engineers
-  url: /tenets
+# - title: Tenets for Engineers
+#   url: /tenets
 
-- title: Educator Portal
-  url: /for-educators
+# - title: Educator Portal
+#   url: /for-educators
 
-- title: About this Portal
-  url: /about
+# - title: About this Portal
+#   url: /about
 
-- title: Open Tasks
-  url: /open-tasks
+# - title: Open Tasks
+#   url: /open-tasks

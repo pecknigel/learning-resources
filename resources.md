@@ -280,10 +280,15 @@ docs.github.com
 [Setting up a GitHub Pages Site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)    
 docs.github.com
 
+[Adding a Theme to your GitHub Pages Site Using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)    
+docs.github.com
+
 [About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)    
 docs.github.com
 
 Extras: [Embed HTML in Markdown](https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md) &#8226; [Embed Markdown in Jekyll HTML](https://stackoverflow.com/questions/15917463/embedding-markdown-in-jekyll-html#23384161) &#8226; [View Build Logs](https://dev.to/github/visualize-github-pages-build-logs-1mc1)
+
+Docs: [Jekyll](https://jekyllrb.com/) &#8226; [GitHub Pages](https://docs.github.com/en/pages)
 
 ## Create a Strapi Back-End API
 

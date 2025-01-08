@@ -1,6 +1,10 @@
     nav {
       padding-bottom: 20px;
     }
+    nav li:nth-child(1),
+    nav li:nth-child(4) {
+      margin-bottom: 15px;
+    }
     a:hover, a:active {
       font-weight: normal;
     }
