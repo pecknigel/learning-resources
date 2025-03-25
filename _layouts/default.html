@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
+    <base href="/learning-resources/" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=6' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <link rel="stylesheet" href="./assets/style.css?v=4">
-    <script src="./assets/utility-belt.js?v=3" defer></script>
+    <link rel="stylesheet" href="/assets/style.css?v=4">
+    <script src="/assets/utility-belt.js?v=3" defer></script>
   </head>
   <body>
     <div class="wrapper">
@@ -28,8 +29,8 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        <p>Learning resources from the <a href="https://prescriptionfree.academy/">Prescription Free Academy</a> of Web Development and Software Engineering.</p>
-        <p>"Master software engineering for the web with teaching and mentoring available seven days."</p>
+        <p>Learning resources from <a href="https://prescriptionfree.academy/">Nigel Peck</a>, a teacher and mentor of web development and JavaScript software engineering.</p>
+        <p>"Master software engineering for the web with teaching and mentoring available Monday to Saturday."</p>
         <nav>
         {% for item in site.data.nav.links %}
           <li><a href="{{ item.url }}">
@@ -41,9 +42,9 @@
       <section>
       {{ content }}
       <div id="utilityBelt">
-<button id="btnHome"><img src="./assets/library-line-svgrepo-com.svg" alt="Home"></button>
-<button id="btnDynamicToc"><img src="./assets/menu-alt-2-svgrepo-com.svg" alt="TOC"></button>
-<button id="btnTop"  class="collapsible"><img src="./assets/up-arrow-svgrepo-com-outline.svg" alt="To Top"></button>
+<button id="btnHome"><img src="/assets/library-line-svgrepo-com.svg" alt="Home"></button>
+<button id="btnDynamicToc"><img src="/assets/menu-alt-2-svgrepo-com.svg" alt="TOC"></button>
+<button id="btnTop"  class="collapsible"><img src="/assets/up-arrow-svgrepo-com-outline.svg" alt="To Top"></button>
         <div id="dynamicToc">
           <nav id="menuNav">
 <li class="intro">Wander the halls! It's a young site but growing steadily.</li>
@@ -65,7 +66,7 @@
       </div>
     </section>
     <footer>
-      &copy; Prescription Free Academy 2024; Operated with Jekyll and GitHub Pages; <a href="https://github.com/Prescription-Free-Academy/Prescription-Free-Academy.github.io">Git Repo</a>; <a href="https://github.com/Prescription-Free-Academy">GitHub Org</a>
+      &copy; Nigel Peck 2024, 2025; Operated with Jekyll and GitHub Pages
     </footer>
   </div>
   </body>
