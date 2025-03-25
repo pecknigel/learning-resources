@@ -11,7 +11,7 @@ It’s all freely available. Taking classes/sessions with Nigel isn’t required
 
 Consider this the entranceway. It features  a live view of the learning initiatives that are underway (follow the links to commits to see the action in detail).
 
-There’s something for everyone. All levels of learners are catered for. Take a look around and [book a session](https://prescriptionfree.academy/) when you’re ready to get started.
+There’s something for everyone. All levels of learners are catered for. Take a look around and [book a session](https://preply.com/en/tutor/4217857) when you’re ready to get started.
 
 Our Educator in Chief (Nigel) serves as head librarian and maintains this site by hand using Markdown, Jekyll and GitHub Pages. While editing the files using Working Copy (an iOS Git client), a little WebStorm and occasionally the GitHub website.
 
@@ -19,7 +19,7 @@ Our Educator in Chief (Nigel) serves as head librarian and maintains this site b
 
 # Learning Initiatives
 
-This page features all of the available learning initiatives from [Prescription Free Academy](https://prescriptionfree.academy/).
+This page features all of the available learning initiatives from [Nigel Peck](https://preply.com/en/tutor/4217857).
 
 - [Practice Projects](#practice-projects)
 - [Learning Projects](#learning-projects)
