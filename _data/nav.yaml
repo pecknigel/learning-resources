@@ -1,16 +1,16 @@
 links:
 
 - title: Entranceway (Learning Initiatives)
-  url: /
+  url: ./
 
 - title: Softwate Engineering Patterns
-  url: /patterns
+  url: ./patterns
  
 - title: Class Notes
-  url: /class-notes
+  url: ./class-notes
 
 - title: Courses and Resources
-  url: /resources
+  url: ./resources
 
 # - title: Cognate Learning
 #   url: /cognate-learning
