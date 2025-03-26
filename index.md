@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Academy Library
+title: Learning Initiatives
 permalink: /
 heading: Learning Initiatives
 ---
