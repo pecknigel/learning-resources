@@ -125,10 +125,10 @@ Get involved in our open source projects. Very limited guidance here. Find your 
 • [Commits](https://github.com/pecknigel/open-exchange-data/commits/main/)
 
 **Open Exchange Website Widget**    
-[README](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/blob/main/README.md)
-• [Files](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
-• [Issues](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/issues)
-• [Commits](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/commits/main/)
+[README](https://github.com/pecknigel/open-exchange-website-widget/blob/main/README.md)
+• [Files](https://github.com/pecknigel/open-exchange-website-widget)
+• [Issues](https://github.com/pecknigel/open-exchange-website-widget/issues)
+• [Commits](https://github.com/pecknigel/open-exchange-website-widget/commits/main/)
 
 Some are part of larger collaborative programs but can be undertaken in isolation. Book a session with Nigel for help getting started if this initiative seems interesting but you don’t know where to start.
 
@@ -188,10 +188,10 @@ Below are current implementations. All just getting started (November, 2024). A 
 • [Commits](https://github.com/pecknigel/open-exchange-data/commits/main/)
 
 **Open Exchange Website Widget**    
-[README](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/blob/main/README.md)
-• [Files](https://github.com/Prescription-Free-Academy/open-exchange-website-widget)
-• [Issues](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/issues)
-• [Commits](https://github.com/Prescription-Free-Academy/open-exchange-website-widget/commits/main/)
+[README](https://github.com/pecknigel/open-exchange-website-widget/blob/main/README.md)
+• [Files](https://github.com/pecknigel/open-exchange-website-widget)
+• [Issues](https://github.com/pecknigel/open-exchange-website-widget/issues)
+• [Commits](https://github.com/pecknigel/open-exchange-website-widget/commits/main/)
 
 Late November, 2024 - This program is gaining momentum with students and our engineering lead actively working on development.
 
