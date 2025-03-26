@@ -22,7 +22,7 @@ This is an original collection of patterns that can be used to engineer software
 
 Not all may be formally recognisable as patterns. They’re useful approaches to achieving goals with software. There is crossover and duplication between patterns where it is useful to lay them out in that way.
 
-It’s an original collection in the sense that they have been collected, organised and named creatively and as seems appropriate and useful for cognition and learning. They are not written or organised with any extant system in mind.
+It’s an original collection in the sense that they have been collected, organised and named creatively and as seems appropriate and useful for cognition and learning. They are not written or organised with any other existing system in mind.
 
 References and collaborators are cited. Any resemblance to unreferenced work will happily be considered for adding as a reference.
 

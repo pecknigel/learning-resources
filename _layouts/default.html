@@ -15,7 +15,7 @@
         <div class="heading">
           <div>
             {{ site.title }}
-            {% if page.site_section %}: 
+            {% if page.site_section %}:
               {{ page.site_section }}
             {% endif %}
           </div>
@@ -28,7 +28,7 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        <p>Learning resources from <a href="https://preply.com/en/tutor/4217857">Nigel Peck</a>, a teacher and mentor of web development and JavaScript software engineering.</p>
+        <p>A library of learning resources from <a href="https://preply.com/en/tutor/4217857">Nigel Peck</a>, a teacher and mentor of web development and JavaScript software engineering.</p>
         <p>"Master software engineering for the web with teaching and mentoring available Monday to Saturday."</p>
         <nav>
         {% for item in site.data.nav.links %}
