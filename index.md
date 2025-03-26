@@ -5,7 +5,7 @@ permalink: /
 heading: Learning Initiatives
 ---
 
-This site features resources to support your learning and involvement with Nigel Peck.
+Welcome to the library. Here you’ll find resources to support your learning and day to day software engineering.
 
 It’s all freely available. Taking classes/sessions with Nigel isn’t required. It’s offered for your learning and growth. Any feedback is greatly appreciated.
 
