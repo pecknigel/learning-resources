@@ -25,7 +25,6 @@ This page features all of the available learning initiatives from [Nigel Peck](h
 - [Learning Projects](#learning-projects)
 - [Tasks for Coding Practice](#tasks-for-coding-practice)
 - [Open Source Projects](#open-source-projects)
-- [Contribute to the School](#contribute-to-the-school)
 - [Collaborative Learning Programs](#collaborative-learning-programs)
 - [Trading Exchange Engineering Program](#trading-exchange-engineering-program)
 - [Web Framework Engineering Program](#framework-engineering-collaborative-learning)
