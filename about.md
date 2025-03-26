@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About the Academy Library
+title: About the Library
 permalink: /about
 heading: About
 ---

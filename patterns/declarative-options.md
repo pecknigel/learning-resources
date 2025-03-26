@@ -85,21 +85,21 @@ If you make use of this pattern, please consider adding an attribution to your c
 Here are some suggestions...
 
 ```javascript
-// https://docs.prescriptionfree.academy/patterns/declarative-options
+// https://library.peckn.net/patterns/declarative-options
 ```
 
 ```javascript
 // Based on the "Declarative Options" Pattern:
-// https://docs.prescriptionfree.academy/patterns/declarative-options
+// https://library.peckn.net/patterns/declarative-options
 ```
 
 ```javascript
 /*
  * ###############################################################
  *   An implementation of the "Declarative Options" pattern from
- * the Prescription Free Academy's Software Pattern Library
+ *                  the Software Pattern Library
  * ###############################################################
-   https://docs.prescriptionfree.academy/patterns/declarative-options
+   https://library.peckn.net/patterns/declarative-options
  * ###############################################################
  */
 ```

@@ -113,21 +113,21 @@ If you make use of this pattern, please consider adding an attribution to your c
 Here are some suggestions...
 
 ```javascript
-// https://docs.prescriptionfree.academy/patterns/hash-config
+// https://library.peckn.net/patterns/hash-config
 ```
 
 ```javascript
 // Based on the "Hash Config" Pattern:
-// https://docs.prescriptionfree.academy/patterns/hash-config
+// https://library.peckn.net/patterns/hash-config
 ```
 
 ```javascript
 /*
  * ########################################################
- *   An implementation of the "Hash Config" pattern from
- * the Prescription Free Academy's Software Pattern Library
+ *   An implementation of the "Declarative Options" pattern from
+ *                  the Software Pattern Library
  * ########################################################
-   https://docs.prescriptionfree.academy/patterns/hash-config
+   https://library.peckn.net/patterns/hash-config
  * ########################################################
  */
 ```

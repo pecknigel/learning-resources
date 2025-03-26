@@ -28,7 +28,7 @@ They’re generally written in preparation for sessions with students and then s
 There’s not a great deal of them yet but there are enough to be useful and a lot more on the way.
 
 [Class Notes](/class-notes)    
-docs.prescriptionfree.academy/class-notes
+library.peckn.net/class-notes
 
 ## Software Pattern Library
 
@@ -43,7 +43,7 @@ The pattern library enables you to learn and use them directly rather than comin
 These are not rules. They’re ideas. To build on, work with, learn from, combine and to make your own.
 
 [Software Engineering Patterns](/patterns)    
-docs.prescriptionfree.academy/patterns
+library.peckn.net/patterns
 
 ## Getting Started
 

@@ -66,7 +66,7 @@ function destroyBelt(caller, err) {
 * client) so it's formatted to around 54 characters.
 *
 * ~
-* Nigel Peck prescriptionfree.academy Nov. 2024
+* Nigel Peck Nov. 2024
 */
 try {
   const utilityBelt = document
