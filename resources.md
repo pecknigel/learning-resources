@@ -224,6 +224,15 @@ Codility
 CSS Challenges    
 [wikiversity.org](https://en.m.wikiversity.org/wiki/Web_Design/CSS_challenges)
 
+## Practice Projects
+
+We have a selection of practice projects to help you get started. You can find them on the [homepage](/). Alternatively, the sites below offer many more options.
+
+Frontend Mentor    
+[frontendmentor.io](https://www.frontendmentor.io/challenges)
+
+This is a new section added January 5, 2026. More options will be added soon.
+
 ## Tools and Utilities
 
 [WebStorm: The JavaScript and TypeScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)    
