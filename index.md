@@ -43,6 +43,12 @@ Gain experience creating real applications using web technologies. A great way t
 • [Issues](https://github.com/pecknigel/calculator-practice-project/issues)
 • [Commits](https://github.com/pecknigel/calculator-practice-project/commits/main/)
 
+**Access Panel Practice Project**    
+[README](https://github.com/pecknigel/access-panel-practice-project/blob/main/README.md)
+• [Files](https://github.com/pecknigel/access-panel-practice-project)
+• [Issues](https://github.com/pecknigel/access-panel-practice-project/issues)
+• [Commits](https://github.com/pecknigel/access-panel-practice-project/commits/main/)
+
 **Exchange Tickers Practice Project**    
 [README](https://github.com/pecknigel/exchange-tickers-practice-project/blob/main/README.md)
 • [Files](https://github.com/pecknigel/exchange-tickers-practice-project)
