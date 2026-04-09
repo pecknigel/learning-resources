@@ -49,6 +49,12 @@ Gain experience creating real applications using web technologies. A great way t
 • [Issues](https://github.com/pecknigel/access-panel-practice-project/issues)
 • [Commits](https://github.com/pecknigel/access-panel-practice-project/commits/main/)
 
+**Walkie-Talkie Practice Project**    
+[README](https://github.com/pecknigel/walkie-talkie-practice-project/blob/main/README.md)
+• [Files](https://github.com/pecknigel/walkie-talkie-practice-project)
+• [Issues](https://github.com/pecknigel/walkie-talkie-practice-project/issues)
+• [Commits](https://github.com/pecknigel/walkie-talkie-practice-project/commits/main/)
+
 **Exchange Tickers Practice Project**    
 [README](https://github.com/pecknigel/exchange-tickers-practice-project/blob/main/README.md)
 • [Files](https://github.com/pecknigel/exchange-tickers-practice-project)
