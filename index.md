@@ -15,6 +15,8 @@ There’s something for everyone. All levels of learners are catered for. Take a
 
 Nigel serves as head librarian and maintains this site by hand using Markdown, Jekyll and GitHub Pages. While editing the files using Working Copy (an iOS Git client), a little WebStorm and occasionally the GitHub website.
 
+If you'd like to know how to do that yourself and set up a GitHub pages website, check out the links on [Courses and Resources](/resources#create-a-github-pages-website).
+
 ---
 
 # Learning Initiatives
